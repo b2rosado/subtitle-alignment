@@ -3,5 +3,5 @@
 *.class
 
 # project output folders
-results/*
-sentences/*
+results/*.txt
+sentences/*.txt
