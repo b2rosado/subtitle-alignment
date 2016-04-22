@@ -1,6 +1,9 @@
 package ist.alignerzilla.domain;
 
-
+/**
+ * A Match is composed by two sentence groups – source and target – that match.<br>
+ * It corresponds to an alignment. The output of the aligner is a list of Matches.
+ * */
 public class Match {
 	private SentenceGroup sourceSentences = new SentenceGroup();
 	private SentenceGroup targetSentences = new SentenceGroup();
@@ -89,6 +92,4 @@ public class Match {
 	public String toString() {
 		return String.format("%-85s --- %s", sourceSentences.toString(), targetSentences.toString());
 	}
-
-
 }

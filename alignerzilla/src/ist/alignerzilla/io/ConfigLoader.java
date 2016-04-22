@@ -5,6 +5,9 @@ import java.io.FileNotFoundException;
 import java.nio.charset.StandardCharsets;
 import java.util.Scanner;
 
+/**
+ * Class used to load the configurations present in <b>alignerzilla.config</b>
+ */
 public class ConfigLoader {
 	private final String filepath = "alignerzilla.config";
 	private boolean TIME_ONLY = false; 

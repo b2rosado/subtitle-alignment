@@ -8,6 +8,11 @@ import ist.alignerzilla.domain.SubtitlePair;
 import ist.alignerzilla.io.ConfigLoader;
 import ist.alignerzilla.io.SubtitleReader;
 
+/**
+ * Alternative main class for Alignerzilla.<br>
+ * Running this class will print all the sentences from the subtitles present in <b>list.txt</b> file.<br>
+ * Will store them in <b>sentences/</b> directory.
+ * */
 public class SubtitlePrinter {
 	public static void main(String[] args){
 		ConfigLoader config = new ConfigLoader();

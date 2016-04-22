@@ -1,5 +1,10 @@
 package ist.alignerzilla.domain;
 
+/**
+ * Represents each sentence that composes a subtitle file.<br>
+ * Besides the text that forms a sentence, contains the identifier from the subtitle screen it belongs, as well as start and end times.<br>
+ * This is the smallest element in the domain.
+ */
 public class Sentence {
 	private double startTime;
 	private double endTime;
@@ -58,7 +63,6 @@ public class Sentence {
 	
 	@Override
 	public String toString() {
-		//return String.format("%.2f --> %.2f | %s\n", startTime, endTime, text.replaceAll(">>\\s*\\.*", " "));
 		return text.replaceAll(">>\\s*\\.*", " ");
 	}
 }

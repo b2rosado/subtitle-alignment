@@ -9,6 +9,12 @@ import java.io.FileNotFoundException;
 import java.io.PrintWriter;
 import java.io.UnsupportedEncodingException;
 
+/**
+ * Main class for Alignerzilla.<br>
+ * Running this class will align all the subtitles present in <b>list.txt</b> file.<br>
+ * Will use the configurations specified in <b>alignerzilla.config</b>.<br>
+ * Will store them in <b>results/</b> directory.
+ * */
 public class Alignerzilla {
 	public static void main(String[] args){
 		ConfigLoader config = new ConfigLoader();

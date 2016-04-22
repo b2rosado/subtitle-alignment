@@ -5,6 +5,10 @@ import ist.alignerzilla.utils.SentenceSplitter;
 import java.util.ArrayList;
 import java.util.TreeMap;
 
+/**
+ * Represents each subtitle file.<br>
+ * It is composed by all the sentences that form the subtitle.
+ * */
 public class Subtitle {
 	private TreeMap<Double, Sentence> sentences = new TreeMap<Double, Sentence>(); // KEY = startTime with 0.25 precision
 	private SentenceSplitter spliter;

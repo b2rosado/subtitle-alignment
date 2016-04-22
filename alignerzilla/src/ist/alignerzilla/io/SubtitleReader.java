@@ -15,9 +15,9 @@ public class SubtitleReader {
 	private int index = 0;
 	private String specialPunctuationCases;
 
-	/*
-	 * Instantiates a Subtitle Reader
-	 * Reads "list.txt" file, that contains the names of the subtitles to align
+	/**
+	 * Instantiates a Subtitle Reader<br>
+	 * Reads "list.txt" file, that contains the names of the subtitles to align.
 	 * */
 	public SubtitleReader(String spc){
 		this.specialPunctuationCases = spc;
@@ -110,11 +110,16 @@ public class SubtitleReader {
 		return Integer.parseInt(token[0])*3600 + Integer.parseInt(token[1])*60 + Double.parseDouble(token[2]);
 	}
 
-	/*
-	 * Checks if subtitle names make a pair:
-	 * e.g. "abeautifulMind-EN.srt", "abeautifulMind-PT.srt" = TRUE
+	/**
+	 * Checks if subtitle names make a pair:<br>
+	 * Example:<br>
+	 * 		"abeautifulMind-EN.srt", "abeautifulMind-PT.srt" = TRUE<br>
 	 * 		"abeautifulMind-EN.srt", "americanBeauty-PT.srt" = FALSE
-	 * */
+	 * @param	sub1 	the first subtitle filename
+	 * @param	sub2 	the second subtitle filename
+	 * @return	true if <b>sub1</b> movie name equals <b>sub2</b> movie name.
+	 * 			false otherwise.
+	 */
 	private boolean isSubtitlePair(String sub1, String sub2){		
 		if(sub1 == null || sub2 == null)
 			return false;

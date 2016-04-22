@@ -43,7 +43,6 @@ public class SentenceComparator {
 		//Weighted average between last two metrics - less is better
 		double distance = LAMBDA*Math.pow(wordMatchDistance,2)+(1-LAMBDA)*wordCountDistance;
 		
-		//System.out.printf("\t"+t.getSentenceNumber()+" %-100s : WMatchDist=%.2f e WCountDist=%.2f , Dist=%.2f\n",t, wordMatchDistance, wordCountDistance, distance); //TODO debug print
 		return distance;
 	}
 	

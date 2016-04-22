@@ -31,7 +31,10 @@ public class Aligner {
 		this.DICTIONARY_FILE = config.getDictionaryFile();
 		this.PRINT_CONFIDENCE = config.printConfidence();
 	}
-
+	/**
+	 * Iterates all the sentences present in <b>source subtitle</b><br>
+	 * and try to match them with sentences in <b>target subtitle</b>. 
+	 */
 	public void align() {
 		for(int i=0; i<source.getNumSentences(); i++){
 			Sentence s = source.getSentenceByIndex(i);
@@ -45,7 +48,9 @@ public class Aligner {
 			alignments.add(m);
 		}
 	}
-
+	/**
+	 *	Time based aligner 
+	 */
 	private Match findMatchUsingTime(Match m) {
 		final String DEBUG_STRING = "%$$&";
 		m.addTargetSentence(target.getSentenceByTime(m.getSourceStart()));
@@ -86,6 +91,9 @@ public class Aligner {
 		return m.getSourceDuration() - m.getTargetDuration() > TIME_THRESHOLD;
 	}
 	
+	/**
+	 *	Similarity based aligner 
+	 */
 	private Match findMatchUsingSimilarity(Match m) {		
 		SentenceComparator sc = new SentenceComparator(USE_DICTIONARY, DICTIONARY_FILE);
 		
@@ -131,7 +139,6 @@ public class Aligner {
 		String str = new String();
 		for(Match a : alignments)
 			str += a.toString() + (PRINT_CONFIDENCE ? " --- "+a.getConfidence()+"%": "") + "\n";
-		//str += String.format("\n\nBy Similarity: %d out of %d : %.02f%%\n", bySimilarityCount, alignments.size(), 100*bySimilarityCount/(double)alignments.size());
 		return str;
 	}
 }

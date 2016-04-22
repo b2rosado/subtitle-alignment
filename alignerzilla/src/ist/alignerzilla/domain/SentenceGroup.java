@@ -2,6 +2,11 @@ package ist.alignerzilla.domain;
 
 import java.util.ArrayList;
 
+/**
+ * A sentence group is an aggregate of zero ou more sentences.<br>
+ * As the same dialog in a movie can be written using a different number of sentences,<br>
+ * there is the need of grouping sentences in order	to align them correctly – important for N:M alignments.
+ */
 public class SentenceGroup extends ArrayList<Sentence>{
 	private static final long serialVersionUID = 921156608290771803L;
 
@@ -41,5 +46,4 @@ public class SentenceGroup extends ArrayList<Sentence>{
 			str += s+" ";
 		return str.replaceAll("\\s+", " ").replaceAll("\\s+$", "");
 	}
-
 }

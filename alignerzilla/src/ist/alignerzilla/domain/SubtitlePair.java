@@ -1,5 +1,12 @@
 package ist.alignerzilla.domain;
 
+/**
+ * Represents the subtitle pair to align.<br>
+ * It is composed by two subtitle files – source and target.<br>
+ * To produce correct alignments it is expected that the two subtitles are from the same movie.<br>
+ * In order to obtain translations as the output, the subtitles must be of different languages.<br>
+ * To obtain paraphrases and synonyms, the subtitle pair must be of the same language.
+ */
 public class SubtitlePair{
 	private String sourceName;
 	private String targetName;
@@ -21,6 +28,7 @@ public class SubtitlePair{
 		source = s;
 		target = t;
 	}
+	
 	public boolean isValid() {
 		return source != null && target != null;
 	}
