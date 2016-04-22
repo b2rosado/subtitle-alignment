@@ -1,0 +1,8432 @@
+﻿1
+00:01:04,773 --> 00:01:07,608
+OLD BILBO:
+My dear Frodo:
+
+2
+00:01:13,156 --> 00:01:14,615
+You asked me once...
+
+3
+00:01:14,783 --> 00:01:19,495
+...if I had told you everything
+there was to know about my adventures.
+
+4
+00:01:19,662 --> 00:01:23,415
+And while I can honestly say
+I have told you the truth...
+
+5
+00:01:24,667 --> 00:01:26,919
+...I may not have told you all of it.
+
+6
+00:01:34,969 --> 00:01:37,012
+I am old now, Frodo.
+
+7
+00:01:38,515 --> 00:01:41,266
+I'm not the same Hobbit I once was.
+
+8
+00:01:44,562 --> 00:01:49,066
+I think it is time for you to know...
+
+9
+00:01:49,234 --> 00:01:51,902
+...what really happened.
+
+10
+00:01:53,446 --> 00:01:56,865
+lt began long ago...
+
+11
+00:01:57,992 --> 00:02:01,161
+...in a land far away to the east...
+
+12
+00:02:01,329 --> 00:02:06,333
+...the like of which you will not find
+in the world today.
+
+13
+00:02:16,344 --> 00:02:18,887
+There was the city of Dale.
+
+14
+00:02:19,055 --> 00:02:21,473
+Its markets known far and wide.
+
+15
+00:02:21,641 --> 00:02:24,977
+Full of the bounties of vine and vale.
+
+16
+00:02:25,145 --> 00:02:28,647
+Peaceful and prosperous.
+
+17
+00:02:31,025 --> 00:02:36,780
+For this city lay before the doors
+of the greatest kingdom in Middle-earth:
+
+18
+00:02:37,448 --> 00:02:38,532
+Erebor.
+
+19
+00:02:39,826 --> 00:02:44,037
+Stronghold of Thror,
+King Under the Mountain.
+
+20
+00:02:44,205 --> 00:02:46,999
+Mightiest of the Dwarf Lords.
+
+21
+00:02:48,084 --> 00:02:50,794
+Thror ruled with utter surety...
+
+22
+00:02:50,962 --> 00:02:53,422
+...never doubting his house would endure...
+
+23
+00:02:53,590 --> 00:02:57,634
+...for his line lay secure
+in the lives of his son...
+
+24
+00:02:57,802 --> 00:02:59,678
+...and grandson.
+
+25
+00:03:00,805 --> 00:03:04,099
+Ah, Frodo. Erebor.
+
+26
+00:03:04,267 --> 00:03:06,560
+Built deep within the mountain itself...
+
+27
+00:03:06,728 --> 00:03:10,397
+...the beauty of this fortress city was legend.
+
+28
+00:03:10,565 --> 00:03:12,983
+Its wealth lay in the earth...
+
+29
+00:03:13,359 --> 00:03:15,944
+...in precious gems hewn from rock...
+
+30
+00:03:16,112 --> 00:03:18,405
+...and in great seams of gold...
+
+31
+00:03:18,573 --> 00:03:21,700
+...running like rivers through stone.
+
+32
+00:03:24,329 --> 00:03:27,748
+The skill of the Dwarves was unequaled...
+
+33
+00:03:27,916 --> 00:03:31,084
+...fashioning objects of great beauty...
+
+34
+00:03:31,252 --> 00:03:35,505
+...out of diamond, emerald,
+ruby and sapphire.
+
+35
+00:03:36,299 --> 00:03:40,093
+Ever they delved deeper,
+down into the dark.
+
+36
+00:03:40,845 --> 00:03:43,347
+And that is where they found it.
+
+37
+00:03:49,729 --> 00:03:51,730
+The Heart of the Mountain.
+
+38
+00:03:53,650 --> 00:03:55,651
+The Arkenstone.
+
+39
+00:03:56,486 --> 00:03:59,321
+Thror named it "The King's Jewel."
+
+40
+00:03:59,489 --> 00:04:04,326
+He took it as a sign,
+a sign that his right to rule was divine.
+
+41
+00:04:04,702 --> 00:04:07,079
+All would pay homage to him.
+
+42
+00:04:07,247 --> 00:04:11,667
+Even the great Elven King, Thranduil.
+
+43
+00:04:12,752 --> 00:04:16,880
+But the years of peace and plenty
+were not to last.
+
+44
+00:04:17,799 --> 00:04:21,093
+Slowly the days turned sour...
+
+45
+00:04:21,469 --> 00:04:23,845
+...and the watchful nights closed in.
+
+46
+00:04:31,271 --> 00:04:35,691
+Thror's love of gold had grown too fierce.
+
+47
+00:04:37,193 --> 00:04:41,071
+A sickness had begun to grow within him.
+
+48
+00:04:41,990 --> 00:04:44,616
+lt was a sickness of the mind.
+
+49
+00:04:47,370 --> 00:04:50,205
+And where sickness thrives...
+
+50
+00:04:50,915 --> 00:04:53,709
+...bad things will follow.
+
+51
+00:05:02,218 --> 00:05:05,345
+The first they heard
+was a noise like a hurricane...
+
+52
+00:05:05,513 --> 00:05:07,681
+...coming down from the North.
+
+53
+00:05:07,849 --> 00:05:13,061
+The pines on the mountain
+creaked and cracked in the hot, dry wind.
+
+54
+00:05:13,229 --> 00:05:14,563
+[GRUNTS]
+
+55
+00:05:14,772 --> 00:05:17,065
+[WIND WHISTLING]
+
+56
+00:05:17,233 --> 00:05:20,068
+Balin, sound the alarm.
+
+57
+00:05:20,611 --> 00:05:22,029
+[BALIN GRUNTS]
+
+58
+00:05:22,488 --> 00:05:24,364
+Call out the guard. Do it now!
+
+59
+00:05:24,532 --> 00:05:25,824
+BALIN:
+What is it?
+
+60
+00:05:25,992 --> 00:05:27,576
+Dragon.
+
+61
+00:05:28,202 --> 00:05:31,121
+Dragon!
+
+62
+00:05:32,623 --> 00:05:34,666
+He was a firedrake from the North.
+
+63
+00:05:41,132 --> 00:05:42,716
+[BOTH GRUNT]
+
+64
+00:05:42,884 --> 00:05:46,261
+Smaug had come.
+
+65
+00:05:51,517 --> 00:05:53,477
+[PEOPLE SCREAMING]
+
+66
+00:05:55,980 --> 00:05:59,983
+[HORNS BELLOWING]
+
+67
+00:06:05,990 --> 00:06:07,366
+[SMAUG ROARS]
+
+68
+00:06:07,533 --> 00:06:09,659
+[PEOPLE SCREAMING]
+
+69
+00:06:13,915 --> 00:06:16,875
+Such wanton death was dealt that day.
+
+70
+00:06:17,919 --> 00:06:21,421
+For this city of Men was nothing to Smaug.
+
+71
+00:06:22,006 --> 00:06:25,759
+His eye was set on another prize.
+
+72
+00:06:30,181 --> 00:06:36,144
+For dragons covet gold
+with a dark and fierce desire.
+
+73
+00:06:42,777 --> 00:06:44,111
+[SHOUTS IN DWARVISH]
+
+74
+00:07:04,424 --> 00:07:05,465
+Aah!
+
+75
+00:07:08,177 --> 00:07:10,345
+No!
+
+76
+00:07:14,225 --> 00:07:15,517
+[SMAUG ROARING]
+
+77
+00:07:15,726 --> 00:07:17,060
+THORIN:
+Come on.
+
+78
+00:07:18,396 --> 00:07:20,939
+Erebor was lost.
+
+79
+00:07:25,903 --> 00:07:28,488
+For a dragon will guard his plunder...
+
+80
+00:07:28,656 --> 00:07:30,991
+...as long as he lives.
+
+81
+00:07:40,084 --> 00:07:41,877
+THORIN:
+Run for your lives!
+
+82
+00:07:42,044 --> 00:07:44,713
+Ah! Help us!
+
+83
+00:07:57,226 --> 00:08:02,189
+Thranduil would not risk the lives of his kin
+against the wrath of the dragon.
+
+84
+00:08:02,982 --> 00:08:06,526
+No help came from the Elves that day...
+
+85
+00:08:06,861 --> 00:08:08,236
+...nor any day since.
+
+86
+00:08:10,740 --> 00:08:12,991
+Robbed of their homeland...
+
+87
+00:08:13,159 --> 00:08:16,536
+...the Dwarves of Erebor
+wandered the wilderness...
+
+88
+00:08:16,704 --> 00:08:19,998
+...a once mighty people brought low.
+
+89
+00:08:22,335 --> 00:08:25,795
+The young Dwarf prince took work
+where he could find it...
+
+90
+00:08:25,963 --> 00:08:28,298
+...laboring in the villages of Men.
+
+91
+00:08:28,466 --> 00:08:31,009
+But always he remembered...
+
+92
+00:08:31,177 --> 00:08:33,637
+...the mountain smoke beneath the moon...
+
+93
+00:08:33,804 --> 00:08:37,057
+...the trees like torches blazing bright.
+
+94
+00:08:37,225 --> 00:08:40,560
+For he had seen dragon fire in the sky...
+
+95
+00:08:40,728 --> 00:08:43,188
+...and a city turned to ash.
+
+96
+00:08:45,149 --> 00:08:47,275
+And he never forgave...
+
+97
+00:08:47,652 --> 00:08:49,569
+...and he never forgot.
+
+98
+00:08:52,365 --> 00:08:54,366
+[BIRDS CHIRPING]
+
+99
+00:08:55,243 --> 00:08:59,496
+That, my dear Frodo, is where I come in.
+
+100
+00:08:59,664 --> 00:09:02,624
+For, quite by chance,
+and the will of a Wizard...
+
+101
+00:09:02,792 --> 00:09:07,546
+...fate decided I would become
+part of this tale.
+
+102
+00:09:08,339 --> 00:09:09,798
+lt began....
+
+103
+00:09:09,966 --> 00:09:12,217
+Well, it began as you might expect.
+
+104
+00:09:13,970 --> 00:09:16,054
+ln a hole in the ground...
+
+105
+00:09:16,222 --> 00:09:18,765
+...there lived a Hobbit.
+
+106
+00:09:20,601 --> 00:09:26,147
+Not a nasty, dirty, wet hole
+full of worms and oozy smells.
+
+107
+00:09:26,315 --> 00:09:28,483
+This was a Hobbit hole.
+
+108
+00:09:28,651 --> 00:09:33,947
+And that means good food, a warm hearth...
+
+109
+00:09:34,407 --> 00:09:37,117
+...and all the comforts of home.
+
+110
+00:10:05,021 --> 00:10:06,479
+[CHUCKLES]
+
+111
+00:10:08,232 --> 00:10:09,858
+[OLD BILBO CLEARS THROAT]
+
+112
+00:10:11,611 --> 00:10:13,445
+Thank you.
+
+113
+00:10:14,322 --> 00:10:15,739
+What's this?
+
+114
+00:10:15,906 --> 00:10:18,825
+That is private. Keep your sticky paws off.
+
+115
+00:10:20,369 --> 00:10:22,412
+It's not ready yet.
+
+116
+00:10:22,580 --> 00:10:24,122
+Not ready for what?
+
+117
+00:10:24,290 --> 00:10:25,332
+Reading.
+
+118
+00:10:29,128 --> 00:10:31,504
+OLD BILBO:
+What on earth are these?
+
+119
+00:10:32,006 --> 00:10:33,548
+FRODO:
+Replies to the party invitations.
+
+120
+00:10:34,050 --> 00:10:38,470
+Ah. Good gracious. ls it today?
+
+121
+00:10:38,638 --> 00:10:40,013
+They all say they're coming.
+
+122
+00:10:40,181 --> 00:10:44,017
+Except for the Sackville-Bagginses,
+who are demanding you ask them in person.
+
+123
+00:10:44,185 --> 00:10:47,312
+Are they, indeed? Over my dead body.
+
+124
+00:10:47,480 --> 00:10:51,232
+They'd probably find that quite agreeable.
+They seem to think you have tunnels...
+
+125
+00:10:51,400 --> 00:10:56,029
+-...overflowing with gold.
+-lt was one small chest, hardly overflowing.
+
+126
+00:10:56,781 --> 00:10:58,782
+And it still smells of Troll.
+
+127
+00:10:59,492 --> 00:11:00,867
+What on earth are you doing?
+
+128
+00:11:01,035 --> 00:11:02,869
+[OLD BILBO MUTTERS INDISTINCTLY]
+
+129
+00:11:04,080 --> 00:11:06,039
+Taking precautions.
+
+130
+00:11:06,332 --> 00:11:09,042
+You know, I caught her making off
+with the silverware once.
+
+131
+00:11:09,210 --> 00:11:13,129
+-Who?
+-Lobelia Sackville-Baggins.
+
+132
+00:11:13,547 --> 00:11:17,008
+She had all my spoons
+stuffed in her pocket. Ha!
+
+133
+00:11:17,176 --> 00:11:18,385
+Dreadful woman.
+
+134
+00:11:18,552 --> 00:11:22,055
+Make sure you keep an eye on her
+after I'm....
+
+135
+00:11:22,973 --> 00:11:25,517
+When I'm.... When I'm....
+
+136
+00:11:25,726 --> 00:11:27,977
+When you're what?
+
+137
+00:11:31,649 --> 00:11:34,984
+It's nothing. Nothing.
+
+138
+00:11:39,615 --> 00:11:42,742
+You know, some people are beginning
+to wonder about you, Uncle.
+
+139
+00:11:42,910 --> 00:11:45,578
+-Huh?
+-They think you're becoming odd.
+
+140
+00:11:45,746 --> 00:11:48,289
+Odd? Oh. Hm.
+
+141
+00:11:48,499 --> 00:11:49,791
+Unsociable.
+
+142
+00:11:49,959 --> 00:11:52,877
+Unsociable, me? Nonsense.
+
+143
+00:11:53,045 --> 00:11:55,505
+Be a good lad and put that on the gate.
+
+144
+00:12:05,266 --> 00:12:07,726
+-Do you think he'll come?
+-Who?
+
+145
+00:12:08,185 --> 00:12:09,227
+Gandalf.
+
+146
+00:12:09,395 --> 00:12:12,814
+Oh-ho. He wouldn't miss a chance
+to let off his Whizpoppers.
+
+147
+00:12:12,982 --> 00:12:15,108
+He'll give us quite a show, you'll see.
+
+148
+00:12:15,276 --> 00:12:17,402
+FRODO: Right, then. I'm off.
+-Off to where?
+
+149
+00:12:17,570 --> 00:12:19,738
+FRODO: East-farthing Woods.
+I'm going to surprise him.
+
+150
+00:12:19,905 --> 00:12:24,200
+OLD BILBO:
+Well, go on, then. You don't want to be late.
+
+151
+00:12:27,872 --> 00:12:31,541
+He doesn't approve of being late. Oh, no.
+
+152
+00:12:31,709 --> 00:12:33,960
+Not that I ever was.
+
+153
+00:12:34,128 --> 00:12:37,088
+In those days, I was always on time.
+
+154
+00:12:37,798 --> 00:12:40,675
+I was entirely respectable.
+
+155
+00:12:41,886 --> 00:12:44,512
+And nothing unexpected...
+
+156
+00:12:46,098 --> 00:12:48,141
+...ever happened.
+
+157
+00:13:01,447 --> 00:13:02,822
+[GASPS]
+
+158
+00:13:11,999 --> 00:13:14,334
+-Good morning.
+GANDALF: What do you mean?
+
+159
+00:13:14,794 --> 00:13:16,461
+Do you wish me a good morning...
+
+160
+00:13:16,629 --> 00:13:19,881
+...or do you mean that it is a good morning
+whether I want it or not?
+
+161
+00:13:20,549 --> 00:13:25,136
+Or perhaps you mean to say that you feel good
+on this particular morning?
+
+162
+00:13:25,805 --> 00:13:29,766
+Or are you simply stating
+that this is a morning to be good on? Hm?
+
+163
+00:13:31,143 --> 00:13:33,186
+All of them at once, I suppose.
+
+164
+00:13:34,396 --> 00:13:35,897
+GANDALF:
+Hmm.
+
+165
+00:13:39,944 --> 00:13:41,027
+Can I help you?
+
+166
+00:13:41,278 --> 00:13:44,280
+That remains to be seen.
+
+167
+00:13:45,199 --> 00:13:49,410
+I'm looking for someone
+to share in an adventure.
+
+168
+00:13:52,540 --> 00:13:54,249
+An adventure?
+
+169
+00:13:55,960 --> 00:14:01,631
+No, I don't imagine anyone west of Bree
+would have much interest in adventures.
+
+170
+00:14:01,799 --> 00:14:05,885
+Nasty, disturbing, uncomfortable things.
+
+171
+00:14:06,637 --> 00:14:09,013
+Make you late for dinner. Heh, heh.
+
+172
+00:14:09,181 --> 00:14:11,766
+Mm. Huh.
+
+173
+00:14:12,309 --> 00:14:13,935
+Hmm.
+
+174
+00:14:14,937 --> 00:14:17,105
+Oh. Ah.
+
+175
+00:14:17,273 --> 00:14:18,439
+Good morning.
+
+176
+00:14:18,607 --> 00:14:21,526
+To think that I should have lived
+to be "good morninged"...
+
+177
+00:14:21,694 --> 00:14:26,698
+...by Belladonna Took's son
+as if I were selling buttons at the door.
+
+178
+00:14:26,866 --> 00:14:28,366
+Beg your pardon?
+
+179
+00:14:28,534 --> 00:14:32,203
+You've changed, and not entirely
+for the better, Bilbo Baggins.
+
+180
+00:14:32,371 --> 00:14:33,538
+I'm sorry, do I know you?
+
+181
+00:14:33,706 --> 00:14:36,791
+Well, you know my name,
+although you don't remember I belong to it.
+
+182
+00:14:36,959 --> 00:14:38,585
+I'm Gandalf.
+
+183
+00:14:38,752 --> 00:14:40,962
+And Gandalf means...
+
+184
+00:14:42,965 --> 00:14:44,299
+...me.
+
+185
+00:14:44,675 --> 00:14:46,676
+Gandalf?
+Not Gandalf the wandering Wizard...
+
+186
+00:14:46,844 --> 00:14:48,887
+...who made such excellent fireworks?
+
+187
+00:14:49,054 --> 00:14:52,891
+Old Took used to have them on
+Midsummer's Eve. Heh, heh. Ahem.
+
+188
+00:14:53,434 --> 00:14:55,184
+No idea you were still in business.
+
+189
+00:14:56,312 --> 00:14:57,812
+And where else should I be?
+
+190
+00:14:57,980 --> 00:15:00,732
+Where else--? Ahem.
+
+191
+00:15:02,693 --> 00:15:06,446
+Well, I'm pleased to find you remember
+something about me...
+
+192
+00:15:06,739 --> 00:15:09,616
+...even if it's only my fireworks.
+
+193
+00:15:10,284 --> 00:15:12,744
+Yes. Well, that's decided.
+
+194
+00:15:12,912 --> 00:15:14,704
+It'll be very good for you...
+
+195
+00:15:16,332 --> 00:15:17,957
+...and most amusing for me.
+
+196
+00:15:18,125 --> 00:15:19,792
+I shall inform the others.
+
+197
+00:15:19,960 --> 00:15:23,254
+Inform the who? What? No. No. No-- Wait.
+
+198
+00:15:23,422 --> 00:15:28,927
+We do not want any adventures here,
+thank you. Not today. Not--
+
+199
+00:15:29,094 --> 00:15:32,889
+I suggest you try Over the Hill
+or Across the Water.
+
+200
+00:15:36,060 --> 00:15:37,685
+Good morning.
+
+201
+00:16:09,677 --> 00:16:12,428
+[GANDALF HUMMING]
+
+202
+00:16:16,266 --> 00:16:17,350
+[SNIFFS]
+
+203
+00:16:17,518 --> 00:16:20,144
+[HOBBITS CHATTERING IN DISTANCE]
+
+204
+00:16:38,706 --> 00:16:40,123
+[SIGHS]
+
+205
+00:16:53,595 --> 00:16:55,930
+[DOORBELL RINGS]
+
+206
+00:17:00,519 --> 00:17:03,771
+Dwalin, at your service.
+
+207
+00:17:04,106 --> 00:17:06,733
+Hm. Uh....
+
+208
+00:17:07,067 --> 00:17:10,903
+Bilbo Baggins, at yours.
+
+209
+00:17:11,739 --> 00:17:13,114
+Do we know each other?
+
+210
+00:17:14,158 --> 00:17:15,450
+No.
+
+211
+00:17:16,535 --> 00:17:19,412
+Which way, laddie? ls it down here?
+
+212
+00:17:19,580 --> 00:17:21,956
+ls what down where?
+
+213
+00:17:22,124 --> 00:17:23,166
+Supper.
+
+214
+00:17:23,876 --> 00:17:26,544
+He said there'd be food and lots of it.
+
+215
+00:17:26,712 --> 00:17:29,881
+He-- He said? Who said?
+
+216
+00:17:32,051 --> 00:17:33,509
+DWALIN:
+Mmm.
+
+217
+00:17:37,931 --> 00:17:39,348
+Mmm.
+
+218
+00:17:40,559 --> 00:17:43,519
+Very good, this. Any more?
+
+219
+00:17:43,979 --> 00:17:47,732
+What? Oh, yes, yes. Ah.
+
+220
+00:17:53,447 --> 00:17:55,073
+Help yourself.
+
+221
+00:17:57,868 --> 00:18:03,206
+Hmm. It's just that, um,
+I wasn't expecting company.
+
+222
+00:18:03,373 --> 00:18:05,333
+[DOORBELL RINGS]
+
+223
+00:18:06,627 --> 00:18:08,669
+That'll be the door.
+
+224
+00:18:12,758 --> 00:18:15,843
+Balin, at your service.
+
+225
+00:18:16,637 --> 00:18:19,597
+-Good evening.
+-Yes. Yes, it is.
+
+226
+00:18:20,057 --> 00:18:22,558
+-Though I think it might rain later.
+-Hm?
+
+227
+00:18:22,726 --> 00:18:23,935
+Am I late?
+
+228
+00:18:24,561 --> 00:18:26,312
+Late for what?
+
+229
+00:18:26,855 --> 00:18:29,524
+Oh! Ha, ha!
+
+230
+00:18:29,733 --> 00:18:31,442
+Evening, brother.
+
+231
+00:18:31,610 --> 00:18:32,652
+[DWALIN & BALIN CHUCKLE]
+
+232
+00:18:32,820 --> 00:18:34,904
+By my beard...
+
+233
+00:18:35,072 --> 00:18:38,074
+...you're shorter and wider than last we met.
+
+234
+00:18:38,242 --> 00:18:39,867
+BALIN:
+Wider, not shorter.
+
+235
+00:18:40,494 --> 00:18:42,995
+Sharp enough for both of us.
+
+236
+00:18:43,539 --> 00:18:46,791
+[BOTH LAUGHING]
+
+237
+00:18:51,964 --> 00:18:54,841
+Uh, excuse me? Sorry, I hate to interrupt.
+
+238
+00:18:55,008 --> 00:18:59,137
+But the thing is, I'm not entirely sure
+you're in the right house.
+
+239
+00:18:59,304 --> 00:19:00,346
+DWALIN:
+Have you eaten?
+
+240
+00:19:00,514 --> 00:19:05,476
+It's not that I don't like visitors.
+I like visitors as much as the next Hobbit.
+
+241
+00:19:05,644 --> 00:19:09,230
+But I do like to know them
+before they come visiting.
+
+242
+00:19:09,398 --> 00:19:10,731
+-What is this?
+-I don't know.
+
+243
+00:19:10,899 --> 00:19:13,776
+-I think it's cheese. Gone blue.
+DWALIN: It's riddled with mold.
+
+244
+00:19:13,944 --> 00:19:18,656
+The thing is, I don't know either of you.
+Not in the slightest.
+
+245
+00:19:18,824 --> 00:19:21,659
+I don't mean to be blunt,
+but I had to speak my mind.
+
+246
+00:19:21,869 --> 00:19:23,828
+-I'm sorry.
+BALIN: You think--?
+
+247
+00:19:24,329 --> 00:19:26,080
+[CLEARS THROAT]
+
+248
+00:19:26,748 --> 00:19:28,082
+Apology accepted.
+
+249
+00:19:28,250 --> 00:19:30,585
+-Ah.
+-Now, fill it up, brother, don't stint.
+
+250
+00:19:30,752 --> 00:19:31,794
+[DOORBELL RINGS]
+
+251
+00:19:31,962 --> 00:19:35,339
+DWALIN: You wanna get stuck in?
+-I could eat again if you insist, brother.
+
+252
+00:19:35,799 --> 00:19:37,008
+[WHIMPERS]
+
+253
+00:19:37,217 --> 00:19:39,093
+-Fili.
+-And Kili.
+
+254
+00:19:39,261 --> 00:19:41,095
+[IN UNISON]
+At your service.
+
+255
+00:19:41,263 --> 00:19:43,598
+-You must be Mr. Boggins.
+-Nope! You can't come in.
+
+256
+00:19:43,765 --> 00:19:46,142
+-You've come to the wrong house.
+-What?
+
+257
+00:19:46,310 --> 00:19:48,561
+-Has it been canceled?
+-No one told us.
+
+258
+00:19:49,146 --> 00:19:51,564
+-No, nothing's been canceled.
+-That's a relief.
+
+259
+00:19:55,861 --> 00:19:59,614
+Careful with these.
+I just had them sharpened.
+
+260
+00:19:59,781 --> 00:20:01,616
+-It's nice, this place.
+FILI: Yeah.
+
+261
+00:20:01,783 --> 00:20:04,994
+-Did you do it yourself?
+-What? No, it's been in the family for years.
+
+262
+00:20:05,162 --> 00:20:08,039
+That's my mother's glory box.
+Can you please not do that?
+
+263
+00:20:08,207 --> 00:20:10,833
+Fili, Kili. Come on, give us a hand.
+
+264
+00:20:11,001 --> 00:20:13,336
+Mr. Dwalin. Ha, ha.
+
+265
+00:20:14,129 --> 00:20:17,131
+BALIN: Shove this in the hallway.
+Otherwise we'll never get everyone in.
+
+266
+00:20:17,299 --> 00:20:19,008
+BILBO:
+"Everyone"? How many more are there?
+
+267
+00:20:19,176 --> 00:20:21,219
+DWALIN: Where do you want this?
+-Oh, no.
+
+268
+00:20:21,386 --> 00:20:25,097
+DWALIN: It's really heavy.
+-No. No. There's nobody home!
+
+269
+00:20:25,265 --> 00:20:28,017
+Go away and bother somebody else.
+
+270
+00:20:28,185 --> 00:20:31,395
+There's far too many Dwarves
+in my dining room as it is.
+
+271
+00:20:31,563 --> 00:20:35,524
+If this is some clot-head's idea of a joke...
+
+272
+00:20:35,692 --> 00:20:39,195
+...I can only say it is in very poor taste.
+
+273
+00:20:40,072 --> 00:20:41,530
+[GRUNTING]
+
+274
+00:20:41,698 --> 00:20:43,574
+GLOIN:
+Get off, you big lump!
+
+275
+00:20:43,784 --> 00:20:45,785
+[DWARVES CHATTERING]
+
+276
+00:20:49,206 --> 00:20:50,498
+Gandalf.
+
+277
+00:20:50,832 --> 00:20:54,961
+Those are my pri--! Excuse me, not my wine.
+Put that back. Put that back.
+
+278
+00:20:55,128 --> 00:20:57,213
+Not the jam, please.
+Excuse me. Excuse me.
+
+279
+00:20:57,381 --> 00:21:00,132
+It's a tad excessive, isn't it?
+Have you got a cheese knife?
+
+280
+00:21:00,300 --> 00:21:03,261
+-"Cheese knife"? He eats it by the block.
+BILBO: Ugh.
+
+281
+00:21:03,428 --> 00:21:06,764
+No, that's Grandpa Mungo's chair--
+No, so is that. Take it back, please.
+
+282
+00:21:06,932 --> 00:21:10,768
+-I cannot hear what you're saying.
+BILBO: It's an antique. Not for sitting on.
+
+283
+00:21:11,353 --> 00:21:16,691
+That is a book, not a coaster.
+And put that map down.
+
+284
+00:21:16,858 --> 00:21:18,901
+-Excuse me, Mr. Gandalf?
+-Yes?
+
+285
+00:21:19,069 --> 00:21:21,737
+May I tempt you with a cup of chamomile?
+
+286
+00:21:21,905 --> 00:21:26,742
+Oh, no, thank you, Dori.
+A little red wine for me, I think.
+
+287
+00:21:29,162 --> 00:21:32,290
+NORI: Whoop! Mind out.
+-Yes. Ah.
+
+288
+00:21:34,084 --> 00:21:37,003
+Uh, Fili, Kili. Uh....
+
+289
+00:21:37,170 --> 00:21:39,255
+Oin, Gloin.
+
+290
+00:21:39,423 --> 00:21:42,425
+Dwalin, Balin, Bifur, Bofur, Bombur...
+
+291
+00:21:42,592 --> 00:21:45,219
+-...Dori, Nori. Ori!
+-No. Not my prizewinners, thank you.
+
+292
+00:21:45,387 --> 00:21:47,013
+No, thank you.
+
+293
+00:21:47,723 --> 00:21:49,974
+[SPEAKS IN DWARVISH]
+
+294
+00:21:50,142 --> 00:21:52,685
+GANDALF:
+Yes, you're quite right, Bifur.
+
+295
+00:21:52,853 --> 00:21:55,146
+We appear to be one Dwarf short.
+
+296
+00:21:55,314 --> 00:22:00,776
+He is late, is all. He traveled north
+to a meeting of our kin. He will come.
+
+297
+00:22:00,944 --> 00:22:04,697
+Mr. Gandalf? A little glass of red wine,
+as requested.
+
+298
+00:22:04,865 --> 00:22:06,907
+It's got a fruity bouquet.
+
+299
+00:22:07,075 --> 00:22:09,368
+GANDALF:
+Oh. Cheers.
+
+300
+00:22:09,536 --> 00:22:13,372
+GLOIN:
+Bombur's on his second leg of lamb already.
+
+301
+00:22:14,082 --> 00:22:15,124
+GANDALF:
+Hmm.
+
+302
+00:22:15,292 --> 00:22:16,334
+[DWARVES CHATTERING]
+
+303
+00:22:16,501 --> 00:22:19,045
+DWALIN:
+No chance. Not from that distance.
+
+304
+00:22:19,212 --> 00:22:20,379
+BOFUR:
+Wanna bet?
+
+305
+00:22:20,547 --> 00:22:22,048
+Bombur, catch!
+
+306
+00:22:22,841 --> 00:22:24,633
+[ALL CHEERING]
+
+307
+00:22:25,594 --> 00:22:27,345
+GANDALF:
+I'll help you with that.
+
+308
+00:22:27,554 --> 00:22:29,555
+[DWARVES CHATTERING]
+
+309
+00:22:34,394 --> 00:22:36,437
+DWALIN:
+Oh, you great galumphing git!
+
+310
+00:22:36,605 --> 00:22:39,690
+-Who wants an ale? There you go.
+KILI: Over here, brother.
+
+311
+00:22:39,858 --> 00:22:43,069
+DWALIN:
+I said have another drink. Here you go.
+
+312
+00:22:43,236 --> 00:22:46,113
+[ALL LAUGHING]
+
+313
+00:22:48,158 --> 00:22:49,533
+BOFUR:
+Ale on the count of three!
+
+314
+00:22:49,701 --> 00:22:51,118
+One, two....
+
+315
+00:22:51,286 --> 00:22:52,328
+Up!
+
+316
+00:22:57,876 --> 00:22:59,085
+[NORI BELCHES]
+
+317
+00:22:59,252 --> 00:23:00,419
+[ALL LAUGHING]
+
+318
+00:23:00,587 --> 00:23:02,296
+[BELCHES]
+
+319
+00:23:03,548 --> 00:23:05,049
+BOFUR:
+I knew you had it in you!
+
+320
+00:23:05,217 --> 00:23:07,927
+Excuse me, that is a doily, not a dishcloth.
+
+321
+00:23:08,095 --> 00:23:09,136
+But it's full of holes.
+
+322
+00:23:09,304 --> 00:23:11,472
+It's supposed to look like that. It's crochet.
+
+323
+00:23:11,640 --> 00:23:14,558
+And a wonderful game it is too,
+if you've got the balls for it.
+
+324
+00:23:14,726 --> 00:23:16,685
+Bebother and confusticate these Dwarves!
+
+325
+00:23:16,853 --> 00:23:19,730
+My dear Bilbo, what on earth is the matter?
+
+326
+00:23:19,898 --> 00:23:22,733
+What's the matter?
+I'm surrounded by Dwarves.
+
+327
+00:23:22,901 --> 00:23:24,485
+What are they doing here?
+
+328
+00:23:24,653 --> 00:23:28,406
+Oh, they're quite a merry gathering
+once you get used to them.
+
+329
+00:23:28,573 --> 00:23:30,533
+I don't want to get used to them.
+
+330
+00:23:30,700 --> 00:23:33,869
+Look at the state of my kitchen.
+There's mud trod into the carpet.
+
+331
+00:23:34,037 --> 00:23:35,454
+They've pillaged the pantry.
+
+332
+00:23:35,622 --> 00:23:38,040
+I won't tell you what they've done
+in the bathroom.
+
+333
+00:23:38,208 --> 00:23:42,002
+They've destroyed the plumbing. I don't
+understand what they're doing in my house!
+
+334
+00:23:42,170 --> 00:23:47,466
+Excuse me. I'm sorry to interrupt,
+but what should I do with my plate?
+
+335
+00:23:47,634 --> 00:23:49,844
+FILI:
+Here you go, Ori. Give it to me.
+
+336
+00:23:54,683 --> 00:23:56,684
+Take that back. Excuse me.
+
+337
+00:23:56,852 --> 00:23:58,769
+That's my mother's West Farthing pottery.
+
+338
+00:23:58,937 --> 00:24:00,938
+It's over 1 00 years old!
+
+339
+00:24:04,359 --> 00:24:06,861
+And can you not do that? You'll blunt them.
+
+340
+00:24:07,028 --> 00:24:09,029
+BOFUR:
+Ooh. Do you hear that, lads?
+
+341
+00:24:09,739 --> 00:24:12,491
+He says we'll blunt the knives.
+
+342
+00:24:12,659 --> 00:24:14,577
+[SINGING]
+Blunt the knives, bend the forks
+
+343
+00:24:14,744 --> 00:24:17,246
+Smash the bottles and burn the corks
+
+344
+00:24:17,414 --> 00:24:20,624
+Chip the glasses and crack the plates
+
+345
+00:24:20,792 --> 00:24:22,626
+That's what Bilbo Baggins hates
+
+346
+00:24:22,794 --> 00:24:24,336
+Cut the cloth, tread on the fat
+
+347
+00:24:24,504 --> 00:24:26,380
+Leave the bones on the bedroom mat
+
+348
+00:24:26,548 --> 00:24:30,050
+Pour the milk on the pantry floor
+
+349
+00:24:30,218 --> 00:24:32,261
+Splash the wine on every door
+
+350
+00:24:32,429 --> 00:24:34,096
+Dump the crocks in a boiling bowl
+
+351
+00:24:34,264 --> 00:24:35,931
+Pound them up with a thumping pole
+
+352
+00:24:36,099 --> 00:24:40,269
+When you're finished, if they are whole
+
+353
+00:24:41,188 --> 00:24:43,564
+Send them down the hall to roll
+
+354
+00:24:50,906 --> 00:24:53,157
+That's what Bilbo Baggins hates
+
+355
+00:24:53,325 --> 00:24:55,910
+[ALL LAUGHING]
+
+356
+00:24:56,077 --> 00:24:58,120
+GANDALF:
+Bilbo.
+
+357
+00:25:00,040 --> 00:25:02,416
+[POUNDING ON DOOR]
+
+358
+00:25:07,130 --> 00:25:08,839
+He is here.
+
+359
+00:25:12,886 --> 00:25:14,887
+Gandalf.
+
+360
+00:25:16,056 --> 00:25:18,557
+I thought you said this place
+would be easy to find.
+
+361
+00:25:18,725 --> 00:25:20,726
+I lost my way, twice.
+
+362
+00:25:20,894 --> 00:25:24,313
+I wouldn't have found it at all
+had it not been for that mark on the door.
+
+363
+00:25:24,481 --> 00:25:27,358
+Mark? There's no mark on that door.
+lt was painted a week ago.
+
+364
+00:25:27,526 --> 00:25:30,903
+There is a mark. I put it there myself.
+
+365
+00:25:31,571 --> 00:25:35,658
+Bilbo Baggins, allow me to introduce
+the leader of our company:
+
+366
+00:25:36,243 --> 00:25:38,202
+Thorin Oakenshield.
+
+367
+00:25:38,370 --> 00:25:39,912
+So...
+
+368
+00:25:41,456 --> 00:25:43,332
+...this is the Hobbit.
+
+369
+00:25:44,209 --> 00:25:46,544
+Tell me, Mr. Baggins,
+have you done much fighting?
+
+370
+00:25:46,711 --> 00:25:48,212
+-Pardon me?
+THORIN: Ax or sword?
+
+371
+00:25:48,880 --> 00:25:50,381
+What's your weapon of choice?
+
+372
+00:25:50,549 --> 00:25:54,051
+Well, I do have some skill at conkers,
+if you must know...
+
+373
+00:25:54,219 --> 00:25:57,805
+...but I fail to see why that's relevant.
+
+374
+00:25:58,223 --> 00:25:59,807
+Thought as much.
+
+375
+00:25:59,975 --> 00:26:02,768
+He looks more like a grocer than a burglar.
+
+376
+00:26:02,978 --> 00:26:04,895
+[ALL CHUCKLING]
+
+377
+00:26:08,108 --> 00:26:11,735
+What news from the meeting in Ered Luin?
+Did they all come?
+
+378
+00:26:11,903 --> 00:26:14,947
+-Aye. Envoys from all seven kingdoms.
+BALIN: All of them!
+
+379
+00:26:15,115 --> 00:26:17,700
+DWALIN: And what did the Dwarves
+of the lron Hills say?
+
+380
+00:26:18,910 --> 00:26:20,828
+ls Dain with us?
+
+381
+00:26:23,206 --> 00:26:24,665
+They will not come.
+
+382
+00:26:24,833 --> 00:26:26,584
+[ALL MURMURING]
+
+383
+00:26:28,044 --> 00:26:32,298
+THORIN:
+They say this quest is ours and ours alone.
+
+384
+00:26:34,301 --> 00:26:36,844
+BILBO:
+You're going on a quest?
+
+385
+00:26:37,554 --> 00:26:42,891
+Bilbo, my dear fellow,
+let us have a little more light.
+
+386
+00:26:43,393 --> 00:26:45,394
+Far to the east...
+
+387
+00:26:45,770 --> 00:26:48,522
+...over ranges and rivers...
+
+388
+00:26:48,815 --> 00:26:52,109
+...beyond woodlands and wastelands...
+
+389
+00:26:52,277 --> 00:26:54,653
+...lies a single, solitary peak.
+
+390
+00:26:58,158 --> 00:26:59,950
+"The Lonely Mountain."
+
+391
+00:27:00,577 --> 00:27:03,621
+Aye, Oin has read the portents...
+
+392
+00:27:03,788 --> 00:27:07,249
+...and the portents say it is time.
+
+393
+00:27:07,584 --> 00:27:12,421
+Ravens have been seen flying back
+to the mountain, as it was foretold.
+
+394
+00:27:12,589 --> 00:27:16,550
+"When the birds of yore return to Erebor...
+
+395
+00:27:16,718 --> 00:27:20,179
+...the reign of the beast will end."
+
+396
+00:27:22,474 --> 00:27:24,600
+Uh, what beast?
+
+397
+00:27:24,768 --> 00:27:27,061
+That would be a reference
+to Smaug the Terrible...
+
+398
+00:27:27,228 --> 00:27:31,065
+...chiefest and greatest calamity of our age.
+
+399
+00:27:31,858 --> 00:27:33,567
+Airborne fire-breather.
+
+400
+00:27:33,735 --> 00:27:36,528
+Teeth like razors, claws like meat hooks.
+
+401
+00:27:36,696 --> 00:27:39,740
+-Extremely fond of precious metals.
+-Yes, I know what a dragon is.
+
+402
+00:27:39,908 --> 00:27:41,492
+I'm not afraid. I'm up for it.
+
+403
+00:27:41,660 --> 00:27:44,578
+I'll give him a taste of Dwarfish iron
+right up his jacksie!
+
+404
+00:27:44,746 --> 00:27:46,246
+NORI: Good lad, Ori!
+-Sit down.
+
+405
+00:27:46,414 --> 00:27:49,375
+The task would be difficult enough
+with an army behind us...
+
+406
+00:27:49,542 --> 00:27:51,710
+...but we number just 1 3.
+
+407
+00:27:51,878 --> 00:27:53,796
+And not 1 3 of the best...
+
+408
+00:27:54,422 --> 00:27:55,714
+...nor brightest.
+
+409
+00:27:56,007 --> 00:27:58,133
+NORI:
+Here, who are you calling dim?
+
+410
+00:27:58,301 --> 00:27:59,843
+OIN:
+Sorry, what did he say?
+
+411
+00:28:00,011 --> 00:28:01,929
+FILI:
+We may be few in number...
+
+412
+00:28:02,764 --> 00:28:06,517
+...but we're fighters, all of us,
+to the last Dwarf.
+
+413
+00:28:06,685 --> 00:28:09,103
+And you forget,
+we have a Wizard in our company.
+
+414
+00:28:09,270 --> 00:28:12,064
+Gandalf will have killed
+hundreds of dragons in his time.
+
+415
+00:28:12,232 --> 00:28:14,233
+Oh, well, no. I wouldn't say--
+
+416
+00:28:14,401 --> 00:28:16,402
+DORI: How many, then?
+-What?
+
+417
+00:28:16,569 --> 00:28:18,904
+Well, how many dragons have you killed?
+
+418
+00:28:19,614 --> 00:28:20,781
+[COUGHS]
+
+419
+00:28:20,949 --> 00:28:23,325
+Go on. Give us a number.
+
+420
+00:28:23,785 --> 00:28:25,786
+[ALL SHOUTING INDISTINCTLY]
+
+421
+00:28:25,954 --> 00:28:26,995
+Excuse me. Please.
+
+422
+00:28:28,206 --> 00:28:30,833
+[SHOUTS IN DWARVISH]
+
+423
+00:28:32,001 --> 00:28:33,377
+If we have read these signs...
+
+424
+00:28:33,545 --> 00:28:36,213
+...do you not think others
+will have read them too?
+
+425
+00:28:38,550 --> 00:28:41,093
+Rumors have begun to spread.
+
+426
+00:28:41,511 --> 00:28:44,179
+The dragon, Smaug,
+has not been seen for 60 years.
+
+427
+00:28:45,849 --> 00:28:48,100
+Eyes look east to the mountain, assessing...
+
+428
+00:28:48,977 --> 00:28:52,271
+...wondering, weighing the risk.
+
+429
+00:28:52,689 --> 00:28:55,482
+Perhaps the vast wealth of our people
+now lies unprotected.
+
+430
+00:28:55,650 --> 00:28:59,153
+Do we sit back while others claim
+what is rightfully ours?
+
+431
+00:28:59,863 --> 00:29:02,698
+Or do we seize this chance
+to take back Erebor?
+
+432
+00:29:02,866 --> 00:29:04,783
+[ALL CHEERING]
+
+433
+00:29:04,951 --> 00:29:07,786
+BALIN:
+You forget, the Front Gate is sealed.
+
+434
+00:29:08,455 --> 00:29:11,290
+There is no way into the mountain.
+
+435
+00:29:11,458 --> 00:29:14,752
+That, my dear Balin, is not entirely true.
+
+436
+00:29:18,798 --> 00:29:20,215
+How came you by this?
+
+437
+00:29:21,009 --> 00:29:23,635
+lt was given to me by your father.
+
+438
+00:29:23,803 --> 00:29:27,097
+By Thrain. For safekeeping.
+
+439
+00:29:28,141 --> 00:29:29,975
+lt is yours now.
+
+440
+00:29:37,358 --> 00:29:38,776
+FILI:
+If there is a key...
+
+441
+00:29:39,819 --> 00:29:41,403
+...there must be a door.
+
+442
+00:29:42,280 --> 00:29:46,533
+These runes speak of a hidden
+passage to the Lower Halls.
+
+443
+00:29:46,701 --> 00:29:48,869
+There's another way in.
+
+444
+00:29:49,037 --> 00:29:52,873
+Well, if we can find it,
+but Dwarf doors are invisible when closed.
+
+445
+00:29:53,041 --> 00:29:54,416
+[GANDALF SIGHS]
+
+446
+00:29:55,210 --> 00:29:58,045
+The answer lies hidden somewhere
+in this map...
+
+447
+00:29:58,213 --> 00:30:00,214
+...and I do not have the skill to find it.
+
+448
+00:30:00,381 --> 00:30:04,760
+But there are others in Middle-earth
+who can.
+
+449
+00:30:05,595 --> 00:30:08,931
+The task I have in mind
+will require a great deal of stealth...
+
+450
+00:30:09,098 --> 00:30:11,183
+...and no small amount of courage.
+
+451
+00:30:12,352 --> 00:30:17,147
+But if we are careful and clever,
+I believe that it can be done.
+
+452
+00:30:17,315 --> 00:30:18,857
+That's why we need a burglar.
+
+453
+00:30:19,192 --> 00:30:22,653
+Hmm. And a good one too.
+An expert, I'd imagine.
+
+454
+00:30:22,821 --> 00:30:25,113
+GLOIN:
+And are you?
+
+455
+00:30:27,617 --> 00:30:29,034
+Am I what?
+
+456
+00:30:29,202 --> 00:30:31,954
+He said he's an expert. Hey.
+
+457
+00:30:32,497 --> 00:30:37,334
+Me? No. No, no, no. I'm not a burglar.
+I've never stolen a thing in my life.
+
+458
+00:30:37,502 --> 00:30:40,212
+Well, I'm afraid I have to agree
+with Mr. Baggins.
+
+459
+00:30:40,380 --> 00:30:42,422
+He's hardly burglar material.
+
+460
+00:30:42,590 --> 00:30:43,632
+Nope.
+
+461
+00:30:43,800 --> 00:30:48,095
+Aye, the Wild is no place for gentle folk
+who can neither fight nor fend for themselves.
+
+462
+00:30:48,263 --> 00:30:50,097
+KILI:
+He's just fine.
+
+463
+00:30:50,598 --> 00:30:52,140
+[CHATTERING]
+
+464
+00:30:55,728 --> 00:30:56,937
+Enough!
+
+465
+00:30:57,105 --> 00:31:02,067
+If I say Bilbo Baggins is a burglar,
+then a burglar he is.
+
+466
+00:31:03,027 --> 00:31:05,863
+Hobbits are remarkably light on their feet.
+
+467
+00:31:06,030 --> 00:31:09,283
+ln fact, they can pass unseen by most,
+if they choose.
+
+468
+00:31:09,450 --> 00:31:13,078
+And, while the dragon is accustomed
+to the smell of Dwarf...
+
+469
+00:31:13,246 --> 00:31:16,331
+...the scent of a Hobbit
+is all but unknown to him...
+
+470
+00:31:16,499 --> 00:31:19,668
+...which gives us a distinct advantage.
+
+471
+00:31:19,836 --> 00:31:24,256
+You asked me to find the 14th member of
+this company and I have chosen Mr. Baggins.
+
+472
+00:31:24,549 --> 00:31:27,509
+There's a lot more to him
+than appearances suggest.
+
+473
+00:31:27,677 --> 00:31:30,512
+And he's got a great deal more to offer
+than any of you know.
+
+474
+00:31:32,098 --> 00:31:33,432
+Including himself.
+
+475
+00:31:39,188 --> 00:31:41,648
+You must trust me on this.
+
+476
+00:31:44,736 --> 00:31:46,028
+Very well.
+
+477
+00:31:46,404 --> 00:31:47,988
+-We will do it your way.
+-No, no.
+
+478
+00:31:48,156 --> 00:31:50,574
+THORIN: Give him the contract.
+-We're in. We're off.
+
+479
+00:31:50,742 --> 00:31:51,825
+BALIN:
+It's just the usual.
+
+480
+00:31:51,993 --> 00:31:53,952
+Summary of out-of-pocket expenses...
+
+481
+00:31:54,120 --> 00:31:55,746
+...time required, remuneration...
+
+482
+00:31:56,080 --> 00:31:57,748
+...funeral arrangements, so forth.
+
+483
+00:31:58,750 --> 00:32:00,125
+Funeral arrangements?
+
+484
+00:32:03,087 --> 00:32:04,880
+[BILBO SIGHS]
+
+485
+00:32:05,924 --> 00:32:07,466
+I cannot guarantee his safety.
+
+486
+00:32:08,134 --> 00:32:09,384
+Understood.
+
+487
+00:32:09,844 --> 00:32:12,387
+Nor will I be responsible for his fate.
+
+488
+00:32:16,309 --> 00:32:17,601
+Agreed.
+
+489
+00:32:17,769 --> 00:32:22,356
+"Terms: Cash on delivery, up to but not
+exceeding one-fourteenth of total profit, if any."
+
+490
+00:32:22,523 --> 00:32:24,399
+Hmm. Seems fair.
+
+491
+00:32:24,567 --> 00:32:28,278
+"Present company shall not be liable
+for injuries inflicted by...
+
+492
+00:32:28,446 --> 00:32:33,700
+...or sustained as a consequence thereof,
+including, but not limited to lacerations...
+
+493
+00:32:35,119 --> 00:32:36,828
+...evisceration...."
+
+494
+00:32:39,415 --> 00:32:40,457
+Incineration?
+
+495
+00:32:40,625 --> 00:32:43,585
+Aye. He'll melt the flesh off your bones
+in the blink of an eye.
+
+496
+00:32:46,756 --> 00:32:47,881
+[WHIMPERS]
+
+497
+00:32:48,841 --> 00:32:51,760
+-You all right, laddie?
+-Huh? Yeah.
+
+498
+00:32:53,513 --> 00:32:54,846
+Feel a bit faint.
+
+499
+00:32:55,223 --> 00:32:57,224
+-Think furnace with wings.
+BILBO: Air.
+
+500
+00:32:57,392 --> 00:32:58,850
+I need air.
+
+501
+00:32:59,018 --> 00:33:01,603
+Flash of light, searing pain, then poof.
+
+502
+00:33:01,771 --> 00:33:03,772
+You're nothing more than a pile of ash.
+
+503
+00:33:03,940 --> 00:33:05,315
+BILBO:
+Hmm.
+
+504
+00:33:10,154 --> 00:33:11,196
+Nope.
+
+505
+00:33:12,365 --> 00:33:14,241
+GANDALF:
+Oh, very helpful, Bofur.
+
+506
+00:33:14,575 --> 00:33:17,160
+I'll be all right.
+Just let me sit quietly for a moment.
+
+507
+00:33:17,328 --> 00:33:20,664
+You've been sitting quietly for far too long.
+
+508
+00:33:20,999 --> 00:33:25,127
+Tell me, when did doilies
+and your mother's dishes...
+
+509
+00:33:25,294 --> 00:33:26,962
+...become so important to you?
+
+510
+00:33:27,547 --> 00:33:32,342
+I remember a young Hobbit who was always
+running off in search of Elves in the woods.
+
+511
+00:33:32,510 --> 00:33:35,679
+Who would stay out late,
+come home after dark...
+
+512
+00:33:35,847 --> 00:33:39,474
+...trailing mud and twigs and fireflies.
+
+513
+00:33:39,642 --> 00:33:42,060
+A young Hobbit who would have liked
+nothing better...
+
+514
+00:33:42,228 --> 00:33:45,647
+...than to find out what was beyond
+the borders of the Shire.
+
+515
+00:33:46,315 --> 00:33:50,110
+The world is not in your books and maps.
+
+516
+00:33:51,362 --> 00:33:53,280
+It's out there.
+
+517
+00:33:54,991 --> 00:33:57,242
+I can't just go running off into the blue.
+
+518
+00:33:57,410 --> 00:34:00,579
+I am a Baggins of Bag-end.
+
+519
+00:34:00,747 --> 00:34:02,873
+You are also a Took.
+
+520
+00:34:04,834 --> 00:34:08,211
+Did you know that your
+great-great-great-great-uncle Bullroarer Took...
+
+521
+00:34:08,379 --> 00:34:11,006
+...was so large, he could ride a real horse?
+
+522
+00:34:11,174 --> 00:34:13,341
+-Yes.
+-Yes, well, he could.
+
+523
+00:34:13,509 --> 00:34:16,386
+ln the Battle of Green Fields,
+he charged the Goblin ranks.
+
+524
+00:34:16,554 --> 00:34:20,390
+He swung his club so hard,
+it knocked the Goblin king's head clean off...
+
+525
+00:34:20,558 --> 00:34:24,728
+...and it sailed 1 00 yards through the air
+and went down a rabbit hole.
+
+526
+00:34:24,979 --> 00:34:26,646
+And thus, the battle was won.
+
+527
+00:34:27,440 --> 00:34:30,442
+And the game of golf invented
+at the same time.
+
+528
+00:34:33,571 --> 00:34:35,822
+I do believe you made that up.
+
+529
+00:34:35,990 --> 00:34:39,701
+Well, all good stories
+deserve embellishment.
+
+530
+00:34:41,245 --> 00:34:45,207
+You'll have a tale or two to tell of your own
+when you come back.
+
+531
+00:34:48,961 --> 00:34:51,171
+Can you promise that I will come back?
+
+532
+00:34:53,132 --> 00:34:54,674
+No.
+
+533
+00:34:54,842 --> 00:34:56,885
+And if you do...
+
+534
+00:34:57,720 --> 00:35:00,013
+...you will not be the same.
+
+535
+00:35:01,599 --> 00:35:03,350
+That's what I thought.
+
+536
+00:35:04,519 --> 00:35:07,562
+Sorry, Gandalf, I can't sign this.
+
+537
+00:35:09,107 --> 00:35:11,358
+You've got the wrong Hobbit.
+
+538
+00:35:17,824 --> 00:35:21,409
+lt appears we have lost our burglar.
+
+539
+00:35:22,453 --> 00:35:24,454
+Probably for the best.
+
+540
+00:35:24,622 --> 00:35:26,998
+The odds were always against us.
+
+541
+00:35:27,166 --> 00:35:30,168
+After all, what are we?
+
+542
+00:35:30,711 --> 00:35:33,547
+Merchants, miners...
+
+543
+00:35:34,132 --> 00:35:36,299
+...tinkers, toy-makers.
+
+544
+00:35:36,467 --> 00:35:39,469
+Heh, heh. Hardly the stuff of legend.
+
+545
+00:35:39,929 --> 00:35:42,764
+There are a few warriors amongst us.
+
+546
+00:35:43,432 --> 00:35:45,308
+Old warriors.
+
+547
+00:35:45,476 --> 00:35:47,853
+I would take each and every one
+of these Dwarves...
+
+548
+00:35:48,020 --> 00:35:50,188
+...over an army from the lron Hills.
+
+549
+00:35:50,356 --> 00:35:53,275
+For when I called upon them,
+they answered.
+
+550
+00:35:54,068 --> 00:35:56,611
+Loyalty, honor...
+
+551
+00:35:57,029 --> 00:35:58,864
+...a willing heart.
+
+552
+00:36:00,449 --> 00:36:03,076
+I can ask no more than that.
+
+553
+00:36:03,619 --> 00:36:05,787
+You don't have to do this.
+
+554
+00:36:06,205 --> 00:36:07,831
+You have a choice.
+
+555
+00:36:07,999 --> 00:36:11,001
+You've done honorably by our people.
+
+556
+00:36:11,836 --> 00:36:15,630
+You have built a new life for us
+in the Blue Mountains.
+
+557
+00:36:15,923 --> 00:36:18,967
+A life of peace and plenty.
+
+558
+00:36:19,802 --> 00:36:24,764
+A life that is worth more than
+all the gold in Erebor.
+
+559
+00:36:25,308 --> 00:36:30,270
+From my grandfather to my father,
+this has come to me.
+
+560
+00:36:31,814 --> 00:36:35,734
+They dreamt of the day when the Dwarves
+of Erebor would reclaim their homeland.
+
+561
+00:36:37,570 --> 00:36:40,030
+There is no choice, Balin.
+
+562
+00:36:41,449 --> 00:36:43,074
+Not for me.
+
+563
+00:36:45,411 --> 00:36:47,120
+Then we are with you, laddie.
+
+564
+00:36:49,040 --> 00:36:51,374
+We will see it done.
+
+565
+00:36:54,587 --> 00:36:57,172
+[DWARVES HUMMING]
+
+566
+00:37:13,439 --> 00:37:20,987
+[SINGING]
+Far over the misty mountains cold
+
+567
+00:37:22,406 --> 00:37:26,534
+To dungeons deep
+
+568
+00:37:26,911 --> 00:37:30,956
+And caverns old
+
+569
+00:37:31,582 --> 00:37:35,710
+We must away
+
+570
+00:37:36,295 --> 00:37:40,382
+'Ere break of day
+
+571
+00:37:40,633 --> 00:37:49,099
+To find our long-forgotten gold
+
+572
+00:37:49,976 --> 00:37:58,316
+The pines were roaring on the height
+
+573
+00:37:59,026 --> 00:38:07,117
+The winds were moaning in the night
+
+574
+00:38:07,994 --> 00:38:16,293
+The fire was red, it flaming spread
+
+575
+00:38:17,211 --> 00:38:24,801
+The trees like torches blazed with light
+
+576
+00:38:38,399 --> 00:38:39,816
+[MOANS]
+
+577
+00:39:05,176 --> 00:39:06,885
+Hello?
+
+578
+00:39:17,063 --> 00:39:21,191
+Yes.
+
+579
+00:40:12,743 --> 00:40:14,160
+[CHICKENS CLUCKING]
+
+580
+00:40:32,680 --> 00:40:35,140
+Here, Mr. Bilbo, where are you off to?
+
+581
+00:40:35,307 --> 00:40:38,017
+-Can't stop, I'm already late!
+-Late for what?
+
+582
+00:40:38,352 --> 00:40:41,271
+I'm going on an adventure!
+
+583
+00:40:46,819 --> 00:40:50,238
+DORI: I said it. Didn't I say it?
+Coming here was a waste of time.
+
+584
+00:40:50,406 --> 00:40:51,990
+GLOIN:
+That's true enough.
+
+585
+00:40:52,158 --> 00:40:55,076
+DORI: Ridiculous notion. Use a Hobbit?
+A Halfling?
+
+586
+00:40:55,244 --> 00:40:56,661
+Whose idea was it anyway?
+
+587
+00:40:56,829 --> 00:40:57,871
+BILBO:
+Wait!
+
+588
+00:40:58,747 --> 00:40:59,789
+Wait!
+
+589
+00:40:59,957 --> 00:41:01,499
+THORIN:
+Whoa, whoa.
+
+590
+00:41:01,709 --> 00:41:03,001
+[PONIES NEIGHING]
+
+591
+00:41:03,169 --> 00:41:05,462
+Whoa, whoa.
+
+592
+00:41:11,010 --> 00:41:12,594
+I signed it.
+
+593
+00:41:14,305 --> 00:41:15,597
+Here.
+
+594
+00:41:22,938 --> 00:41:24,772
+[PONY SNORTS]
+
+595
+00:41:24,940 --> 00:41:27,442
+BALIN:
+Everything appears to be in order.
+
+596
+00:41:27,610 --> 00:41:29,986
+Welcome, Master Baggins...
+
+597
+00:41:30,613 --> 00:41:34,240
+...to the company of Thorin Oakenshield.
+
+598
+00:41:34,408 --> 00:41:37,911
+[ALL CHUCKLING AND CHATTERING]
+
+599
+00:41:39,580 --> 00:41:40,747
+Give him a pony.
+
+600
+00:41:41,207 --> 00:41:42,790
+No, no, that won't be necessary.
+
+601
+00:41:42,958 --> 00:41:45,168
+Thank you. I'm sure I can keep up on foot.
+
+602
+00:41:45,336 --> 00:41:47,921
+I've done my fair share of walking holidays,
+you know?
+
+603
+00:41:48,088 --> 00:41:50,131
+Even got as far as Frogmorton once. Aah!
+
+604
+00:41:55,471 --> 00:41:56,971
+[NEIGHS]
+
+605
+00:42:04,021 --> 00:42:05,897
+OIN:
+Come on, Nori. Pay up.
+
+606
+00:42:07,900 --> 00:42:09,984
+KILI: One more.
+OIN: Thanks, lad.
+
+607
+00:42:10,152 --> 00:42:11,736
+What's that about?
+
+608
+00:42:11,904 --> 00:42:16,449
+Oh, they took wagers
+on whether or not you'd turn up.
+
+609
+00:42:16,617 --> 00:42:19,452
+Most of them bet that you wouldn't.
+
+610
+00:42:20,829 --> 00:42:22,413
+And what did you think?
+
+611
+00:42:22,581 --> 00:42:24,165
+Well....
+
+612
+00:42:27,211 --> 00:42:31,798
+My dear fellow,
+I never doubted you for a second.
+
+613
+00:42:34,009 --> 00:42:36,511
+[SNEEZES THEN SIGHS]
+
+614
+00:42:36,679 --> 00:42:40,598
+It's horse hair. Having a reaction.
+
+615
+00:42:40,808 --> 00:42:42,058
+[GROANS]
+
+616
+00:42:42,226 --> 00:42:43,851
+No, wait, wait, stop.
+
+617
+00:42:44,478 --> 00:42:46,563
+Stop! We have to turn around.
+
+618
+00:42:46,897 --> 00:42:48,856
+GANDALF:
+What on earth is the matter?
+
+619
+00:42:49,024 --> 00:42:51,234
+-I forgot my handkerchief.
+BOFUR: Here.
+
+620
+00:42:52,903 --> 00:42:53,945
+Use this.
+
+621
+00:42:56,824 --> 00:42:57,865
+[ALL CHUCKLING]
+
+622
+00:42:58,325 --> 00:42:59,826
+THORIN:
+Move on.
+
+623
+00:43:07,001 --> 00:43:09,836
+GANDALF: You'll have to manage
+without pocket handkerchiefs...
+
+624
+00:43:10,004 --> 00:43:12,338
+...and a good many other things,
+Bilbo Baggins...
+
+625
+00:43:12,506 --> 00:43:15,883
+...before we reach our journey's end.
+
+626
+00:43:16,552 --> 00:43:21,848
+You were born to the rolling hills
+and little rivers of the Shire.
+
+627
+00:43:22,933 --> 00:43:25,810
+But home is now behind you.
+
+628
+00:43:25,978 --> 00:43:29,147
+The world is ahead.
+
+629
+00:43:41,702 --> 00:43:44,037
+[SNORING]
+
+630
+00:44:09,772 --> 00:44:13,232
+Hello, girl. Who's a good girl?
+
+631
+00:44:16,737 --> 00:44:18,655
+It's our little secret, Myrtle.
+
+632
+00:44:18,822 --> 00:44:20,782
+You must tell no one. Shh, shh.
+
+633
+00:44:20,991 --> 00:44:25,370
+[SCREECHING IN DISTANCE]
+
+634
+00:44:25,537 --> 00:44:26,579
+What was that?
+
+635
+00:44:27,956 --> 00:44:28,998
+Orcs.
+
+636
+00:44:29,708 --> 00:44:30,750
+Orcs?
+
+637
+00:44:32,419 --> 00:44:35,296
+Throat-cutters.
+There'll be dozens of them out there.
+
+638
+00:44:35,839 --> 00:44:37,632
+The lone-lands are crawling with them.
+
+639
+00:44:37,800 --> 00:44:40,677
+They strike in the wee small hours
+when everyone's asleep.
+
+640
+00:44:40,844 --> 00:44:44,013
+Quick and quiet, no screams.
+Just lots of blood.
+
+641
+00:44:47,309 --> 00:44:48,393
+[BOTH CHUCKLING]
+
+642
+00:44:48,560 --> 00:44:50,269
+THORIN:
+You think that's funny?
+
+643
+00:44:52,189 --> 00:44:54,565
+You think a night raid by Orcs is a joke?
+
+644
+00:44:55,359 --> 00:44:56,776
+We didn't mean anything by it.
+
+645
+00:44:57,945 --> 00:44:59,737
+THORIN:
+No, you didn't.
+
+646
+00:45:00,072 --> 00:45:02,365
+You know nothing of the world.
+
+647
+00:45:03,992 --> 00:45:06,244
+BALIN:
+Don't mind him, laddie.
+
+648
+00:45:06,412 --> 00:45:11,124
+Thorin has more cause than most
+to hate Orcs.
+
+649
+00:45:15,963 --> 00:45:19,006
+After the dragon took the Lonely Mountain...
+
+650
+00:45:19,174 --> 00:45:25,012
+...King Thror tried to reclaim
+the ancient Dwarf kingdom of Moria.
+
+651
+00:45:26,890 --> 00:45:30,268
+But our enemy had got there first.
+
+652
+00:45:42,489 --> 00:45:46,576
+Moria had been taken by legions of Orcs...
+
+653
+00:45:46,744 --> 00:45:51,456
+...led by the most vile of all their race:
+
+654
+00:45:51,915 --> 00:45:55,042
+Azog the Defiler.
+
+655
+00:45:57,337 --> 00:46:00,047
+The giant Gundabad Orc...
+
+656
+00:46:00,507 --> 00:46:05,470
+...had sworn to wipe out the line of Durin.
+
+657
+00:46:09,683 --> 00:46:11,434
+He began...
+
+658
+00:46:12,519 --> 00:46:14,395
+...by beheading the king.
+
+659
+00:46:14,563 --> 00:46:16,564
+[ROARING]
+
+660
+00:46:25,783 --> 00:46:28,576
+No!
+
+661
+00:46:29,870 --> 00:46:34,707
+BALIN: Thrain, Thorin's father,
+was driven mad by grief.
+
+662
+00:46:34,875 --> 00:46:37,502
+He went missing. Taken prisoner or killed...
+
+663
+00:46:38,128 --> 00:46:40,213
+...we did not know.
+
+664
+00:46:41,048 --> 00:46:42,548
+We were leaderless.
+
+665
+00:46:43,300 --> 00:46:46,844
+Defeat and death...
+
+666
+00:46:47,012 --> 00:46:48,846
+...were upon us.
+
+667
+00:46:51,809 --> 00:46:55,645
+That is when I saw him.
+
+668
+00:46:57,898 --> 00:46:59,607
+A young Dwarf prince...
+
+669
+00:47:00,567 --> 00:47:04,237
+...facing down the pale Orc.
+
+670
+00:47:08,450 --> 00:47:12,078
+He stood alone against this terrible foe.
+
+671
+00:47:12,246 --> 00:47:14,205
+[AZOG ROARS]
+
+672
+00:47:21,797 --> 00:47:23,422
+His armor rent...
+
+673
+00:47:23,590 --> 00:47:27,051
+...wielding nothing but an oaken branch
+as a shield.
+
+674
+00:47:34,518 --> 00:47:35,560
+[THORIN YELLS]
+
+675
+00:47:37,813 --> 00:47:39,981
+[AZOG SCREAMING]
+
+676
+00:47:40,148 --> 00:47:44,777
+Azog the Defiler learned that day...
+
+677
+00:47:45,404 --> 00:47:49,740
+...that the line of Durin
+would not be so easily broken.
+
+678
+00:47:53,912 --> 00:47:56,873
+[THORIN SHOUTING IN DWARVISH]
+
+679
+00:48:05,799 --> 00:48:07,758
+[ALL YELLING]
+
+680
+00:48:17,686 --> 00:48:19,228
+Our forces rallied...
+
+681
+00:48:20,439 --> 00:48:22,899
+...and drove the Orcs back.
+
+682
+00:48:24,776 --> 00:48:26,068
+And our enemy...
+
+683
+00:48:26,945 --> 00:48:28,863
+...had been defeated.
+
+684
+00:48:30,365 --> 00:48:32,700
+But there was no feast...
+
+685
+00:48:33,410 --> 00:48:36,162
+...nor song that night...
+
+686
+00:48:36,330 --> 00:48:41,125
+...for our dead
+were beyond the count of grief.
+
+687
+00:48:42,210 --> 00:48:45,546
+We few had survived.
+
+688
+00:48:52,721 --> 00:48:55,640
+And I thought to myself then...
+
+689
+00:48:58,393 --> 00:49:02,688
+...there is one who I could follow.
+
+690
+00:49:04,900 --> 00:49:07,026
+There is one...
+
+691
+00:49:07,778 --> 00:49:09,695
+...I could call king.
+
+692
+00:49:28,715 --> 00:49:30,007
+And the pale Orc?
+
+693
+00:49:32,427 --> 00:49:33,886
+What happened to him?
+
+694
+00:49:34,054 --> 00:49:37,598
+He slunk back into the hole
+whence he came.
+
+695
+00:49:38,058 --> 00:49:41,644
+That filth died of his wounds long ago.
+
+696
+00:49:58,286 --> 00:50:00,287
+[GROWLING]
+
+697
+00:50:04,876 --> 00:50:07,795
+[IN BLACK SPEECH]
+
+698
+00:50:16,596 --> 00:50:18,597
+[THUNDER RUMBLING]
+
+699
+00:50:27,733 --> 00:50:31,360
+Here, Mr. Gandalf, can't you do something
+about this deluge?
+
+700
+00:50:31,987 --> 00:50:34,405
+lt is raining, Master Dwarf...
+
+701
+00:50:34,573 --> 00:50:38,284
+...and it will continue to rain
+until the rain is done.
+
+702
+00:50:38,869 --> 00:50:42,955
+If you wish to change the weather of the world,
+you should find yourself another Wizard.
+
+703
+00:50:44,624 --> 00:50:45,875
+-Are there any?
+GANDALF: What?
+
+704
+00:50:46,043 --> 00:50:48,669
+BILBO: Other Wizards.
+GANDALF: There are five of us.
+
+705
+00:50:48,837 --> 00:50:53,382
+The greatest of our order
+is Saruman the White.
+
+706
+00:50:53,550 --> 00:50:56,010
+Then there are the two Blue Wizards....
+
+707
+00:50:57,345 --> 00:50:59,722
+Do you know,
+I've quite forgotten their names.
+
+708
+00:51:00,891 --> 00:51:02,141
+And who is the fifth?
+
+709
+00:51:02,309 --> 00:51:06,270
+Well, that would be Radagast the Brown.
+
+710
+00:51:06,438 --> 00:51:10,191
+ls he a great Wizard? Or is he more like you?
+
+711
+00:51:12,277 --> 00:51:16,989
+I think he's a very great Wizard,
+in his own way.
+
+712
+00:51:17,449 --> 00:51:21,744
+He's a gentle soul who prefers
+the company of animals to others.
+
+713
+00:51:21,912 --> 00:51:24,997
+He keeps a watchful eye
+over the vast forest lands...
+
+714
+00:51:25,165 --> 00:51:27,708
+...to the east. And a good thing too.
+
+715
+00:51:27,876 --> 00:51:32,922
+For always evil will look to find
+a foothold in this world.
+
+716
+00:51:39,429 --> 00:51:42,598
+Not good. Not good at all.
+
+717
+00:51:48,230 --> 00:51:49,855
+[SNIFFING]
+
+718
+00:51:50,023 --> 00:51:51,315
+Eww.
+
+719
+00:51:57,531 --> 00:51:59,990
+[WHISTLING]
+
+720
+00:52:06,748 --> 00:52:09,083
+Oh, no. Sebastian.
+
+721
+00:52:09,376 --> 00:52:11,752
+[SEBASTIAN WHIMPERING]
+
+722
+00:52:12,796 --> 00:52:13,838
+Good gracious.
+
+723
+00:52:27,602 --> 00:52:29,395
+[SEBASTIAN WHIMPERS
+THEN RADAGAST SHUSHES]
+
+724
+00:52:34,734 --> 00:52:35,776
+Come on.
+
+725
+00:52:35,944 --> 00:52:39,071
+Move back! Give him some air,
+for goodness sake.
+
+726
+00:52:48,957 --> 00:52:50,624
+There. There.
+
+727
+00:52:51,960 --> 00:52:54,628
+I don't understand why it's not working.
+
+728
+00:52:54,796 --> 00:52:57,256
+It's not as if it's witchcraft.
+
+729
+00:53:00,260 --> 00:53:02,553
+Witchcraft.
+
+730
+00:53:03,638 --> 00:53:07,725
+Oh, but it is.
+
+731
+00:53:08,643 --> 00:53:14,315
+A dark and powerful magic.
+
+732
+00:53:15,609 --> 00:53:18,694
+[CHITTERING]
+
+733
+00:53:38,757 --> 00:53:40,299
+[WHIMPERS]
+
+734
+00:53:50,101 --> 00:53:51,310
+[ANIMALS SQUEAKING]
+
+735
+00:53:55,023 --> 00:53:58,442
+[RADAGAST CHANTING
+IN FOREIGN LANGUAGE]
+
+736
+00:54:22,717 --> 00:54:25,219
+[SEBASTIAN GRUNTING]
+
+737
+00:54:46,116 --> 00:54:50,703
+Where on this good earth
+did those foul creatures come from?
+
+738
+00:54:50,870 --> 00:54:52,746
+[BIRD CHIRPING]
+
+739
+00:54:52,914 --> 00:54:54,623
+The old fortress?
+
+740
+00:54:55,208 --> 00:54:56,375
+Show me.
+
+741
+00:55:29,951 --> 00:55:31,744
+THORIN:
+We'll camp here for the night.
+
+742
+00:55:32,203 --> 00:55:36,582
+Fili, Kili, look after the ponies.
+Make sure you stay with them.
+
+743
+00:55:36,833 --> 00:55:40,878
+A farmer and his family used to live here.
+
+744
+00:55:41,046 --> 00:55:43,839
+THORIN: Oin, Gloin. Get a fire going.
+OIN: Aye.
+
+745
+00:55:44,007 --> 00:55:45,049
+Right you are.
+
+746
+00:55:45,216 --> 00:55:48,844
+I think it would be wiser to move on.
+
+747
+00:55:49,846 --> 00:55:52,723
+We could make for the Hidden Valley.
+
+748
+00:55:53,016 --> 00:55:54,892
+I have told you already...
+
+749
+00:55:55,060 --> 00:55:56,935
+...I will not go near that place.
+
+750
+00:55:57,103 --> 00:55:59,396
+Why not? The Elves could help us.
+
+751
+00:55:59,564 --> 00:56:01,648
+We could get food, rest, advice.
+
+752
+00:56:01,816 --> 00:56:03,942
+THORIN:
+I do not need their advice.
+
+753
+00:56:04,110 --> 00:56:08,155
+We have a map that we cannot read.
+Lord Elrond could help us.
+
+754
+00:56:08,323 --> 00:56:09,698
+Help?
+
+755
+00:56:10,742 --> 00:56:12,826
+A dragon attacks Erebor.
+
+756
+00:56:12,994 --> 00:56:15,245
+What help came from the Elves?
+
+757
+00:56:16,331 --> 00:56:18,248
+Orcs plunder Moria...
+
+758
+00:56:18,416 --> 00:56:20,834
+...desecrate our sacred halls.
+
+759
+00:56:21,002 --> 00:56:23,879
+The Elves looked on and did nothing.
+
+760
+00:56:24,881 --> 00:56:28,926
+And you ask me to seek out the very people
+who betrayed my grandfather.
+
+761
+00:56:29,094 --> 00:56:30,386
+Who betrayed my father.
+
+762
+00:56:30,553 --> 00:56:32,346
+You are neither of them.
+
+763
+00:56:33,264 --> 00:56:36,725
+I did not give you that map and key
+for you to hold onto the past.
+
+764
+00:56:36,893 --> 00:56:38,936
+I did not know that they were yours to keep.
+
+765
+00:56:45,151 --> 00:56:47,861
+Everything all right?
+Gandalf, where are you going?
+
+766
+00:56:48,029 --> 00:56:51,448
+GANDALF: To seek the company of the
+only one around here who's got any sense.
+
+767
+00:56:51,616 --> 00:56:54,284
+-And who's that?
+GANDALF: Myself, Mr. Baggins.
+
+768
+00:56:54,744 --> 00:56:57,246
+I've had enough of Dwarves for one day.
+
+769
+00:56:59,165 --> 00:57:01,125
+Come on, Bombur, we're hungry.
+
+770
+00:57:01,793 --> 00:57:03,919
+ls he coming back?
+
+771
+00:57:06,923 --> 00:57:08,215
+[DWARVES CHATTERING]
+
+772
+00:57:08,383 --> 00:57:09,675
+He's been a long time.
+
+773
+00:57:09,843 --> 00:57:11,135
+-Who?
+-Gandalf.
+
+774
+00:57:11,302 --> 00:57:13,470
+He's a Wizard. He does as he chooses.
+
+775
+00:57:13,638 --> 00:57:16,682
+Here, do us a favor. Take this to the lads.
+
+776
+00:57:17,267 --> 00:57:18,809
+Stop it. You've had plenty.
+
+777
+00:57:18,977 --> 00:57:22,604
+GLOIN: Aye, it's not a bad stew, Bombur.
+I've had worse.
+
+778
+00:57:22,772 --> 00:57:24,815
+NORI:
+Dori could've cooked it. Ha-ha-ha.
+
+779
+00:57:24,983 --> 00:57:27,234
+DORI:
+Hilarious.
+
+780
+00:57:37,954 --> 00:57:39,246
+What's the matter?
+
+781
+00:57:39,414 --> 00:57:43,834
+-We're supposed to be looking after the ponies.
+-Only we've encountered a slight problem.
+
+782
+00:57:44,002 --> 00:57:45,878
+KILI:
+We had 1 6.
+
+783
+00:57:46,045 --> 00:57:48,839
+FILI:
+Now there's 14.
+
+784
+00:57:52,218 --> 00:57:54,511
+KILI:
+Daisy and Bungo are missing.
+
+785
+00:57:54,679 --> 00:57:56,472
+Well, that's not good. Ha, ha.
+
+786
+00:57:56,639 --> 00:57:59,266
+And that is not good at all.
+Shouldn't we tell Thorin?
+
+787
+00:57:59,434 --> 00:58:02,352
+Uh, no. Let's not worry him.
+
+788
+00:58:02,520 --> 00:58:05,772
+As our official burglar,
+we thought you might like to look into it.
+
+789
+00:58:05,940 --> 00:58:07,316
+Well, uh....
+
+790
+00:58:07,859 --> 00:58:12,029
+-Look, something big uprooted these trees.
+-That was our thinking.
+
+791
+00:58:12,197 --> 00:58:16,700
+It's something very big
+and possibly quite dangerous.
+
+792
+00:58:17,535 --> 00:58:18,577
+Hey.
+
+793
+00:58:19,162 --> 00:58:20,704
+There's a light.
+
+794
+00:58:21,331 --> 00:58:22,748
+Over here.
+
+795
+00:58:25,251 --> 00:58:26,293
+Stay down.
+
+796
+00:58:27,921 --> 00:58:30,797
+[GRUNTING AND LAUGHTER]
+
+797
+00:58:31,758 --> 00:58:33,175
+What is it?
+
+798
+00:58:33,343 --> 00:58:34,760
+Trolls.
+
+799
+00:58:53,071 --> 00:58:54,112
+Oh.
+
+800
+00:58:54,322 --> 00:58:56,323
+[PONIES NEIGHING]
+
+801
+00:59:01,704 --> 00:59:03,705
+He's got Myrtle and Minty.
+
+802
+00:59:04,749 --> 00:59:07,543
+I think they're gonna eat them.
+We have to do something.
+
+803
+00:59:07,710 --> 00:59:09,503
+Yes, you should.
+
+804
+00:59:09,796 --> 00:59:13,799
+Mountain Trolls are slow and stupid,
+and you're so small, they'll never see you.
+
+805
+00:59:13,967 --> 00:59:15,926
+It's perfectly safe. We'll be behind you.
+
+806
+00:59:16,094 --> 00:59:19,721
+If you run into trouble, hoot twice
+like a barn owl and once like a brown owl.
+
+807
+00:59:19,889 --> 00:59:22,849
+BILBO: Twice like a barn owl.
+No, twice like a brown-- Once like a--
+
+808
+00:59:23,017 --> 00:59:24,977
+Like a-- Are you sure this is a good idea?
+
+809
+00:59:25,353 --> 00:59:28,397
+BERT:
+Mutton yesterday, mutton today...
+
+810
+00:59:28,565 --> 00:59:32,067
+...and, blimey, if it don't look like
+mutton again tomorrow.
+
+811
+00:59:33,152 --> 00:59:35,153
+WILLIAM:
+Quit your griping.
+
+812
+00:59:35,321 --> 00:59:39,575
+These ain't sheep. These is fresh nags.
+
+813
+00:59:39,742 --> 00:59:45,080
+Oh! I don't like horse. I never have.
+Not enough fat on them.
+
+814
+00:59:45,248 --> 00:59:47,583
+Well, it's better than leathery old farmer.
+
+815
+00:59:47,750 --> 00:59:52,129
+All skin and bone, he was.
+I'm still picking bits of him out of me teeth.
+
+816
+00:59:52,297 --> 00:59:53,338
+[TOM SNEEZES]
+
+817
+00:59:53,506 --> 00:59:56,633
+Well, that's lovely, that is. A floater.
+
+818
+00:59:56,801 --> 00:59:58,719
+WILLIAM:
+Might improve the flavor.
+
+819
+00:59:58,886 --> 01:00:01,471
+Ah. There's more where that came from.
+
+820
+01:00:01,639 --> 01:00:02,931
+-Oh, no, you don't!
+TOM: Ow!
+
+821
+01:00:03,224 --> 01:00:06,685
+[TOM WHIMPERING]
+
+822
+01:00:06,853 --> 01:00:08,770
+Sit down!
+
+823
+01:00:10,607 --> 01:00:12,482
+[SNEEZES]
+
+824
+01:00:12,734 --> 01:00:14,735
+[TOM BLOWING NOSE]
+
+825
+01:00:16,904 --> 01:00:21,116
+Well, I hope you're gonna gut these nags.
+
+826
+01:00:21,284 --> 01:00:24,036
+I don't like the stinky parts.
+
+827
+01:00:24,287 --> 01:00:27,122
+-Ow!
+-I said sit down.
+
+828
+01:00:27,290 --> 01:00:28,332
+I'm starving!
+
+829
+01:00:28,499 --> 01:00:31,585
+Now, are we having horse tonight or what?
+
+830
+01:00:31,753 --> 01:00:35,797
+BERT: Shut your cakehole.
+You'll eat what I give you.
+
+831
+01:00:36,674 --> 01:00:40,385
+WILLIAM: How come he's the cook?
+Everything tastes the same.
+
+832
+01:00:40,553 --> 01:00:42,137
+Everything tastes like chicken.
+
+833
+01:00:42,305 --> 01:00:43,513
+TOM:
+Except the chicken.
+
+834
+01:00:43,681 --> 01:00:45,015
+WILLIAM:
+What tastes like fish!
+
+835
+01:00:45,183 --> 01:00:48,477
+I'm just saying,
+a little appreciation would be nice.
+
+836
+01:00:48,645 --> 01:00:50,020
+[PONY NEIGHS]
+
+837
+01:00:50,855 --> 01:00:54,608
+Oh. "Thank you very much, Bert.
+Lovely stew, Bert."
+
+838
+01:00:54,776 --> 01:00:58,737
+-How hard is that?
+-Shh. Shh, shh. Shh.
+
+839
+01:00:59,197 --> 01:01:01,990
+BERT:
+Just needs a sprinkle of squirrel dung.
+
+840
+01:01:03,117 --> 01:01:05,035
+Here, that's my grog.
+
+841
+01:01:05,244 --> 01:01:07,496
+[TOM WHIMPERS]
+
+842
+01:01:07,705 --> 01:01:10,666
+Sorry. Ow!
+
+843
+01:01:12,585 --> 01:01:16,797
+Ooh. That is beautifully balanced, that is.
+
+844
+01:01:17,423 --> 01:01:20,384
+Wrap your laughing gear around that, eh?
+
+845
+01:01:21,344 --> 01:01:22,386
+Good, isn't it?
+
+846
+01:01:22,720 --> 01:01:24,137
+[BERT CHUCKLES]
+
+847
+01:01:24,305 --> 01:01:26,848
+That's why I'm the cook.
+
+848
+01:01:27,308 --> 01:01:29,059
+[WILLIAM GRUNTS]
+
+849
+01:01:34,607 --> 01:01:38,819
+WILLIAM: Oh, me guts are grumbling.
+I got to snaffle something.
+
+850
+01:01:38,986 --> 01:01:41,738
+-Flesh, I need flesh.
+TOP: Ah! Ah!
+
+851
+01:01:42,281 --> 01:01:43,699
+[TOM BLOWS NOSE]
+
+852
+01:01:44,033 --> 01:01:45,075
+[SCREAMS]
+
+853
+01:01:45,243 --> 01:01:46,284
+Blimey!
+
+854
+01:01:47,036 --> 01:01:49,913
+Bert. Bert!
+Look what's come out of me hooter.
+
+855
+01:01:50,081 --> 01:01:52,207
+It's got arms and legs and everything.
+
+856
+01:01:52,542 --> 01:01:54,000
+BERT:
+What is it?
+
+857
+01:01:54,168 --> 01:01:56,837
+I don't know.
+But I don't like the way it wriggles around.
+
+858
+01:02:00,842 --> 01:02:04,052
+What are you, then? An oversized squirrel?
+
+859
+01:02:04,220 --> 01:02:05,929
+I'm a burglar-- Uh, Hobbit.
+
+860
+01:02:06,097 --> 01:02:08,181
+A burglar Hobbit?
+
+861
+01:02:08,349 --> 01:02:09,975
+Can we cook him?
+
+862
+01:02:10,143 --> 01:02:12,686
+We can try.
+
+863
+01:02:15,481 --> 01:02:17,566
+He wouldn't make more than a mouthful.
+
+864
+01:02:17,734 --> 01:02:20,527
+Not when he's skinned and boned.
+
+865
+01:02:20,695 --> 01:02:23,697
+Perhaps there's more burglar Hobbits
+around these parts.
+
+866
+01:02:23,865 --> 01:02:26,908
+Might be enough for a pie.
+
+867
+01:02:27,160 --> 01:02:29,161
+-Grab him!
+TOM: He's too quick.
+
+868
+01:02:29,328 --> 01:02:32,664
+WILLIAM:
+Right. Come here, you little--
+
+869
+01:02:32,832 --> 01:02:33,999
+Gotcha.
+
+870
+01:02:34,375 --> 01:02:38,003
+Are there any more of you little fellas
+hiding where you shouldn't?
+
+871
+01:02:38,171 --> 01:02:39,755
+No.
+
+872
+01:02:40,006 --> 01:02:41,339
+He's lying.
+
+873
+01:02:41,507 --> 01:02:45,844
+-No, I'm not!
+-Hold his toes over the fire.
+
+874
+01:02:46,012 --> 01:02:48,722
+Make him squeal!
+
+875
+01:02:49,182 --> 01:02:50,766
+[SQUEALS]
+
+876
+01:02:52,185 --> 01:02:53,226
+Drop him!
+
+877
+01:02:53,394 --> 01:02:54,811
+You what?
+
+878
+01:02:55,605 --> 01:02:57,063
+I said...
+
+879
+01:02:57,356 --> 01:02:58,398
+...drop him.
+
+880
+01:02:58,566 --> 01:02:59,941
+[GROWLS]
+
+881
+01:03:00,109 --> 01:03:01,151
+[BILBO YELLS]
+
+882
+01:03:02,528 --> 01:03:04,529
+[ALL YELLING]
+
+883
+01:03:16,125 --> 01:03:17,709
+[TOM SQUEALS]
+
+884
+01:03:19,670 --> 01:03:21,171
+[ROARS]
+
+885
+01:03:21,339 --> 01:03:25,050
+WILLIAM:
+Get the sacks! Stick them in the sacks!
+
+886
+01:03:26,093 --> 01:03:27,677
+[PONIES NEIGHING]
+
+887
+01:03:34,268 --> 01:03:36,561
+[TOM SCREAMING]
+
+888
+01:03:47,323 --> 01:03:48,782
+Ow!
+
+889
+01:03:59,293 --> 01:04:01,211
+[SCREAMS]
+
+890
+01:04:14,392 --> 01:04:16,560
+KILI:
+Come on! Get up!
+
+891
+01:04:16,853 --> 01:04:18,144
+-Bilbo!
+-Don't!
+
+892
+01:04:19,772 --> 01:04:21,773
+Lay down your arms...
+
+893
+01:04:22,441 --> 01:04:24,234
+...or we'll rip his off.
+
+894
+01:04:31,951 --> 01:04:33,410
+[SWORD CLANGS]
+
+895
+01:04:38,875 --> 01:04:40,876
+NORI:
+Oh! That's hot, that's hot, that's hot!
+
+896
+01:04:41,043 --> 01:04:42,669
+Don't bother cooking them.
+
+897
+01:04:42,837 --> 01:04:47,090
+Let's just sit on them
+and squash them into jelly.
+
+898
+01:04:47,258 --> 01:04:51,469
+They should be sautéed and grilled
+with a sprinkle of sage.
+
+899
+01:04:51,637 --> 01:04:53,179
+BALIN:
+ls this really necessary?
+
+900
+01:04:53,347 --> 01:04:55,140
+That does sound quite nice.
+
+901
+01:04:55,308 --> 01:04:57,726
+BOMBUR: Untie me, mister.
+GLOIN: Eat someone your own size.
+
+902
+01:04:58,436 --> 01:05:00,353
+WILLIAM:
+Never mind the seasoning.
+
+903
+01:05:00,521 --> 01:05:02,314
+We ain't got all night.
+
+904
+01:05:02,481 --> 01:05:05,817
+Dawn ain't far away.
+Let's get a move on.
+
+905
+01:05:05,985 --> 01:05:08,403
+I don't fancy being turned to stone.
+
+906
+01:05:11,115 --> 01:05:12,449
+BILBO:
+Wait!
+
+907
+01:05:12,617 --> 01:05:15,660
+You are making a terrible mistake.
+
+908
+01:05:15,828 --> 01:05:18,038
+You can't reason with them. They're half-wits!
+
+909
+01:05:18,205 --> 01:05:20,290
+Half-wits? What does that make us?
+
+910
+01:05:20,917 --> 01:05:23,710
+I meant with the seasoning.
+
+911
+01:05:24,045 --> 01:05:26,671
+What about the seasoning?
+
+912
+01:05:26,839 --> 01:05:28,089
+Well, have you smelt them?
+
+913
+01:05:28,424 --> 01:05:31,968
+You're gonna need something stronger
+than sage before you plate this lot up.
+
+914
+01:05:32,136 --> 01:05:35,263
+BOMBUR: Traitor!
+-What do you know about cooking Dwarf?
+
+915
+01:05:35,806 --> 01:05:36,848
+BERT:
+Shut up.
+
+916
+01:05:37,183 --> 01:05:40,852
+Let the flurgaburburhobbit talk.
+
+917
+01:05:41,771 --> 01:05:44,689
+The secret to cooking Dwarf is....
+
+918
+01:05:44,857 --> 01:05:47,984
+BERT: Yes? Come on. Tell us the secret.
+-It's, uh....
+
+919
+01:05:48,152 --> 01:05:50,195
+Yes, I'm telling you. The secret is...
+
+920
+01:05:52,740 --> 01:05:54,491
+...to skin them first.
+
+921
+01:05:54,659 --> 01:05:56,576
+NORI:
+What? Skin us?
+
+922
+01:05:56,744 --> 01:05:59,287
+Tom, get me filleting knife.
+
+923
+01:05:59,455 --> 01:06:01,122
+I'll skin you, you little--!
+
+924
+01:06:01,290 --> 01:06:03,166
+DWALIN:
+I won't forget that. I won't forget it.
+
+925
+01:06:03,334 --> 01:06:05,669
+What a load of rubbish.
+
+926
+01:06:05,836 --> 01:06:08,755
+I've eaten plenty with their skins on.
+
+927
+01:06:08,923 --> 01:06:11,299
+Scarf them, I say, boots and all.
+
+928
+01:06:11,926 --> 01:06:14,219
+TOM:
+He's right.
+
+929
+01:06:14,387 --> 01:06:17,013
+Nothing wrong with a bit of raw Dwarf.
+
+930
+01:06:19,725 --> 01:06:21,935
+Nice and crunchy.
+
+931
+01:06:22,269 --> 01:06:24,813
+Oh, not that one. He's infected.
+
+932
+01:06:25,106 --> 01:06:26,731
+-Huh?
+-You what?
+
+933
+01:06:26,899 --> 01:06:31,027
+Yeah, he's got worms in his tubes.
+
+934
+01:06:31,195 --> 01:06:33,154
+TOM: Eww!
+BOMBUR: Aah!
+
+935
+01:06:33,406 --> 01:06:36,700
+ln fact, they all have.
+They're infested with parasites.
+
+936
+01:06:36,867 --> 01:06:39,828
+It's a terrible business.
+I wouldn't risk it. I really wouldn't.
+
+937
+01:06:39,996 --> 01:06:41,871
+Parasites? Did he say "parasites"?
+
+938
+01:06:42,039 --> 01:06:44,833
+We don't have parasites. You have parasites!
+
+939
+01:06:45,584 --> 01:06:47,502
+OIN:
+What are you talking about, laddie?
+
+940
+01:06:47,670 --> 01:06:48,920
+[KILI GRUNTS]
+
+941
+01:06:51,048 --> 01:06:52,924
+I've got parasites as big as my arm.
+
+942
+01:06:53,092 --> 01:06:55,677
+Mine are the biggest parasites.
+I've got huge parasites.
+
+943
+01:06:55,845 --> 01:06:57,512
+[DWARVES CHATTERING]
+
+944
+01:06:57,722 --> 01:06:59,180
+KILI: We're riddled.
+ORI: Yes, I'm riddled.
+
+945
+01:06:59,348 --> 01:07:00,640
+Yes, we are, badly.
+
+946
+01:07:00,808 --> 01:07:03,685
+What would you have us do, then?
+
+947
+01:07:03,853 --> 01:07:05,395
+Let them all go?
+
+948
+01:07:05,771 --> 01:07:09,107
+-Well....
+-You think I don't know what you're up to?
+
+949
+01:07:09,525 --> 01:07:13,611
+This little ferret is taking us for fools.
+
+950
+01:07:14,071 --> 01:07:15,613
+-Ferret?
+-Fools?
+
+951
+01:07:15,781 --> 01:07:18,742
+GANDALF:
+The dawn will take you all.
+
+952
+01:07:20,161 --> 01:07:21,786
+-Who's that?
+-No idea.
+
+953
+01:07:21,954 --> 01:07:23,079
+Can we eat him too?
+
+954
+01:07:26,459 --> 01:07:28,168
+[TROLLS GROANING]
+
+955
+01:07:41,974 --> 01:07:43,725
+[ALL LAUGHING]
+
+956
+01:07:49,231 --> 01:07:51,775
+Get your foot out of my back.
+
+957
+01:07:52,109 --> 01:07:54,360
+[GRUNTING]
+
+958
+01:07:54,528 --> 01:07:56,529
+[DWARVES CHATTERING]
+
+959
+01:07:57,740 --> 01:07:59,032
+Ah.
+
+960
+01:08:01,285 --> 01:08:03,453
+Where did you go to, if I may ask?
+
+961
+01:08:03,621 --> 01:08:05,288
+To look ahead.
+
+962
+01:08:05,664 --> 01:08:08,500
+-What brought you back?
+-Looking behind.
+
+963
+01:08:09,502 --> 01:08:10,710
+Nasty business.
+
+964
+01:08:10,878 --> 01:08:12,378
+Still, they're all in one piece.
+
+965
+01:08:12,546 --> 01:08:14,047
+No thanks to your burglar.
+
+966
+01:08:15,508 --> 01:08:17,592
+He had the nous to play for time.
+
+967
+01:08:19,011 --> 01:08:21,387
+None of the rest of you thought of that.
+
+968
+01:08:23,474 --> 01:08:26,392
+They must have come down
+from the Ettenmoors.
+
+969
+01:08:26,560 --> 01:08:29,354
+THORIN: Since when do Mountain Trolls
+venture this far south?
+
+970
+01:08:29,522 --> 01:08:31,606
+Ooh. Not for an age.
+
+971
+01:08:32,399 --> 01:08:35,735
+Not since a darker power ruled these lands.
+
+972
+01:08:41,700 --> 01:08:45,245
+They could not have moved in daylight.
+
+973
+01:08:45,788 --> 01:08:48,164
+There must be a cave nearby.
+
+974
+01:08:50,042 --> 01:08:52,043
+[INSECTS BUZZING]
+
+975
+01:08:58,801 --> 01:09:01,094
+NORI:
+Oh, what's that stench?
+
+976
+01:09:01,262 --> 01:09:04,430
+GANDALF:
+It's a Troll-hoard.
+
+977
+01:09:04,807 --> 01:09:07,392
+Be careful what you touch.
+
+978
+01:09:07,560 --> 01:09:09,561
+[DWARVES COUGHING]
+
+979
+01:09:19,864 --> 01:09:22,907
+Seems a shame
+just to leave it lying around.
+
+980
+01:09:24,326 --> 01:09:26,953
+-Anyone could take it.
+-Agreed.
+
+981
+01:09:27,121 --> 01:09:28,788
+-Nori.
+NORI: Yeah?
+
+982
+01:09:28,956 --> 01:09:30,331
+Get a shovel.
+
+983
+01:09:47,600 --> 01:09:49,642
+These swords were not made by any Troll.
+
+984
+01:09:55,649 --> 01:09:59,903
+Nor were they made
+by any smith among Men.
+
+985
+01:10:04,617 --> 01:10:06,659
+These were forged in Gondolin...
+
+986
+01:10:06,827 --> 01:10:10,330
+...by the High Elves of the First Age.
+
+987
+01:10:10,831 --> 01:10:13,041
+You could not wish for a finer blade.
+
+988
+01:10:27,014 --> 01:10:28,848
+BOFUR: Set it down.
+GLOIN: That's good.
+
+989
+01:10:29,808 --> 01:10:31,476
+BOFUR:
+All right, come on. Quick.
+
+990
+01:10:39,818 --> 01:10:42,487
+We're making a long-term deposit.
+
+991
+01:10:43,113 --> 01:10:44,697
+THORIN:
+Let's get out of this foul place.
+
+992
+01:10:45,157 --> 01:10:46,824
+Come on, let's go.
+
+993
+01:10:46,992 --> 01:10:48,952
+Bofur, Gloin, Nori.
+
+994
+01:11:08,430 --> 01:11:10,181
+GANDALF: Bilbo.
+BILBO: Hmm?
+
+995
+01:11:11,642 --> 01:11:12,684
+Here.
+
+996
+01:11:12,851 --> 01:11:15,395
+This is about your size.
+
+997
+01:11:21,068 --> 01:11:22,443
+I can't take this.
+
+998
+01:11:22,820 --> 01:11:24,821
+The blade is of Elvish make...
+
+999
+01:11:24,989 --> 01:11:29,951
+...which means it will glow blue
+when Orcs or Goblins are nearby.
+
+1000
+01:11:31,120 --> 01:11:33,454
+I have never used a sword in my life.
+
+1001
+01:11:33,622 --> 01:11:35,623
+And I hope you never have to.
+
+1002
+01:11:36,542 --> 01:11:38,209
+But if you do, remember this:
+
+1003
+01:11:39,628 --> 01:11:44,924
+True courage is about knowing
+not when to take a life...
+
+1004
+01:11:45,592 --> 01:11:47,802
+...but when to spare one.
+
+1005
+01:11:53,142 --> 01:11:54,684
+THORIN:
+Something's coming!
+
+1006
+01:11:54,852 --> 01:11:56,978
+-Gandalf.
+GANDALF: Stay together!
+
+1007
+01:11:57,813 --> 01:12:01,190
+Hurry now! Arm yourselves!
+
+1008
+01:12:19,001 --> 01:12:22,378
+Thieves! Fire! Murder!
+
+1009
+01:12:24,048 --> 01:12:25,923
+GANDALF:
+Radagast.
+
+1010
+01:12:26,467 --> 01:12:28,384
+It's Radagast the Brown.
+
+1011
+01:12:28,552 --> 01:12:30,219
+Well....
+
+1012
+01:12:32,473 --> 01:12:34,140
+What on earth are you doing here?
+
+1013
+01:12:34,308 --> 01:12:35,850
+I was looking for you, Gandalf.
+
+1014
+01:12:36,018 --> 01:12:37,393
+Something's wrong.
+
+1015
+01:12:37,561 --> 01:12:39,687
+Something's terribly wrong.
+
+1016
+01:12:39,855 --> 01:12:41,064
+Yes?
+
+1017
+01:12:43,525 --> 01:12:44,776
+Oh.
+
+1018
+01:12:46,487 --> 01:12:48,404
+Just give me a minute.
+
+1019
+01:12:48,614 --> 01:12:51,616
+Oh. I had a thought and now I've lost it.
+
+1020
+01:12:51,784 --> 01:12:55,203
+lt was right there on the tip of my tongue.
+
+1021
+01:12:55,913 --> 01:12:58,956
+Oh. It's not a thought at all.
+
+1022
+01:12:59,124 --> 01:13:01,209
+It's a silly old...
+
+1023
+01:13:01,960 --> 01:13:03,961
+...stick insect.
+
+1024
+01:13:07,841 --> 01:13:11,594
+The Greenwood is sick, Gandalf.
+
+1025
+01:13:12,096 --> 01:13:14,263
+A darkness has fallen over it.
+
+1026
+01:13:14,431 --> 01:13:16,474
+Nothing grows anymore.
+
+1027
+01:13:16,850 --> 01:13:18,893
+At least, nothing good.
+
+1028
+01:13:19,061 --> 01:13:21,729
+The air is foul with decay.
+
+1029
+01:13:21,897 --> 01:13:23,689
+But worse are the webs.
+
+1030
+01:13:23,857 --> 01:13:26,025
+GANDALF:
+Webs? What do you mean?
+
+1031
+01:13:26,193 --> 01:13:28,319
+Spiders, Gandalf.
+
+1032
+01:13:28,487 --> 01:13:29,904
+Giant ones.
+
+1033
+01:13:30,072 --> 01:13:34,409
+Some kind of spawn of Ungoliant,
+or I am not a Wizard.
+
+1034
+01:13:34,785 --> 01:13:36,828
+I followed their trail.
+
+1035
+01:13:36,995 --> 01:13:39,831
+They came from Dol Guldur.
+
+1036
+01:13:40,874 --> 01:13:42,417
+GANDALF:
+Huh?
+
+1037
+01:13:42,751 --> 01:13:44,752
+Dol Guldur?
+
+1038
+01:13:44,920 --> 01:13:48,131
+But the old fortress is abandoned.
+
+1039
+01:13:49,007 --> 01:13:50,758
+No, Gandalf.
+
+1040
+01:13:52,177 --> 01:13:54,095
+'Tis not.
+
+1041
+01:14:02,312 --> 01:14:05,148
+RADAGAST:
+A dark power dwells in there...
+
+1042
+01:14:05,315 --> 01:14:09,026
+...such as I have never felt before.
+
+1043
+01:14:10,529 --> 01:14:14,866
+lt is the shadow of an ancient horror.
+
+1044
+01:14:20,956 --> 01:14:24,292
+One that can summon the spirits...
+
+1045
+01:14:25,043 --> 01:14:27,086
+...of the dead.
+
+1046
+01:14:43,020 --> 01:14:44,479
+I saw him, Gandalf.
+
+1047
+01:14:45,647 --> 01:14:48,274
+From out of the darkness...
+
+1048
+01:14:48,692 --> 01:14:51,819
+...a Necromancer has come.
+
+1049
+01:14:52,654 --> 01:14:54,906
+NECROMANCER:
+Radagast.
+
+1050
+01:14:56,742 --> 01:15:00,119
+[BIRDS SCREECHING]
+
+1051
+01:15:00,287 --> 01:15:02,079
+RADAGAST:
+Quick! Quick, quick! Quick, quick!
+
+1052
+01:15:04,958 --> 01:15:06,626
+Wait for me!
+
+1053
+01:15:18,597 --> 01:15:19,805
+[GASPS]
+
+1054
+01:15:20,349 --> 01:15:21,557
+Sorry.
+
+1055
+01:15:21,725 --> 01:15:24,143
+Try a little Old Toby.
+
+1056
+01:15:24,311 --> 01:15:25,853
+It'll help settle your nerves.
+
+1057
+01:15:29,441 --> 01:15:30,483
+And out.
+
+1058
+01:15:30,984 --> 01:15:32,777
+[RADAGAST SIGHS]
+
+1059
+01:15:38,242 --> 01:15:42,745
+Now, a Necromancer. Are you sure?
+
+1060
+01:15:56,343 --> 01:15:57,843
+That is not...
+
+1061
+01:15:58,011 --> 01:16:02,098
+...from the world of the living.
+
+1062
+01:16:05,143 --> 01:16:06,394
+[RADAGAST GASPS]
+
+1063
+01:16:08,021 --> 01:16:10,815
+Was that a wolf?
+Are there wolves out there?
+
+1064
+01:16:10,983 --> 01:16:13,901
+Wolves? No, that is not a wolf.
+
+1065
+01:16:14,069 --> 01:16:15,194
+[GROWLING]
+
+1066
+01:16:15,362 --> 01:16:17,196
+[ALL YELLING]
+
+1067
+01:16:19,324 --> 01:16:20,825
+THORIN:
+Kili! Get your bow!
+
+1068
+01:16:28,125 --> 01:16:29,584
+Warg scouts.
+
+1069
+01:16:29,751 --> 01:16:32,920
+-Which means an Orc pack is not far behind.
+-Orc pack?
+
+1070
+01:16:33,088 --> 01:16:35,923
+Who did you tell about your quest
+beyond your kin?
+
+1071
+01:16:36,091 --> 01:16:37,925
+-No one.
+-Who did you tell?
+
+1072
+01:16:38,093 --> 01:16:39,427
+No one, I swear.
+
+1073
+01:16:40,220 --> 01:16:41,929
+What in Durin's name is going on?
+
+1074
+01:16:42,097 --> 01:16:43,306
+You are being hunted.
+
+1075
+01:16:44,433 --> 01:16:47,351
+-We have to get out of here.
+-We can't. We have no ponies.
+
+1076
+01:16:47,519 --> 01:16:48,603
+[WARG HOWLS IN DISTANCE]
+
+1077
+01:16:48,812 --> 01:16:50,438
+ORI:
+They bolted.
+
+1078
+01:16:50,606 --> 01:16:51,981
+I'll draw them off.
+
+1079
+01:16:52,149 --> 01:16:55,067
+These are Gundabad Wargs.
+They will outrun you.
+
+1080
+01:16:55,235 --> 01:16:57,153
+These are Rhosgobel rabbits.
+
+1081
+01:16:58,322 --> 01:17:01,574
+I'd like to see them try.
+
+1082
+01:17:01,825 --> 01:17:03,826
+[WARGS HOWLING]
+
+1083
+01:17:08,707 --> 01:17:09,999
+[ORC SPEAKS IN BLACK SPEECH]
+
+1084
+01:17:10,167 --> 01:17:12,376
+RADAGAST:
+Come on! Come on!
+
+1085
+01:17:12,628 --> 01:17:14,879
+Come and get me! Ha, ha!
+
+1086
+01:17:15,213 --> 01:17:16,839
+[SPEAKS IN BLACK SPEECH]
+
+1087
+01:17:17,049 --> 01:17:19,258
+[RADAGAST LAUGHING]
+
+1088
+01:17:22,054 --> 01:17:24,013
+[WARGS GROWLING]
+
+1089
+01:17:24,222 --> 01:17:25,848
+Come on.
+
+1090
+01:17:53,752 --> 01:17:54,835
+Stay together.
+
+1091
+01:17:55,003 --> 01:17:56,045
+Move!
+
+1092
+01:18:07,265 --> 01:18:09,725
+THORIN:
+Ori, no! Get back.
+
+1093
+01:18:12,938 --> 01:18:14,271
+All of you, come on. Quick!
+
+1094
+01:18:17,526 --> 01:18:19,443
+Where are you leading us?
+
+1095
+01:18:28,120 --> 01:18:29,453
+[SNIFFING]
+
+1096
+01:18:41,091 --> 01:18:44,760
+[GROWLING]
+
+1097
+01:19:00,610 --> 01:19:03,904
+[WARG SCREECHES IN DISTANCE]
+
+1098
+01:19:04,489 --> 01:19:05,656
+[GROWLS]
+
+1099
+01:19:05,866 --> 01:19:06,949
+[ORC ROARS]
+
+1100
+01:19:10,662 --> 01:19:12,663
+[ORC GROWLING IN DISTANCE]
+
+1101
+01:19:13,832 --> 01:19:15,207
+[WEAPONS CLANGING IN DISTANCE]
+
+1102
+01:19:15,709 --> 01:19:18,461
+[IN BLACK SPEECH]
+
+1103
+01:19:22,549 --> 01:19:25,259
+[WARGS HOWLING]
+
+1104
+01:19:27,971 --> 01:19:29,096
+GANDALF:
+Move!
+
+1105
+01:19:29,264 --> 01:19:30,473
+Run!
+
+1106
+01:19:43,403 --> 01:19:45,404
+[WARGS HOWLING AND BARKING]
+
+1107
+01:19:47,449 --> 01:19:48,991
+There they are!
+
+1108
+01:19:50,619 --> 01:19:52,912
+This way! Quickly!
+
+1109
+01:19:59,586 --> 01:20:00,711
+[GROWLING]
+
+1110
+01:20:04,299 --> 01:20:05,716
+There's more coming!
+
+1111
+01:20:06,802 --> 01:20:09,970
+THORIN:
+Kili! Shoot them!
+
+1112
+01:20:13,767 --> 01:20:15,351
+We're surrounded!
+
+1113
+01:20:19,648 --> 01:20:21,106
+DORI:
+Where's Gandalf?
+
+1114
+01:20:21,274 --> 01:20:23,442
+DWALIN:
+He's abandoned us.
+
+1115
+01:20:27,656 --> 01:20:29,156
+[LAUGHS]
+
+1116
+01:20:29,533 --> 01:20:31,826
+Hold your ground!
+
+1117
+01:20:41,253 --> 01:20:42,419
+This way, you fools!
+
+1118
+01:20:43,380 --> 01:20:44,547
+THORIN:
+Come on, move!
+
+1119
+01:20:46,925 --> 01:20:48,801
+Quickly! All of you!
+
+1120
+01:20:49,010 --> 01:20:50,386
+BOFUR:
+Come on!
+
+1121
+01:20:50,929 --> 01:20:52,263
+THORIN:
+Go, go, go!
+
+1122
+01:21:02,983 --> 01:21:04,817
+Eight, nine, 1 0.
+
+1123
+01:21:06,236 --> 01:21:08,195
+Kili! Run!
+
+1124
+01:21:08,405 --> 01:21:10,406
+[WARGS GROWLING]
+
+1125
+01:21:17,956 --> 01:21:19,790
+[HORN SOUNDS]
+
+1126
+01:21:28,174 --> 01:21:29,717
+[YELLS]
+
+1127
+01:21:40,937 --> 01:21:42,396
+[GROWLING]
+
+1128
+01:21:48,361 --> 01:21:49,653
+Elves.
+
+1129
+01:21:52,574 --> 01:21:56,493
+DWALIN: I cannot see where the pathway leads.
+Do we follow it or no?
+
+1130
+01:21:56,703 --> 01:21:58,621
+Follow it, of course.
+
+1131
+01:22:01,791 --> 01:22:03,959
+I think that would be wise.
+
+1132
+01:22:04,461 --> 01:22:06,295
+GLOIN:
+Come on now, brother.
+
+1133
+01:22:11,718 --> 01:22:13,260
+[GRUNTS]
+
+1134
+01:23:01,685 --> 01:23:04,979
+The Valley of Imladris.
+
+1135
+01:23:05,563 --> 01:23:09,441
+ln the common tongue,
+it's known by another name.
+
+1136
+01:23:09,776 --> 01:23:11,735
+Rivendell.
+
+1137
+01:23:14,030 --> 01:23:18,951
+GANDALF: Here lies the Last Homely House
+East of the Sea.
+
+1138
+01:23:20,203 --> 01:23:22,788
+This was your plan all along.
+
+1139
+01:23:23,331 --> 01:23:25,374
+To seek refuge with our enemy.
+
+1140
+01:23:25,583 --> 01:23:28,877
+You have no enemies here,
+Thorin Oakenshield.
+
+1141
+01:23:29,087 --> 01:23:32,965
+The only ill will to be found in this valley
+is that which you bring yourself.
+
+1142
+01:23:34,300 --> 01:23:37,469
+You think the Elves will give our quest
+their blessing?
+
+1143
+01:23:38,638 --> 01:23:40,055
+They will try to stop us.
+
+1144
+01:23:40,265 --> 01:23:44,226
+Of course they will. But we have questions
+that need to be answered.
+
+1145
+01:23:47,772 --> 01:23:51,358
+If we are to be successful,
+this will need to be handled with tact.
+
+1146
+01:23:51,526 --> 01:23:52,901
+And respect.
+
+1147
+01:23:53,069 --> 01:23:55,571
+And no small degree of charm.
+
+1148
+01:23:55,780 --> 01:23:59,783
+Which is why you will leave the talking
+to me.
+
+1149
+01:24:56,257 --> 01:24:58,008
+LINDIR:
+Mithrandir.
+
+1150
+01:24:58,760 --> 01:25:01,303
+Ah. Lindir.
+
+1151
+01:25:01,513 --> 01:25:03,055
+Stay sharp.
+
+1152
+01:25:04,015 --> 01:25:05,933
+[IN ELVISH]
+
+1153
+01:25:06,559 --> 01:25:08,393
+I must speak with Lord Elrond.
+
+1154
+01:25:08,603 --> 01:25:10,521
+[IN ENGLISH]
+My Lord Elrond is not here.
+
+1155
+01:25:11,064 --> 01:25:12,773
+Not here?
+
+1156
+01:25:13,733 --> 01:25:14,775
+Where is he?
+
+1157
+01:25:15,151 --> 01:25:18,946
+[HORN SOUNDS]
+
+1158
+01:25:28,039 --> 01:25:29,373
+[THORIN SHOUTS IN DWARVISH]
+
+1159
+01:25:29,541 --> 01:25:31,208
+THORIN:
+Close ranks!
+
+1160
+01:25:55,275 --> 01:25:58,610
+-Gandalf.
+-Lord Elrond.
+
+1161
+01:25:59,737 --> 01:26:06,952
+[IN ELVISH]
+
+1162
+01:26:15,378 --> 01:26:19,464
+[IN ENGLISH] Strange for Orcs to come
+so close to our borders.
+
+1163
+01:26:19,632 --> 01:26:23,635
+Something or someone
+has drawn them near.
+
+1164
+01:26:23,803 --> 01:26:26,096
+[IN ENGLISH]
+That may have been us.
+
+1165
+01:26:31,144 --> 01:26:34,479
+Welcome, Thorin, son of Thrain.
+
+1166
+01:26:34,647 --> 01:26:37,065
+I do not believe we have met.
+
+1167
+01:26:37,567 --> 01:26:40,611
+You have your grandfather's bearing.
+
+1168
+01:26:40,778 --> 01:26:43,280
+I knew Thror
+when he ruled Under the Mountain.
+
+1169
+01:26:43,448 --> 01:26:46,742
+Indeed? He made no mention of you.
+
+1170
+01:26:50,205 --> 01:26:52,915
+[SPEAKING IN ELVISH]
+
+1171
+01:26:57,921 --> 01:27:00,214
+GLOIN:
+What is he saying?
+
+1172
+01:27:00,381 --> 01:27:02,841
+Does he offer us insult?
+
+1173
+01:27:03,009 --> 01:27:06,678
+No, Master Gloin, he's offering you food.
+
+1174
+01:27:08,514 --> 01:27:10,515
+[ALL MURMURING]
+
+1175
+01:27:13,353 --> 01:27:16,939
+Well, in that case, lead on.
+
+1176
+01:27:17,941 --> 01:27:18,982
+BOFUR:
+Hey. Come on.
+
+1177
+01:27:19,192 --> 01:27:22,110
+Try it. Just a mouthful.
+
+1178
+01:27:22,278 --> 01:27:23,862
+I don't like green food.
+
+1179
+01:27:25,031 --> 01:27:26,073
+Where's the meat?
+
+1180
+01:27:26,241 --> 01:27:27,491
+[GROWLS]
+
+1181
+01:27:27,700 --> 01:27:29,201
+Have they got any chips?
+
+1182
+01:27:30,411 --> 01:27:32,663
+Kind of you to invite us.
+
+1183
+01:27:32,830 --> 01:27:34,414
+Not really dressed for dinner.
+
+1184
+01:27:34,582 --> 01:27:35,832
+Well, you never are.
+
+1185
+01:27:36,000 --> 01:27:37,542
+[GANDALF CHUCKLES]
+
+1186
+01:27:45,343 --> 01:27:46,677
+[DWARVES CHUCKLING]
+
+1187
+01:27:54,519 --> 01:27:55,978
+[CHUCKLES]
+
+1188
+01:27:56,562 --> 01:28:00,649
+This is Orcrist, the Goblin-cleaver.
+
+1189
+01:28:00,817 --> 01:28:02,442
+A famous blade...
+
+1190
+01:28:02,610 --> 01:28:08,490
+...forged by the High Elves of the West,
+my kin.
+
+1191
+01:28:08,658 --> 01:28:10,575
+May it serve you well.
+
+1192
+01:28:10,743 --> 01:28:13,161
+And this is Glamdring...
+
+1193
+01:28:14,831 --> 01:28:18,667
+...the Foehammer.
+Sword of the King of Gondolin.
+
+1194
+01:28:18,835 --> 01:28:21,253
+These were made for the Goblin Wars
+of the First Age.
+
+1195
+01:28:21,421 --> 01:28:26,341
+I wouldn't bother, laddie. Swords are
+named for the great deeds they do in war.
+
+1196
+01:28:26,509 --> 01:28:28,760
+What are you saying,
+my sword hasn't seen battle?
+
+1197
+01:28:29,304 --> 01:28:31,305
+I'm not actually sure it is a sword.
+
+1198
+01:28:32,724 --> 01:28:34,641
+More of a letter opener, really.
+
+1199
+01:28:35,727 --> 01:28:37,144
+How did you come by these?
+
+1200
+01:28:37,312 --> 01:28:40,272
+We found them in a Troll-hoard
+on the Great East Road...
+
+1201
+01:28:41,149 --> 01:28:44,401
+...shortly before we were
+ambushed by Orcs.
+
+1202
+01:28:44,569 --> 01:28:49,156
+And what were you doing
+on the Great East Road?
+
+1203
+01:28:50,325 --> 01:28:52,326
+THORIN:
+Our business is no concern of Elves.
+
+1204
+01:28:52,493 --> 01:28:55,454
+GANDALF: For goodness sake, Thorin,
+show him the map.
+
+1205
+01:28:55,621 --> 01:28:57,664
+lt is the legacy of my people.
+
+1206
+01:28:57,832 --> 01:29:01,418
+lt is mine to protect, as are its secrets.
+
+1207
+01:29:01,586 --> 01:29:04,129
+Save me from the stubbornness
+of Dwarves.
+
+1208
+01:29:04,297 --> 01:29:07,257
+Your pride will be your downfall.
+
+1209
+01:29:07,425 --> 01:29:10,302
+You stand in the presence
+of one of the few in Middle-earth...
+
+1210
+01:29:10,470 --> 01:29:14,139
+...who can read that map.
+Show it to Lord Elrond.
+
+1211
+01:29:21,314 --> 01:29:23,023
+Thorin, no.
+
+1212
+01:29:32,450 --> 01:29:34,034
+Erebor.
+
+1213
+01:29:35,495 --> 01:29:39,122
+What is your interest in this map?
+
+1214
+01:29:40,583 --> 01:29:41,875
+It's mainly academic.
+
+1215
+01:29:42,543 --> 01:29:47,339
+As you know, this sort of artifact
+sometimes contains hidden text.
+
+1216
+01:29:52,845 --> 01:29:55,514
+You still read ancient Dwarvish,
+do you not?
+
+1217
+01:30:01,312 --> 01:30:02,896
+[ELROND SPEAKS IN ELVISH]
+
+1218
+01:30:03,648 --> 01:30:06,066
+Moon runes?
+
+1219
+01:30:06,234 --> 01:30:07,901
+Of course.
+
+1220
+01:30:08,903 --> 01:30:10,654
+An easy thing to miss.
+
+1221
+01:30:10,822 --> 01:30:12,406
+ELROND:
+Well, in this case, that is true.
+
+1222
+01:30:12,573 --> 01:30:15,075
+Moon runes can only be read
+by the light of a moon...
+
+1223
+01:30:15,243 --> 01:30:19,663
+...of the same shape and season
+as the day on which they were written.
+
+1224
+01:30:20,498 --> 01:30:22,249
+Can you read them?
+
+1225
+01:30:26,838 --> 01:30:29,923
+ELROND: These runes were written
+on a Midsummer's Eve...
+
+1226
+01:30:30,091 --> 01:30:34,344
+...by the light of a crescent moon
+nearly 200 years ago.
+
+1227
+01:30:35,012 --> 01:30:37,806
+lt would seem you were meant
+to come to Rivendell.
+
+1228
+01:30:38,724 --> 01:30:40,725
+Fate is with you, Thorin Oakenshield.
+
+1229
+01:30:40,893 --> 01:30:44,771
+The same moon shines upon us tonight.
+
+1230
+01:31:03,541 --> 01:31:08,170
+"Stand by the gray stone
+when the thrush knocks...
+
+1231
+01:31:08,337 --> 01:31:13,091
+...and the setting sun with the last light
+of Durin's Day...
+
+1232
+01:31:13,259 --> 01:31:17,637
+-...will shine upon the keyhole."
+-Durin's Day?
+
+1233
+01:31:17,805 --> 01:31:21,266
+lt is the start of the Dwarves' new year,
+when the last moon of autumn...
+
+1234
+01:31:21,434 --> 01:31:24,311
+...and the first sun of winter
+appear in the sky together.
+
+1235
+01:31:24,479 --> 01:31:26,396
+This is ill news.
+
+1236
+01:31:26,564 --> 01:31:29,107
+Summer is passing.
+Durin's Day will soon be upon us.
+
+1237
+01:31:29,275 --> 01:31:30,567
+We still have time.
+
+1238
+01:31:30,735 --> 01:31:33,195
+-Time? For what?
+-To find the entrance.
+
+1239
+01:31:33,362 --> 01:31:37,157
+We have to be standing in exactly
+the right spot at exactly the right time.
+
+1240
+01:31:37,325 --> 01:31:41,328
+Then, and only then,
+can the door be opened.
+
+1241
+01:31:41,496 --> 01:31:44,831
+So this is your purpose,
+to enter the mountain?
+
+1242
+01:31:45,750 --> 01:31:47,083
+What of it?
+
+1243
+01:31:47,251 --> 01:31:50,212
+There are some
+who would not deem it wise.
+
+1244
+01:31:51,839 --> 01:31:52,923
+What do you mean?
+
+1245
+01:31:54,425 --> 01:31:58,970
+You are not the only guardian
+to stand watch over Middle-earth.
+
+1246
+01:32:03,768 --> 01:32:05,769
+[WARGS HOWLING]
+
+1247
+01:32:09,690 --> 01:32:11,691
+[WARGS GROWLING]
+
+1248
+01:32:23,788 --> 01:32:26,957
+[IN BLACK SPEECH]
+
+1249
+01:32:38,344 --> 01:32:41,805
+AZOG [IN BLACK SPEECH]:
+
+1250
+01:33:11,419 --> 01:33:13,128
+[AZOG SHOUTS IN BLACK SPEECH]
+
+1251
+01:33:16,215 --> 01:33:18,466
+[GROWLING]
+
+1252
+01:33:38,904 --> 01:33:40,905
+[AZOG ROARS]
+
+1253
+01:33:43,534 --> 01:33:45,535
+[CHATTERING]
+
+1254
+01:33:49,707 --> 01:33:51,458
+No, you did the same thing.
+
+1255
+01:33:51,626 --> 01:33:55,920
+-It's not like you didn't do it.
+DWALIN: Dori! Here, take that.
+
+1256
+01:34:01,135 --> 01:34:02,802
+Bombur!
+
+1257
+01:34:05,222 --> 01:34:08,433
+[ALL LAUGHING]
+
+1258
+01:34:09,018 --> 01:34:13,104
+With or without our help, these Dwarves
+will march on the mountain.
+
+1259
+01:34:13,272 --> 01:34:16,191
+They're determined to reclaim
+their homeland.
+
+1260
+01:34:16,359 --> 01:34:21,529
+I do not believe Thorin Oakenshield
+feels that he is answerable to anyone.
+
+1261
+01:34:21,697 --> 01:34:23,406
+Nor, for that matter, am I.
+
+1262
+01:34:23,574 --> 01:34:27,410
+lt is not me you must answer to.
+
+1263
+01:34:38,839 --> 01:34:41,007
+Lady Galadriel.
+
+1264
+01:34:41,425 --> 01:34:43,677
+Mithrandir.
+
+1265
+01:34:45,179 --> 01:34:53,311
+[IN ELVISH]
+
+1266
+01:35:02,029 --> 01:35:05,782
+[IN ENGLISH]
+I had no idea Lord Elrond had sent for you.
+
+1267
+01:35:05,950 --> 01:35:07,575
+MAN:
+He didn't.
+
+1268
+01:35:07,910 --> 01:35:09,828
+I did.
+
+1269
+01:35:15,042 --> 01:35:16,334
+Ah.
+
+1270
+01:35:17,837 --> 01:35:19,546
+Saruman.
+
+1271
+01:35:19,714 --> 01:35:24,217
+You've been busy of late, my friend.
+
+1272
+01:35:24,385 --> 01:35:26,761
+Tell me, Gandalf...
+
+1273
+01:35:26,929 --> 01:35:32,600
+...did you think these plans and schemes
+of yours would go unnoticed?
+
+1274
+01:35:32,768 --> 01:35:34,728
+GANDALF:
+Unnoticed?
+
+1275
+01:35:35,438 --> 01:35:36,813
+No.
+
+1276
+01:35:36,981 --> 01:35:39,649
+I'm simply doing what I feel to be right.
+
+1277
+01:35:39,817 --> 01:35:43,069
+[IN ENGLISH]
+The dragon has long been on your mind.
+
+1278
+01:35:43,571 --> 01:35:45,572
+That is true, my lady.
+
+1279
+01:35:45,740 --> 01:35:48,116
+Smaug owes allegiance to no one.
+
+1280
+01:35:48,284 --> 01:35:51,119
+But if he should side with the enemy...
+
+1281
+01:35:51,287 --> 01:35:54,205
+...a dragon could be used
+to terrible effect.
+
+1282
+01:35:54,373 --> 01:35:55,915
+What enemy?
+
+1283
+01:35:56,667 --> 01:35:59,502
+Gandalf, the enemy is defeated.
+
+1284
+01:35:59,670 --> 01:36:04,382
+Sauron is vanquished.
+He can never regain his full strength.
+
+1285
+01:36:04,800 --> 01:36:09,929
+Gandalf, for 400 years
+we have lived in peace...
+
+1286
+01:36:10,097 --> 01:36:12,974
+...a hard-won, watchful peace.
+
+1287
+01:36:13,142 --> 01:36:16,102
+Are we? Are we at peace?
+
+1288
+01:36:17,271 --> 01:36:19,606
+Trolls have come down
+from the mountains.
+
+1289
+01:36:19,774 --> 01:36:22,233
+They are raiding villages,
+destroying farms.
+
+1290
+01:36:22,401 --> 01:36:24,694
+Orcs have attacked us on the road.
+
+1291
+01:36:24,862 --> 01:36:26,696
+Hardly a prelude to war.
+
+1292
+01:36:26,864 --> 01:36:29,115
+Always you must meddle...
+
+1293
+01:36:29,283 --> 01:36:31,284
+...looking for trouble where none exists.
+
+1294
+01:36:31,452 --> 01:36:33,828
+Let him speak.
+
+1295
+01:36:34,747 --> 01:36:39,709
+There is something at work
+beyond the evil of Smaug.
+
+1296
+01:36:39,877 --> 01:36:42,378
+Something far more powerful.
+
+1297
+01:36:43,130 --> 01:36:48,510
+We can remain blind to it, but it will not
+be ignoring us, that I can promise you.
+
+1298
+01:36:48,677 --> 01:36:51,513
+A sickness lies over the Greenwood.
+
+1299
+01:36:51,680 --> 01:36:54,098
+The woodsmen who live there now
+call it Mirkwood.
+
+1300
+01:36:54,266 --> 01:36:56,059
+And they say....
+
+1301
+01:36:58,437 --> 01:37:01,147
+Well? Don't stop now.
+
+1302
+01:37:01,315 --> 01:37:03,650
+Tell us what the woodsmen say.
+
+1303
+01:37:03,818 --> 01:37:07,111
+They speak of a Necromancer
+living in Dol Guldur.
+
+1304
+01:37:07,279 --> 01:37:10,740
+A sorcerer who can summon the dead.
+
+1305
+01:37:10,908 --> 01:37:12,325
+That's absurd.
+
+1306
+01:37:12,493 --> 01:37:15,328
+No such power exists in this world.
+
+1307
+01:37:15,496 --> 01:37:19,582
+This Necromancer is nothing more
+than a mortal man.
+
+1308
+01:37:19,917 --> 01:37:22,418
+A conjurer dabbling in black magic.
+
+1309
+01:37:22,586 --> 01:37:24,212
+And so I thought too.
+
+1310
+01:37:24,380 --> 01:37:27,799
+-But Radagast has seen--
+SARUMAN: Radagast?
+
+1311
+01:37:28,092 --> 01:37:31,386
+Do not speak to me
+of Radagast the Brown.
+
+1312
+01:37:31,554 --> 01:37:33,388
+He's a foolish fellow.
+
+1313
+01:37:33,556 --> 01:37:37,767
+Well, he's odd, I grant you.
+He lives a solitary life.
+
+1314
+01:37:37,935 --> 01:37:42,313
+It's not that. It's his excessive
+consumption of mushrooms.
+
+1315
+01:37:42,857 --> 01:37:46,901
+They've addled his brain
+and yellowed his teeth.
+
+1316
+01:37:47,319 --> 01:37:48,736
+I've warned him.
+
+1317
+01:37:48,904 --> 01:37:52,198
+lt is unbefitting one of the lstari
+to be wandering the woods....
+
+1318
+01:37:52,366 --> 01:37:54,993
+GALADRIEL:
+You carry something.
+
+1319
+01:37:56,161 --> 01:37:59,122
+lt came to you from Radagast.
+
+1320
+01:37:59,290 --> 01:38:02,792
+He found it in Dol Guldur.
+
+1321
+01:38:02,960 --> 01:38:04,836
+GANDALF:
+Yes.
+
+1322
+01:38:05,838 --> 01:38:07,881
+GALADRIEL:
+Show me.
+
+1323
+01:38:09,425 --> 01:38:10,592
+SARUMAN:
+--listen to me.
+
+1324
+01:38:10,801 --> 01:38:14,596
+I would think I was talking to myself
+for all the attention that he paid.
+
+1325
+01:38:14,763 --> 01:38:17,098
+By all means....
+
+1326
+01:38:17,683 --> 01:38:20,727
+What is that?
+
+1327
+01:38:20,895 --> 01:38:23,605
+A relic of Mordor.
+
+1328
+01:38:34,116 --> 01:38:36,075
+A Morgul Blade.
+
+1329
+01:38:36,243 --> 01:38:39,412
+Made for the Witchking of Angmar.
+
+1330
+01:38:39,580 --> 01:38:43,082
+And buried with him.
+
+1331
+01:38:44,877 --> 01:38:46,920
+When Angmar fell...
+
+1332
+01:38:47,087 --> 01:38:50,590
+...the Men of the North took his body
+and all that he possessed...
+
+1333
+01:38:50,758 --> 01:38:53,885
+...and sealed it within
+the High Fells of Rhudaur.
+
+1334
+01:38:54,136 --> 01:38:57,055
+Deep within the rock they buried him...
+
+1335
+01:38:57,848 --> 01:39:01,017
+...in a tomb so dark...
+
+1336
+01:39:01,185 --> 01:39:02,810
+...it would never come to light.
+
+1337
+01:39:02,978 --> 01:39:05,480
+This is not possible.
+
+1338
+01:39:06,106 --> 01:39:08,858
+A powerful spell lies upon those tombs.
+
+1339
+01:39:09,026 --> 01:39:10,902
+They cannot be opened.
+
+1340
+01:39:11,070 --> 01:39:15,907
+What proof do we have this weapon
+came from Angmar's grave?
+
+1341
+01:39:16,575 --> 01:39:19,327
+-I have none.
+-Because there is none.
+
+1342
+01:39:20,663 --> 01:39:22,455
+Let us examine what we know.
+
+1343
+01:39:23,248 --> 01:39:25,458
+A single Orc pack...
+
+1344
+01:39:25,626 --> 01:39:27,919
+...has dared to cross the Bruinen.
+
+1345
+01:39:28,629 --> 01:39:31,798
+A dagger from a bygone age
+has been found.
+
+1346
+01:39:31,966 --> 01:39:37,303
+And a human sorcerer who calls himself
+"The Necromancer"...
+
+1347
+01:39:37,596 --> 01:39:41,724
+...has taken up residence
+in a ruined fortress.
+
+1348
+01:39:42,309 --> 01:39:46,270
+It's not so very much after all.
+
+1349
+01:39:46,438 --> 01:39:51,484
+The question of this Dwarvish company,
+however, troubles me deeply.
+
+1350
+01:39:51,652 --> 01:39:53,361
+I'm not convinced, Gandalf.
+
+1351
+01:39:53,529 --> 01:39:56,990
+I do not feel I can condone such a quest.
+
+1352
+01:39:57,449 --> 01:40:01,703
+If they'd come to me, I might have
+spared them this disappointment.
+
+1353
+01:40:01,870 --> 01:40:04,956
+I do not pretend to understand your reason
+for raising their hopes.
+
+1354
+01:40:05,124 --> 01:40:06,749
+GALADRIEL:
+They are leaving.
+
+1355
+01:40:09,378 --> 01:40:10,795
+GANDALF:
+Yes.
+
+1356
+01:40:12,881 --> 01:40:14,549
+GALADRIEL:
+You knew.
+
+1357
+01:40:14,925 --> 01:40:17,593
+[SARUMAN SPEAKING INDISTINCTLY]
+
+1358
+01:40:18,262 --> 01:40:22,557
+No, I'm afraid there is nothing else for it.
+
+1359
+01:40:24,560 --> 01:40:26,144
+My Lord Elrond.
+
+1360
+01:40:26,478 --> 01:40:29,439
+The Dwarves, they're gone.
+
+1361
+01:40:34,737 --> 01:40:36,654
+THORIN:
+Be on your guard.
+
+1362
+01:40:36,822 --> 01:40:39,157
+We're about to step over
+the Edge of the Wild.
+
+1363
+01:40:39,742 --> 01:40:42,076
+Balin, you know these paths. Lead on.
+
+1364
+01:40:42,244 --> 01:40:43,828
+BALIN:
+Aye.
+
+1365
+01:40:49,376 --> 01:40:51,461
+THORIN:
+Master Baggins...
+
+1366
+01:40:51,628 --> 01:40:53,963
+...I suggest you keep up.
+
+1367
+01:41:07,686 --> 01:41:10,271
+GALADRIEL: You will follow them.
+GANDALF: Yes.
+
+1368
+01:41:10,439 --> 01:41:13,566
+GALADRIEL: You are right to help
+Thorin Oakenshield.
+
+1369
+01:41:13,734 --> 01:41:16,986
+But I fear this quest has set in motion...
+
+1370
+01:41:17,154 --> 01:41:20,698
+...forces we do not yet understand.
+
+1371
+01:41:20,866 --> 01:41:24,786
+The riddle of the Morgul Blade
+must be answered.
+
+1372
+01:41:24,953 --> 01:41:28,498
+Something moves in the shadows unseen,
+hidden from our sight.
+
+1373
+01:41:28,665 --> 01:41:30,708
+lt will not show itself.
+
+1374
+01:41:30,876 --> 01:41:32,668
+Not yet.
+
+1375
+01:41:32,836 --> 01:41:35,671
+But every day it grows in strength.
+
+1376
+01:41:35,839 --> 01:41:37,799
+You must be careful.
+
+1377
+01:41:42,304 --> 01:41:44,013
+Mithrandir?
+
+1378
+01:41:45,724 --> 01:41:47,809
+Why the Halfling?
+
+1379
+01:41:49,728 --> 01:41:51,729
+I do not know.
+
+1380
+01:41:54,274 --> 01:41:58,069
+Saruman believes
+that it is only great power...
+
+1381
+01:41:58,237 --> 01:42:01,405
+...that can hold evil in check.
+
+1382
+01:42:01,573 --> 01:42:04,117
+But that is not what I have found.
+
+1383
+01:42:05,244 --> 01:42:08,955
+I have found it is the small things...
+
+1384
+01:42:09,123 --> 01:42:11,499
+...everyday deeds of ordinary folk...
+
+1385
+01:42:11,667 --> 01:42:14,836
+...that keeps the darkness at bay.
+
+1386
+01:42:15,379 --> 01:42:18,840
+Simple acts of kindness and love.
+
+1387
+01:42:20,759 --> 01:42:23,719
+Why Bilbo Baggins?
+
+1388
+01:42:25,848 --> 01:42:28,558
+Perhaps it is because I'm afraid...
+
+1389
+01:42:30,477 --> 01:42:32,895
+...and he gives me courage.
+
+1390
+01:42:37,693 --> 01:42:41,070
+Do not be afraid, Mithrandir.
+
+1391
+01:42:42,823 --> 01:42:44,198
+You are not alone.
+
+1392
+01:42:48,120 --> 01:42:50,788
+[IN ELVISH]
+
+1393
+01:44:13,747 --> 01:44:15,748
+[THUNDER RUMBLING]
+
+1394
+01:44:24,466 --> 01:44:27,176
+THORIN:
+Hey! Hold on!
+
+1395
+01:44:33,392 --> 01:44:35,559
+BILBO: Aah!
+DWALIN: Bilbo!
+
+1396
+01:44:35,727 --> 01:44:37,395
+[BILBO YELLS]
+
+1397
+01:44:38,146 --> 01:44:41,107
+We must find shelter!
+
+1398
+01:44:41,275 --> 01:44:42,692
+Look out!
+
+1399
+01:44:46,488 --> 01:44:48,197
+[ALL SCREAMING]
+
+1400
+01:44:48,365 --> 01:44:49,949
+GLOIN:
+Look out, brother!
+
+1401
+01:44:50,826 --> 01:44:52,326
+KILI:
+Hold on!
+
+1402
+01:44:56,206 --> 01:44:57,790
+This is no thunderstorm.
+
+1403
+01:44:58,333 --> 01:45:00,876
+It's a thunder-battle!
+
+1404
+01:45:01,670 --> 01:45:03,379
+Look!
+
+1405
+01:45:07,718 --> 01:45:09,719
+Well, bless me.
+
+1406
+01:45:09,886 --> 01:45:11,679
+The legends are true.
+
+1407
+01:45:11,847 --> 01:45:15,808
+Giants! Stone-Giants!
+
+1408
+01:45:22,399 --> 01:45:24,984
+Take cover, you fool!
+
+1409
+01:45:25,861 --> 01:45:27,570
+Hold on!
+
+1410
+01:45:35,871 --> 01:45:38,456
+KILI: What's happening?
+FILI: Grab my hand!
+
+1411
+01:45:56,933 --> 01:45:59,935
+[ALL SCREAMING]
+
+1412
+01:46:02,230 --> 01:46:05,232
+THORIN: Go, go, go!
+BALIN: Run! Get off! Get off!
+
+1413
+01:46:09,529 --> 01:46:12,156
+-Run!
+DORI: Look out!
+
+1414
+01:46:17,204 --> 01:46:18,621
+Look out!
+
+1415
+01:46:38,975 --> 01:46:40,559
+THORIN:
+Jump!
+
+1416
+01:46:40,769 --> 01:46:41,852
+Come on!
+
+1417
+01:46:45,941 --> 01:46:47,358
+Hold on!
+
+1418
+01:46:55,450 --> 01:46:59,328
+No!
+
+1419
+01:47:08,088 --> 01:47:10,589
+No! Kili!
+
+1420
+01:47:14,553 --> 01:47:15,719
+[ALL PANTING]
+
+1421
+01:47:16,471 --> 01:47:18,722
+GLOIN:
+It's all right! They're alive!
+
+1422
+01:47:20,475 --> 01:47:22,810
+Where's Bilbo? Where's the Hobbit?
+
+1423
+01:47:22,978 --> 01:47:24,103
+[BILBO GRUNTING]
+
+1424
+01:47:24,312 --> 01:47:25,604
+There!
+
+1425
+01:47:28,567 --> 01:47:29,984
+THORIN:
+Get him!
+
+1426
+01:47:30,819 --> 01:47:31,861
+Aah!
+
+1427
+01:47:32,070 --> 01:47:34,363
+-Grab my hand!
+-Bilbo!
+
+1428
+01:47:35,699 --> 01:47:38,159
+DORI: Ori, be careful!
+ORI: Take it!
+
+1429
+01:47:38,326 --> 01:47:40,828
+DWALIN: I've got you, lad.
+ORI: Grab on! Grab on!
+
+1430
+01:47:49,671 --> 01:47:50,838
+[GRUNTING]
+
+1431
+01:47:51,006 --> 01:47:53,841
+Come on. Get him.
+
+1432
+01:47:54,009 --> 01:47:55,676
+GLOIN:
+Come on, lad. Up you get.
+
+1433
+01:47:58,930 --> 01:48:01,265
+I thought we'd lost our burglar.
+
+1434
+01:48:01,766 --> 01:48:04,310
+He's been lost ever since he left home.
+
+1435
+01:48:05,145 --> 01:48:07,021
+He should never have come.
+
+1436
+01:48:07,189 --> 01:48:09,106
+He has no place amongst us.
+
+1437
+01:48:11,026 --> 01:48:12,735
+Dwalin!
+
+1438
+01:48:18,742 --> 01:48:21,285
+DWALIN: lt looks safe enough.
+THORIN: Search to the back.
+
+1439
+01:48:21,745 --> 01:48:24,538
+Caves in the mountain
+are seldom unoccupied.
+
+1440
+01:48:28,043 --> 01:48:30,002
+DWALIN:
+There's nothing here.
+
+1441
+01:48:31,880 --> 01:48:33,964
+Right, then. Let's get a fire started.
+
+1442
+01:48:34,132 --> 01:48:37,051
+No. No fires. Not in this place.
+
+1443
+01:48:37,219 --> 01:48:38,928
+Get some sleep.
+
+1444
+01:48:39,095 --> 01:48:41,597
+We start at first light.
+
+1445
+01:48:41,765 --> 01:48:45,476
+We were to wait in the mountains
+until Gandalf joined us.
+
+1446
+01:48:45,644 --> 01:48:48,604
+-That was the plan.
+-Plans change.
+
+1447
+01:48:48,772 --> 01:48:52,274
+Bofur, take the first watch.
+
+1448
+01:48:53,026 --> 01:48:54,193
+[THUNDER CRASHING]
+
+1449
+01:48:54,361 --> 01:48:56,237
+[SNIFFING]
+
+1450
+01:48:56,404 --> 01:48:59,406
+[GROWLING]
+
+1451
+01:48:59,616 --> 01:49:01,450
+[IN BLACK SPEECH]
+
+1452
+01:49:13,171 --> 01:49:15,172
+[DWARVES SNORING]
+
+1453
+01:50:06,641 --> 01:50:08,392
+Where do you think you're going?
+
+1454
+01:50:11,521 --> 01:50:12,813
+Back to Rivendell.
+
+1455
+01:50:13,982 --> 01:50:16,233
+No, no, you can't turn back now, eh?
+
+1456
+01:50:16,484 --> 01:50:19,403
+You're part of the company.
+You're one of us.
+
+1457
+01:50:19,571 --> 01:50:21,530
+I'm not, though, am I?
+
+1458
+01:50:22,907 --> 01:50:26,201
+Thorin said I should never have come
+and he was right.
+
+1459
+01:50:26,369 --> 01:50:30,497
+I'm not a Took, I'm a Baggins.
+I don't know what I was thinking.
+
+1460
+01:50:31,708 --> 01:50:35,753
+-I should never have run out my door.
+-You're homesick. I understand.
+
+1461
+01:50:35,920 --> 01:50:38,422
+No, you don't. You don't understand.
+None of you do.
+
+1462
+01:50:38,590 --> 01:50:41,342
+You're Dwarves.
+You're used to this life.
+
+1463
+01:50:41,509 --> 01:50:45,262
+To living on the road, never settling
+in one place, not belonging anywhere!
+
+1464
+01:50:49,392 --> 01:50:50,934
+Oh, I am sorry. I didn't--
+
+1465
+01:50:51,102 --> 01:50:52,603
+[CLEARS THROAT]
+
+1466
+01:50:56,608 --> 01:50:58,400
+No, you're right.
+
+1467
+01:51:01,613 --> 01:51:03,656
+We don't belong anywhere.
+
+1468
+01:51:11,831 --> 01:51:14,083
+I wish you all the luck in the world.
+
+1469
+01:51:17,337 --> 01:51:19,046
+I really do.
+
+1470
+01:51:23,176 --> 01:51:24,593
+What's that?
+
+1471
+01:51:26,805 --> 01:51:28,180
+BILBO:
+Hmm?
+
+1472
+01:51:47,033 --> 01:51:49,118
+Wake up! Wake up!
+
+1473
+01:51:49,369 --> 01:51:50,411
+Whoa!
+
+1474
+01:51:50,578 --> 01:51:52,913
+[ALL GRUNTING AND SCREAMING]
+
+1475
+01:52:13,101 --> 01:52:14,768
+Look out! Look out!
+
+1476
+01:52:18,022 --> 01:52:19,690
+DORI:
+Get away!
+
+1477
+01:52:19,899 --> 01:52:21,108
+[GOBLINS GROWLING]
+
+1478
+01:52:23,778 --> 01:52:25,279
+GLOIN:
+Filthy scum!
+
+1479
+01:52:25,447 --> 01:52:27,531
+DWALIN:
+Get back!
+
+1480
+01:52:31,244 --> 01:52:33,162
+GLOIN:
+You'll pay for this!
+
+1481
+01:52:39,502 --> 01:52:41,587
+Got you.
+
+1482
+01:52:41,796 --> 01:52:44,339
+DORI:
+All right, all right. Don't push.
+
+1483
+01:52:46,092 --> 01:52:48,927
+DWALIN: Get off! Get your hands off me!
+Get off me!
+
+1484
+01:52:54,476 --> 01:52:56,477
+Get off me!
+
+1485
+01:53:02,942 --> 01:53:04,943
+[GOBLINS GROWLING]
+
+1486
+01:53:37,560 --> 01:53:39,603
+[BILBO GASPS THEN GOBLIN GROWLS]
+
+1487
+01:53:57,247 --> 01:53:59,248
+[BILBO YELLING]
+
+1488
+01:54:04,879 --> 01:54:06,880
+[GOBLINS GROWLING]
+
+1489
+01:54:43,418 --> 01:54:48,839
+Who would be so bold
+as to come armed into my kingdom?
+
+1490
+01:54:49,007 --> 01:54:52,509
+Spies? Thieves? Assassins?
+
+1491
+01:54:52,677 --> 01:54:54,386
+Dwarves, Your Malevolence.
+
+1492
+01:54:54,554 --> 01:54:56,305
+Dwarves?
+
+1493
+01:54:56,472 --> 01:54:58,223
+We found them on the Front Porch.
+
+1494
+01:54:58,391 --> 01:55:02,728
+Well, don't just stand there. Search them.
+
+1495
+01:55:02,896 --> 01:55:05,480
+Every crack. Every crevice.
+
+1496
+01:55:11,029 --> 01:55:13,405
+What are you doing in these parts?
+
+1497
+01:55:14,490 --> 01:55:16,783
+Speak!
+
+1498
+01:55:18,411 --> 01:55:23,957
+Very well. If they will not talk,
+we'll make them squawk.
+
+1499
+01:55:24,125 --> 01:55:25,667
+Bring up the mangler.
+
+1500
+01:55:25,835 --> 01:55:28,670
+Bring up the bonebreaker.
+
+1501
+01:55:28,838 --> 01:55:31,882
+-Start with the youngest.
+THORIN: Wait!
+
+1502
+01:55:34,469 --> 01:55:37,763
+Well, well, well.
+
+1503
+01:55:37,931 --> 01:55:40,432
+Look who it is.
+
+1504
+01:55:41,184 --> 01:55:44,686
+Thorin, son of Thrain, son of Thror...
+
+1505
+01:55:45,396 --> 01:55:48,565
+...King Under the Mountain.
+
+1506
+01:55:49,400 --> 01:55:53,403
+Oh, but I'm forgetting.
+You don't have a mountain.
+
+1507
+01:55:53,571 --> 01:55:55,197
+And you're not a king...
+
+1508
+01:55:55,365 --> 01:55:59,701
+...which makes you nobody, really.
+
+1509
+01:56:03,122 --> 01:56:07,960
+I know someone who would
+pay a pretty price for your head.
+
+1510
+01:56:08,836 --> 01:56:10,754
+Just a head.
+
+1511
+01:56:10,922 --> 01:56:12,631
+Nothing attached.
+
+1512
+01:56:13,841 --> 01:56:17,552
+Perhaps you know of whom I speak.
+
+1513
+01:56:17,720 --> 01:56:20,472
+An old enemy of yours.
+
+1514
+01:56:22,809 --> 01:56:27,437
+A pale Orc, astride a white Warg.
+
+1515
+01:56:28,898 --> 01:56:32,192
+Azog the Defiler was destroyed.
+
+1516
+01:56:34,487 --> 01:56:36,822
+He was slain in battle long ago.
+
+1517
+01:56:37,073 --> 01:56:40,867
+So you think his defiling days are done,
+do you?
+
+1518
+01:56:41,035 --> 01:56:42,744
+[CHUCKLING]
+
+1519
+01:56:42,912 --> 01:56:45,372
+Send word to the pale Orc.
+
+1520
+01:56:45,540 --> 01:56:49,042
+Tell him I have found his prize.
+
+1521
+01:56:49,961 --> 01:56:51,420
+[LAUGHING]
+
+1522
+01:57:12,108 --> 01:57:14,109
+[RUSTLING]
+
+1523
+01:57:26,080 --> 01:57:27,164
+Yes!
+
+1524
+01:57:28,916 --> 01:57:34,129
+Yes.
+
+1525
+01:57:35,339 --> 01:57:37,841
+Yes!
+
+1526
+01:57:38,009 --> 01:57:39,885
+Gollum, gollum!
+
+1527
+01:57:47,477 --> 01:57:49,478
+[GOBLIN GROWLING]
+
+1528
+01:58:04,368 --> 01:58:05,786
+Aah!
+
+1529
+01:58:08,539 --> 01:58:11,583
+Nasty Goblinses!
+
+1530
+01:58:12,502 --> 01:58:15,087
+Better than old bones, precious.
+
+1531
+01:58:15,254 --> 01:58:17,172
+Better than nothing.
+
+1532
+01:58:43,825 --> 01:58:45,408
+[GOLLUM WHIMPERS]
+
+1533
+01:58:45,576 --> 01:58:50,330
+GOLLUM: Too many boneses, precious.
+Not enough flesh!
+
+1534
+01:58:50,498 --> 01:58:54,126
+Shut up! Cut its skin off.
+
+1535
+01:58:55,044 --> 01:58:57,379
+Start with its head.
+
+1536
+01:58:57,588 --> 01:59:00,340
+[GOLLUM GROANING]
+
+1537
+01:59:02,260 --> 01:59:06,012
+[SINGING] The cold hard lands
+They bites our hands
+
+1538
+01:59:06,180 --> 01:59:09,516
+They gnaws our feet
+
+1539
+01:59:09,684 --> 01:59:13,270
+The rocks and stones
+They're like old bones
+
+1540
+01:59:13,437 --> 01:59:16,606
+All bare of meat
+
+1541
+01:59:16,774 --> 01:59:19,693
+Cold as death
+Without no breath
+
+1542
+01:59:19,861 --> 01:59:22,195
+It's good to eat
+
+1543
+01:59:22,363 --> 01:59:23,697
+[GOBLIN SCREAMS]
+
+1544
+02:00:00,943 --> 02:00:04,446
+Bless us and splash us, precious.
+
+1545
+02:00:04,614 --> 02:00:07,240
+That's a meaty mouthful.
+
+1546
+02:00:09,118 --> 02:00:11,786
+Gollum, gollum! Aah.
+
+1547
+02:00:13,080 --> 02:00:15,415
+Back. Stay back.
+
+1548
+02:00:15,583 --> 02:00:20,045
+I'm warning you, don't come any closer.
+
+1549
+02:00:20,922 --> 02:00:25,800
+It's got an Elfish blade.
+But it's not an Elfs.
+
+1550
+02:00:26,886 --> 02:00:29,054
+Not an Elfs, no.
+
+1551
+02:00:29,222 --> 02:00:30,972
+What is it, precious?
+
+1552
+02:00:32,099 --> 02:00:33,516
+What is it?
+
+1553
+02:00:33,684 --> 02:00:37,145
+My name is Bilbo Baggins.
+
+1554
+02:00:38,105 --> 02:00:40,190
+Bagginses?
+
+1555
+02:00:40,733 --> 02:00:44,236
+What is a Bagginses, precious?
+
+1556
+02:00:44,737 --> 02:00:48,782
+-I'm a Hobbit from the Shire.
+-Oh.
+
+1557
+02:00:48,950 --> 02:00:54,287
+We like Goblinses, batses and fishes.
+But we hasn't tried Hobbitses before.
+
+1558
+02:00:55,498 --> 02:00:58,458
+ls it soft? ls it juicy?
+
+1559
+02:00:58,626 --> 02:01:02,212
+Now, now, keep your distance!
+
+1560
+02:01:02,380 --> 02:01:04,339
+I'll use this if I have to.
+
+1561
+02:01:04,548 --> 02:01:05,548
+Aah!
+
+1562
+02:01:05,716 --> 02:01:08,510
+I don't want any trouble,
+do you understand?
+
+1563
+02:01:08,678 --> 02:01:11,763
+Just show me the way to get out of here
+and I'll be on my way.
+
+1564
+02:01:11,931 --> 02:01:13,848
+Why? ls it lost?
+
+1565
+02:01:14,016 --> 02:01:17,894
+Yes. Yes, and I want to get unlost
+as soon as possible.
+
+1566
+02:01:18,062 --> 02:01:20,981
+Ooh, we knows!
+We knows safe paths for Hobbitses.
+
+1567
+02:01:21,148 --> 02:01:23,233
+Safe paths in the dark.
+
+1568
+02:01:23,401 --> 02:01:24,734
+Shut up!
+
+1569
+02:01:24,902 --> 02:01:27,862
+-I didn't say anything.
+-We wasn't talking to you.
+
+1570
+02:01:28,030 --> 02:01:30,782
+Oh, yes, we was, precious. We was.
+
+1571
+02:01:31,158 --> 02:01:34,327
+Look, I don't know what your game is,
+but I--
+
+1572
+02:01:34,495 --> 02:01:36,037
+Games?!
+
+1573
+02:01:36,205 --> 02:01:39,040
+Oh, we love games,
+doesn't we, precious?
+
+1574
+02:01:39,208 --> 02:01:43,712
+Does it like games? Does it, does it?
+Does it like to play?
+
+1575
+02:01:44,297 --> 02:01:45,588
+Maybe.
+
+1576
+02:01:47,842 --> 02:01:52,429
+What has roots as nobody sees?
+
+1577
+02:01:52,596 --> 02:01:55,348
+ls taller than trees?
+
+1578
+02:01:55,516 --> 02:01:57,600
+Up, up, up it goes
+
+1579
+02:01:57,768 --> 02:02:00,687
+And yet, never grows
+
+1580
+02:02:01,772 --> 02:02:04,316
+-The mountain.
+-Yes, yes.
+
+1581
+02:02:04,483 --> 02:02:07,694
+Oh, let's have another one, eh?
+
+1582
+02:02:07,862 --> 02:02:11,281
+Yes! Do it again, do it again. Ask us.
+
+1583
+02:02:11,449 --> 02:02:14,492
+No! No more riddles.
+
+1584
+02:02:14,869 --> 02:02:17,704
+Finish him off. Finish him now!
+
+1585
+02:02:17,872 --> 02:02:19,414
+Gollum, gollum!
+
+1586
+02:02:19,582 --> 02:02:21,333
+No! No. No.
+
+1587
+02:02:21,584 --> 02:02:24,586
+No. I want to play. I do.
+
+1588
+02:02:24,837 --> 02:02:27,422
+I want to play. I can see...
+
+1589
+02:02:27,590 --> 02:02:31,301
+...you are very good at this.
+
+1590
+02:02:31,969 --> 02:02:33,678
+So why don't we...
+
+1591
+02:02:35,639 --> 02:02:37,932
+...have a game of riddles? Yes?
+
+1592
+02:02:38,100 --> 02:02:39,768
+Just you and me.
+
+1593
+02:02:40,269 --> 02:02:44,439
+Yes. Yes, just us.
+
+1594
+02:02:44,607 --> 02:02:46,649
+Yes. Yes.
+
+1595
+02:02:46,817 --> 02:02:48,985
+And if I win...
+
+1596
+02:02:49,153 --> 02:02:52,155
+...you show me the way out. Yes?
+
+1597
+02:02:52,323 --> 02:02:54,074
+Yes. Yes.
+
+1598
+02:02:54,867 --> 02:02:57,952
+And if it loses? What then?
+
+1599
+02:02:58,120 --> 02:03:01,581
+Well, if it loses, precious,
+then we eats it!
+
+1600
+02:03:02,833 --> 02:03:06,461
+If Baggins loses, we eats it whole.
+
+1601
+02:03:13,010 --> 02:03:14,677
+Fair enough.
+
+1602
+02:03:18,933 --> 02:03:20,433
+Well, Baggins first.
+
+1603
+02:03:27,233 --> 02:03:29,776
+Thirty white horses on a red hill
+
+1604
+02:03:30,528 --> 02:03:33,363
+First they champ, then they stamp
+
+1605
+02:03:33,531 --> 02:03:35,115
+Then they stand still
+
+1606
+02:03:46,001 --> 02:03:48,169
+Teeth?
+
+1607
+02:03:48,337 --> 02:03:52,257
+Teeth! Oh, yes, my precious!
+
+1608
+02:03:52,883 --> 02:03:59,139
+But we-- We only have nine.
+
+1609
+02:04:01,976 --> 02:04:03,268
+Our turn.
+
+1610
+02:04:04,061 --> 02:04:06,813
+Voiceless, it cries
+
+1611
+02:04:07,314 --> 02:04:09,774
+Wingless flutters
+
+1612
+02:04:10,443 --> 02:04:13,570
+Toothless bites
+
+1613
+02:04:13,737 --> 02:04:16,990
+Mouthless mutters
+
+1614
+02:04:19,869 --> 02:04:22,620
+Just a minute. Uh....
+
+1615
+02:04:23,581 --> 02:04:25,039
+Oh. Oh!
+
+1616
+02:04:25,207 --> 02:04:26,875
+We knows! We knows!
+
+1617
+02:04:27,042 --> 02:04:28,501
+Shut up!
+
+1618
+02:04:34,633 --> 02:04:35,925
+Wind.
+
+1619
+02:04:36,093 --> 02:04:38,636
+It's wind. Of course it is.
+
+1620
+02:04:38,804 --> 02:04:41,764
+Very clever, Hobbitses.
+
+1621
+02:04:41,932 --> 02:04:44,017
+Very clever.
+
+1622
+02:04:44,226 --> 02:04:45,226
+Ah-ah-ah.
+
+1623
+02:04:45,394 --> 02:04:50,273
+A box without hinges, key or lid
+
+1624
+02:04:50,441 --> 02:04:53,943
+Yet golden treasure inside is hid
+
+1625
+02:04:56,572 --> 02:04:57,864
+Box.
+
+1626
+02:04:58,199 --> 02:05:00,617
+Oh, um....
+
+1627
+02:05:00,784 --> 02:05:02,911
+Box. The lid and a key.
+
+1628
+02:05:03,078 --> 02:05:06,414
+-Well?
+-It's nasty.
+
+1629
+02:05:08,459 --> 02:05:11,044
+-Box. Key.
+-Do you give up?
+
+1630
+02:05:11,212 --> 02:05:14,881
+Give us a chance, precious!
+Give us a chance!
+
+1631
+02:05:16,675 --> 02:05:20,178
+[GRUNTING]
+
+1632
+02:05:27,436 --> 02:05:30,939
+Eggses!
+
+1633
+02:05:31,106 --> 02:05:34,567
+Wet, crunchy little eggses. Yes.
+
+1634
+02:05:34,735 --> 02:05:39,280
+Grandmother taught us
+to suck them, yes!
+
+1635
+02:05:39,657 --> 02:05:41,658
+[WINGS FLUTTERING]
+
+1636
+02:05:44,203 --> 02:05:47,247
+[GOLLUM EXHALES]
+
+1637
+02:05:47,414 --> 02:05:50,959
+GOLLUM:
+We have one for you.
+
+1638
+02:05:51,460 --> 02:05:55,505
+All things it devours
+
+1639
+02:05:55,673 --> 02:06:00,802
+Birds, beasts, trees, flowers
+
+1640
+02:06:00,970 --> 02:06:05,181
+Gnaws iron, bites steel
+
+1641
+02:06:05,349 --> 02:06:09,143
+Grinds hard stones to meal
+
+1642
+02:06:10,604 --> 02:06:12,272
+Answer us.
+
+1643
+02:06:12,439 --> 02:06:17,110
+Give me a moment, please.
+I gave you a good long while.
+
+1644
+02:06:17,278 --> 02:06:20,905
+Birds, beasts.... Beasts?
+Trees, flowers.
+
+1645
+02:06:21,073 --> 02:06:22,490
+I don't know this one.
+
+1646
+02:06:22,658 --> 02:06:25,868
+GOLLUM:
+ls it tasty?
+
+1647
+02:06:26,036 --> 02:06:30,415
+ls it scrumptious?
+
+1648
+02:06:30,583 --> 02:06:32,083
+ls it crunchable?
+
+1649
+02:06:32,459 --> 02:06:35,253
+Let me think.
+
+1650
+02:06:40,050 --> 02:06:42,135
+It's stuck.
+
+1651
+02:06:43,053 --> 02:06:47,682
+Bagginses is stuck.
+
+1652
+02:06:51,228 --> 02:06:52,854
+Time's up.
+
+1653
+02:06:56,817 --> 02:06:58,443
+Time.
+
+1654
+02:06:58,611 --> 02:07:01,237
+The answer is time.
+
+1655
+02:07:01,572 --> 02:07:03,364
+[GROWLING]
+
+1656
+02:07:03,532 --> 02:07:04,949
+Actually it wasn't that hard.
+
+1657
+02:07:07,369 --> 02:07:08,661
+Last question.
+
+1658
+02:07:10,372 --> 02:07:12,165
+Last chance.
+
+1659
+02:07:12,333 --> 02:07:14,000
+BILBO:
+Okay.
+
+1660
+02:07:16,545 --> 02:07:18,546
+Ask us.
+
+1661
+02:07:19,757 --> 02:07:22,467
+-Ask us!
+-Yes, yes. All right.
+
+1662
+02:07:26,722 --> 02:07:31,059
+What have I got in my pocket?
+
+1663
+02:07:33,937 --> 02:07:35,938
+That's no fair.
+
+1664
+02:07:36,690 --> 02:07:39,817
+It's not fair! It's against the rules!
+
+1665
+02:07:41,779 --> 02:07:43,196
+Now ask us another one.
+
+1666
+02:07:43,614 --> 02:07:44,947
+No. No, no, no.
+
+1667
+02:07:45,115 --> 02:07:49,077
+You said ask me a question.
+Well, that is my question.
+
+1668
+02:07:49,244 --> 02:07:51,579
+What have I got in my pocket?
+
+1669
+02:07:51,789 --> 02:07:53,289
+[GROANS]
+
+1670
+02:07:53,457 --> 02:07:56,584
+Three guesses, precious.
+lt must give us three!
+
+1671
+02:07:56,835 --> 02:07:59,087
+Three guesses. Very well, guess away.
+
+1672
+02:07:59,254 --> 02:08:00,505
+Handses!
+
+1673
+02:08:00,673 --> 02:08:02,382
+Wrong. Guess again.
+
+1674
+02:08:02,549 --> 02:08:03,675
+[GRUNTS]
+
+1675
+02:08:03,842 --> 02:08:07,929
+Fishbones, Goblins' teeth,
+wet shells, bats' wings....
+
+1676
+02:08:08,097 --> 02:08:10,306
+[GRUNTING]
+
+1677
+02:08:10,474 --> 02:08:12,600
+Knife! Oh, shut up!
+
+1678
+02:08:12,768 --> 02:08:14,560
+Wrong again. Last guess.
+
+1679
+02:08:14,728 --> 02:08:17,855
+String. Or nothing.
+
+1680
+02:08:18,023 --> 02:08:21,943
+Two guesses at once.
+Wrong both times.
+
+1681
+02:08:22,945 --> 02:08:24,737
+[SOBBING]
+
+1682
+02:08:24,905 --> 02:08:26,364
+BILBO:
+So....
+
+1683
+02:08:27,908 --> 02:08:31,411
+Come, then. I won the game.
+You promised to show me the way out.
+
+1684
+02:08:32,121 --> 02:08:34,997
+GOLLUM:
+Did we say so, precious?
+
+1685
+02:08:35,165 --> 02:08:38,334
+Did we say so?
+
+1686
+02:08:41,380 --> 02:08:45,925
+What has it got in its pocketses?
+
+1687
+02:08:47,177 --> 02:08:48,845
+That's no concern of yours.
+
+1688
+02:08:49,471 --> 02:08:51,514
+You lost.
+
+1689
+02:08:51,682 --> 02:08:59,897
+Lost?
+
+1690
+02:09:07,030 --> 02:09:08,322
+Where is it?
+
+1691
+02:09:09,241 --> 02:09:10,658
+Where is it?!
+
+1692
+02:09:11,910 --> 02:09:12,994
+No!
+
+1693
+02:09:13,662 --> 02:09:15,163
+[SCREAMS]
+
+1694
+02:09:15,330 --> 02:09:16,622
+Where is it?!
+
+1695
+02:09:17,040 --> 02:09:19,667
+No! No!
+
+1696
+02:09:21,128 --> 02:09:22,754
+Lost!
+
+1697
+02:09:22,921 --> 02:09:25,214
+Curse us and splash us!
+
+1698
+02:09:25,632 --> 02:09:29,677
+My precious is lost!
+
+1699
+02:09:31,054 --> 02:09:35,391
+-What have you lost?
+-Mustn't ask us! Not its business!
+
+1700
+02:09:35,559 --> 02:09:37,477
+No!
+
+1701
+02:09:37,644 --> 02:09:40,146
+Gollum, gollum!
+
+1702
+02:09:41,190 --> 02:09:43,191
+[PANTING]
+
+1703
+02:09:52,826 --> 02:09:56,370
+What has it got...
+
+1704
+02:09:56,538 --> 02:09:59,248
+...in its nasty...
+
+1705
+02:09:59,416 --> 02:10:02,168
+...little pocketses?
+
+1706
+02:10:12,179 --> 02:10:14,180
+He stole it.
+
+1707
+02:10:15,516 --> 02:10:18,392
+He stole it!
+
+1708
+02:10:19,853 --> 02:10:21,646
+[SCREAMS]
+
+1709
+02:10:21,855 --> 02:10:23,397
+He stole it!
+
+1710
+02:10:29,071 --> 02:10:30,905
+GREAT GOBLIN [SINGING]:
+Bones will be shattered
+
+1711
+02:10:31,073 --> 02:10:32,240
+Necks will be wrung
+
+1712
+02:10:32,407 --> 02:10:34,408
+You'll be beaten and battered
+
+1713
+02:10:34,576 --> 02:10:35,993
+From racks you'll be hung
+
+1714
+02:10:36,161 --> 02:10:40,456
+You will die down here
+And never be found
+
+1715
+02:10:40,624 --> 02:10:44,710
+Down in the deep of Goblin-town
+
+1716
+02:10:47,631 --> 02:10:51,592
+I know that sword!
+lt is the Goblin-cleaver!
+
+1717
+02:10:52,219 --> 02:10:53,511
+The Biter!
+
+1718
+02:10:53,971 --> 02:10:57,223
+The blade that sliced 1 000 necks!
+
+1719
+02:10:57,391 --> 02:11:01,310
+Slash them! Beat them! Kill them!
+
+1720
+02:11:01,478 --> 02:11:03,187
+Kill them all!
+
+1721
+02:11:03,355 --> 02:11:04,981
+Cut off his head!
+
+1722
+02:11:35,095 --> 02:11:37,305
+Take up arms.
+
+1723
+02:11:37,973 --> 02:11:39,265
+Fight.
+
+1724
+02:11:40,601 --> 02:11:41,893
+Fight!
+
+1725
+02:11:42,060 --> 02:11:43,811
+[ALL GRUNTING]
+
+1726
+02:11:48,692 --> 02:11:51,652
+He wields the Foehammer! The Beater!
+
+1727
+02:11:51,987 --> 02:11:54,071
+Bright as daylight!
+
+1728
+02:12:03,498 --> 02:12:04,790
+NORI:
+Thorin!
+
+1729
+02:12:13,508 --> 02:12:15,885
+[WHIMPERING]
+
+1730
+02:12:18,221 --> 02:12:20,348
+Follow me. Quick!
+
+1731
+02:12:23,685 --> 02:12:25,227
+Run!
+
+1732
+02:12:30,067 --> 02:12:32,944
+[GOLLUM GRUNTING NEARBY]
+
+1733
+02:12:33,528 --> 02:12:35,655
+GOLLUM:
+Give it to us!
+
+1734
+02:12:42,371 --> 02:12:43,746
+[GRUNTING]
+
+1735
+02:12:43,997 --> 02:12:45,247
+[GOLLUM GROWLING]
+
+1736
+02:12:54,967 --> 02:12:57,885
+It's ours.
+
+1737
+02:12:58,053 --> 02:13:01,597
+It's ours!
+
+1738
+02:13:13,568 --> 02:13:15,486
+[SCREAMS]
+
+1739
+02:13:25,288 --> 02:13:27,873
+Thief!
+
+1740
+02:13:28,917 --> 02:13:32,044
+Baggins!
+
+1741
+02:13:38,218 --> 02:13:40,678
+GANDALF:
+Quickly!
+
+1742
+02:13:41,388 --> 02:13:43,305
+DORI:
+Faster!
+
+1743
+02:13:43,515 --> 02:13:45,516
+[GOBLINS GROWLING]
+
+1744
+02:13:53,150 --> 02:13:54,483
+DWALIN:
+Post!
+
+1745
+02:13:57,112 --> 02:13:58,195
+Charge!
+
+1746
+02:14:45,118 --> 02:14:46,535
+Cut the ropes!
+
+1747
+02:15:09,684 --> 02:15:10,893
+GANDALF:
+Come on, quickly!
+
+1748
+02:15:11,061 --> 02:15:13,104
+DWALIN: Come on, move!
+FILI: Bombur!
+
+1749
+02:15:19,444 --> 02:15:21,487
+BOMBUR:
+Go, go, go!
+
+1750
+02:15:24,991 --> 02:15:26,408
+THORIN:
+Jump!
+
+1751
+02:15:32,165 --> 02:15:33,457
+OIN:
+Jump, lad!
+
+1752
+02:15:53,979 --> 02:15:55,020
+GANDALF:
+Come on!
+
+1753
+02:15:57,607 --> 02:15:58,983
+DWALIN:
+Push!
+
+1754
+02:16:17,878 --> 02:16:19,795
+DORI:
+Come on!
+
+1755
+02:16:25,510 --> 02:16:26,927
+Come on!
+
+1756
+02:16:32,559 --> 02:16:36,312
+GLOIN: Watch your backs!
+-You thought you could escape me.
+
+1757
+02:16:39,941 --> 02:16:42,401
+What are you going to do now, Wizard?
+
+1758
+02:16:43,945 --> 02:16:45,696
+[GROANING]
+
+1759
+02:16:50,869 --> 02:16:52,661
+That'll do it.
+
+1760
+02:17:00,045 --> 02:17:02,046
+[ALL SCREAMING]
+
+1761
+02:17:22,442 --> 02:17:24,235
+[ALL GROANING]
+
+1762
+02:17:27,364 --> 02:17:29,865
+BOFUR:
+Well, that could have been worse.
+
+1763
+02:17:30,742 --> 02:17:32,117
+DWALIN:
+Haver!
+
+1764
+02:17:32,285 --> 02:17:34,912
+You've got to be joking!
+
+1765
+02:17:40,877 --> 02:17:42,294
+Gandalf!
+
+1766
+02:17:42,462 --> 02:17:43,671
+[GOBLINS GROWLING]
+
+1767
+02:17:46,883 --> 02:17:49,093
+There's too many. We can't fight them.
+
+1768
+02:17:49,261 --> 02:17:51,345
+Only one thing will save us, daylight!
+
+1769
+02:17:51,513 --> 02:17:54,515
+Come on! Here! On your feet.
+
+1770
+02:17:57,060 --> 02:17:59,270
+OIN: Balin.
+DWALIN: Come on!
+
+1771
+02:18:00,021 --> 02:18:01,063
+[GRUNTS]
+
+1772
+02:18:01,231 --> 02:18:02,481
+Wait!
+
+1773
+02:18:02,649 --> 02:18:06,151
+My precious. Wait!
+
+1774
+02:18:06,319 --> 02:18:09,113
+Gollum, gollum!
+
+1775
+02:18:10,115 --> 02:18:12,074
+[FOOTSTEPS]
+
+1776
+02:18:13,493 --> 02:18:15,577
+GANDALF:
+Quick, quick!
+
+1777
+02:18:17,580 --> 02:18:18,664
+This way.
+
+1778
+02:18:18,832 --> 02:18:20,624
+[GASPS]
+
+1779
+02:18:21,376 --> 02:18:24,503
+DORI: Come on.
+GANDALF: Come on, come on. Quickly.
+
+1780
+02:18:27,132 --> 02:18:28,841
+Right, good!
+
+1781
+02:19:51,925 --> 02:19:54,218
+[SCREAMS]
+
+1782
+02:19:55,887 --> 02:19:57,262
+Baggins!
+
+1783
+02:19:58,598 --> 02:20:00,557
+Thief!
+
+1784
+02:20:01,434 --> 02:20:05,938
+Curse it and crush it!
+We hates it forever!
+
+1785
+02:20:18,576 --> 02:20:21,745
+Five, six, seven, eight.
+
+1786
+02:20:22,205 --> 02:20:24,456
+Bifur. Bofur. That's 1 0.
+
+1787
+02:20:24,624 --> 02:20:27,126
+Fili, Kili! That's 12.
+
+1788
+02:20:27,460 --> 02:20:30,671
+And Bombur. That makes 1 3.
+
+1789
+02:20:30,839 --> 02:20:32,881
+Where's Bilbo?
+
+1790
+02:20:33,508 --> 02:20:38,220
+Where is our Hobbit?
+
+1791
+02:20:39,848 --> 02:20:42,641
+DWALIN:
+Curse that Halfling! Now he's lost?
+
+1792
+02:20:42,809 --> 02:20:44,184
+GLOIN:
+I thought he was with Dori!
+
+1793
+02:20:44,352 --> 02:20:47,396
+-Don't blame me!
+-Well, where did you last see him?
+
+1794
+02:20:47,564 --> 02:20:50,274
+I think I saw him slip away
+when they first collared us.
+
+1795
+02:20:50,442 --> 02:20:51,859
+GANDALF:
+And what happened, exactly?
+
+1796
+02:20:52,026 --> 02:20:54,319
+-Tell me!
+-I'll tell you what happened.
+
+1797
+02:20:54,487 --> 02:20:57,322
+Master Baggins saw his chance
+and he took it.
+
+1798
+02:20:58,241 --> 02:21:01,243
+He has thought of nothing
+but his soft bed and his warm hearth...
+
+1799
+02:21:01,411 --> 02:21:03,787
+...since first he stepped out of his door.
+
+1800
+02:21:03,955 --> 02:21:06,290
+We will not be seeing our Hobbit again.
+
+1801
+02:21:06,958 --> 02:21:08,542
+He is long gone.
+
+1802
+02:21:20,930 --> 02:21:23,348
+No. He isn't.
+
+1803
+02:21:27,687 --> 02:21:29,521
+Bilbo Baggins.
+
+1804
+02:21:29,689 --> 02:21:32,483
+I have never been so glad
+to see anyone in my life.
+
+1805
+02:21:34,569 --> 02:21:36,487
+Bilbo. We'd given you up.
+
+1806
+02:21:36,654 --> 02:21:38,572
+How on earth
+did you get past the Goblins?
+
+1807
+02:21:38,740 --> 02:21:40,324
+How, indeed.
+
+1808
+02:21:43,703 --> 02:21:44,745
+[CHUCKLES]
+
+1809
+02:21:49,501 --> 02:21:52,461
+Well, what does it matter? He's back.
+
+1810
+02:21:53,588 --> 02:21:56,423
+lt matters. I want to know.
+
+1811
+02:21:58,635 --> 02:22:00,344
+Why did you come back?
+
+1812
+02:22:03,681 --> 02:22:06,767
+Look, I know you doubt me.
+I know you always have.
+
+1813
+02:22:08,311 --> 02:22:11,271
+And you're right, I often think of Bag-end.
+
+1814
+02:22:11,856 --> 02:22:13,899
+I miss my books.
+
+1815
+02:22:14,651 --> 02:22:17,402
+And my armchair and my garden.
+
+1816
+02:22:18,446 --> 02:22:19,780
+See, that's where I belong.
+
+1817
+02:22:20,490 --> 02:22:22,407
+That's home.
+
+1818
+02:22:23,952 --> 02:22:26,036
+And that's why I came back. Because...
+
+1819
+02:22:28,373 --> 02:22:31,250
+...you don't have one. A home.
+
+1820
+02:22:31,918 --> 02:22:33,502
+lt was taken from you.
+
+1821
+02:22:36,589 --> 02:22:39,383
+But I will help you take it back if I can.
+
+1822
+02:22:59,445 --> 02:23:01,822
+[GROWLING]
+
+1823
+02:23:01,990 --> 02:23:03,699
+[IN BLACK SPEECH]
+
+1824
+02:23:12,625 --> 02:23:14,084
+Out of the frying pan.
+
+1825
+02:23:14,252 --> 02:23:16,587
+And into the fire. Run.
+
+1826
+02:23:16,921 --> 02:23:18,714
+Run!
+
+1827
+02:23:23,886 --> 02:23:25,887
+[WARGS HOWLING]
+
+1828
+02:23:28,099 --> 02:23:29,850
+[GROWLING]
+
+1829
+02:23:34,063 --> 02:23:35,480
+THORIN:
+Go!
+
+1830
+02:24:02,008 --> 02:24:03,342
+Up into the trees!
+
+1831
+02:24:03,509 --> 02:24:06,011
+All of you! Come on, climb! Bilbo, climb!
+
+1832
+02:24:06,971 --> 02:24:08,388
+THORIN:
+Quickly!
+
+1833
+02:24:13,227 --> 02:24:14,269
+[GRUNTS]
+
+1834
+02:24:18,107 --> 02:24:19,149
+THORIN:
+They're coming!
+
+1835
+02:24:56,437 --> 02:24:57,479
+[DWARVES YELLING]
+
+1836
+02:24:57,647 --> 02:24:59,356
+BOFUR: Hang on!
+GLOIN: Hold on, brothers!
+
+1837
+02:24:59,941 --> 02:25:01,942
+[WHISPERS INDISTINCTLY]
+
+1838
+02:25:10,785 --> 02:25:12,786
+[GROWLING]
+
+1839
+02:25:20,837 --> 02:25:22,295
+Azog.
+
+1840
+02:25:22,672 --> 02:25:24,548
+[GROWLING]
+
+1841
+02:25:26,175 --> 02:25:27,759
+[SNIFFING]
+
+1842
+02:25:28,261 --> 02:25:31,263
+[IN BLACK SPEECH]
+
+1843
+02:25:48,990 --> 02:25:50,782
+lt cannot be.
+
+1844
+02:26:07,467 --> 02:26:08,550
+[DWARVES SCREAMING]
+
+1845
+02:26:09,677 --> 02:26:12,304
+[WARGS BARKING AND GROWLING]
+
+1846
+02:26:43,628 --> 02:26:45,754
+DWALIN:
+It's going!
+
+1847
+02:26:45,963 --> 02:26:47,047
+[DWARVES SCREAMING]
+
+1848
+02:27:08,069 --> 02:27:09,820
+[LAUGHS]
+
+1849
+02:27:35,304 --> 02:27:36,555
+GANDALF:
+Fili!
+
+1850
+02:27:48,025 --> 02:27:50,694
+[DWARVES YELLING]
+
+1851
+02:27:58,870 --> 02:28:00,871
+[ROARS]
+
+1852
+02:28:01,163 --> 02:28:02,247
+Yeah!
+
+1853
+02:28:02,415 --> 02:28:04,833
+[ALL LAUGHING]
+
+1854
+02:28:11,424 --> 02:28:12,924
+GANDALF:
+No!
+
+1855
+02:28:13,217 --> 02:28:15,135
+[GASPS THEN SCREAMS]
+
+1856
+02:28:19,640 --> 02:28:21,266
+Oh, no.
+
+1857
+02:28:25,646 --> 02:28:27,105
+Mr. Gandalf!
+
+1858
+02:28:32,987 --> 02:28:34,029
+ORI:
+Oh, no, Dori!
+
+1859
+02:28:35,781 --> 02:28:37,365
+[GROWLING]
+
+1860
+02:29:34,173 --> 02:29:35,215
+[GRUNTS]
+
+1861
+02:29:36,342 --> 02:29:37,676
+[ROARS]
+
+1862
+02:29:45,059 --> 02:29:46,559
+ORI:
+Help!
+
+1863
+02:29:59,407 --> 02:30:00,573
+[AZOG YELLS]
+
+1864
+02:30:04,370 --> 02:30:07,122
+No!
+
+1865
+02:30:07,748 --> 02:30:09,124
+[GROWLS]
+
+1866
+02:30:14,130 --> 02:30:18,049
+[SCREAMING]
+
+1867
+02:30:18,259 --> 02:30:20,802
+Thorin! No!
+
+1868
+02:30:33,774 --> 02:30:35,108
+[GRUNTS]
+
+1869
+02:30:39,280 --> 02:30:43,116
+[IN BLACK SPEECH]
+
+1870
+02:31:07,892 --> 02:31:09,267
+[BILBO YELLS]
+
+1871
+02:31:24,366 --> 02:31:27,410
+[WARGS GROWLING]
+
+1872
+02:31:41,133 --> 02:31:43,134
+[DWARVES YELLING]
+
+1873
+02:31:49,517 --> 02:31:50,517
+[YELLS]
+
+1874
+02:32:13,791 --> 02:32:15,750
+[SCREAMING]
+
+1875
+02:32:17,461 --> 02:32:19,170
+[EAGLES SQUAWKING]
+
+1876
+02:33:15,144 --> 02:33:17,729
+[ROARING]
+
+1877
+02:33:19,148 --> 02:33:20,565
+Look.
+
+1878
+02:33:20,774 --> 02:33:23,318
+[BILBO SCREAMING]
+
+1879
+02:33:53,098 --> 02:33:56,601
+[ROARING]
+
+1880
+02:34:08,197 --> 02:34:09,906
+Thorin!
+
+1881
+02:35:24,815 --> 02:35:26,399
+GANDALF:
+Thorin!
+
+1882
+02:35:30,154 --> 02:35:31,195
+Thorin.
+
+1883
+02:35:41,790 --> 02:35:43,791
+[GANDALF WHISPERING INDISTINCTLY]
+
+1884
+02:35:48,756 --> 02:35:49,839
+The Halfling?
+
+1885
+02:35:50,924 --> 02:35:52,967
+It's all right.
+
+1886
+02:35:53,385 --> 02:35:56,596
+Bilbo is here. He's quite safe.
+
+1887
+02:35:56,805 --> 02:35:58,473
+[SIGHS]
+
+1888
+02:36:06,482 --> 02:36:07,523
+You!
+
+1889
+02:36:11,487 --> 02:36:13,321
+What were you doing?
+
+1890
+02:36:13,489 --> 02:36:16,032
+You nearly got yourself killed!
+
+1891
+02:36:17,993 --> 02:36:20,703
+Did I not say that
+you would be a burden?
+
+1892
+02:36:21,455 --> 02:36:24,540
+That you would not survive in the Wild?
+
+1893
+02:36:25,084 --> 02:36:27,001
+That you had no place amongst us?
+
+1894
+02:36:32,591 --> 02:36:36,719
+I have never been so wrong in all my life.
+
+1895
+02:36:36,929 --> 02:36:39,472
+[ALL CHEERING AND LAUGHING]
+
+1896
+02:36:48,649 --> 02:36:50,233
+But I'm sorry I doubted you.
+
+1897
+02:36:50,401 --> 02:36:53,277
+No, I would have doubted me too.
+
+1898
+02:36:53,445 --> 02:36:56,572
+I'm not a hero or a warrior.
+
+1899
+02:36:58,534 --> 02:37:00,326
+Not even a burglar.
+
+1900
+02:37:08,502 --> 02:37:11,379
+[EAGLE SQUAWKS]
+
+1901
+02:37:19,721 --> 02:37:22,306
+ls that what I think it is?
+
+1902
+02:37:37,239 --> 02:37:38,281
+GANDALF:
+Erebor...
+
+1903
+02:37:39,908 --> 02:37:41,826
+...the Lonely Mountain...
+
+1904
+02:37:41,994 --> 02:37:46,539
+...the last of the great Dwarf kingdoms
+of Middle-earth.
+
+1905
+02:37:49,084 --> 02:37:51,043
+Our home.
+
+1906
+02:37:54,047 --> 02:37:55,256
+[BIRD CHIRPING]
+
+1907
+02:37:55,424 --> 02:37:56,716
+OIN:
+A raven!
+
+1908
+02:37:56,884 --> 02:38:00,094
+The birds are returning to the mountain.
+
+1909
+02:38:03,390 --> 02:38:07,393
+That, my dear Oin, is a thrush.
+
+1910
+02:38:08,395 --> 02:38:10,521
+But we'll take it as a sign.
+
+1911
+02:38:10,689 --> 02:38:13,983
+-A good omen.
+-You're right.
+
+1912
+02:38:14,151 --> 02:38:17,278
+I do believe the worst is behind us.
+
+1913
+02:39:23,011 --> 02:39:24,387
+[GROWLING]
+
+1914
+02:40:09,891 --> 02:40:16,564
+NEIL FINN [SINGING]:
+Far over the misty mountains rise
+
+1915
+02:40:17,899 --> 02:40:24,113
+Leave us standing upon the height
+
+1916
+02:40:25,699 --> 02:40:28,367
+What was before
+
+1917
+02:40:29,661 --> 02:40:32,622
+We see once more
+
+1918
+02:40:33,790 --> 02:40:39,003
+ls our kingdom a distant light
+
+1919
+02:40:41,048 --> 02:40:46,385
+Fiery mountain beneath the moon
+
+1920
+02:40:47,846 --> 02:40:54,393
+The words unspoken, we'll be there soon
+
+1921
+02:40:55,979 --> 02:40:58,981
+For home a song
+
+1922
+02:40:59,983 --> 02:41:03,069
+That echoes on
+
+1923
+02:41:04,029 --> 02:41:09,367
+And all who find us will know the tune
+
+1924
+02:41:12,704 --> 02:41:15,915
+Some folk we never forget
+
+1925
+02:41:16,708 --> 02:41:20,044
+Some kind we never forgive
+
+1926
+02:41:20,879 --> 02:41:24,006
+Haven't seen the back of us yet
+
+1927
+02:41:24,966 --> 02:41:28,260
+We'll fight as long as we live
+
+1928
+02:41:28,970 --> 02:41:32,181
+All eyes on the hidden door
+
+1929
+02:41:32,891 --> 02:41:36,268
+To the Lonely Mountain borne
+
+1930
+02:41:37,020 --> 02:41:40,231
+We'll ride in the gathering storm
+
+1931
+02:41:40,816 --> 02:41:45,903
+Until we get our long-forgotten gold
+
+1932
+02:41:47,823 --> 02:41:53,661
+We lay under the misty mountains cold
+
+1933
+02:41:55,539 --> 02:41:58,040
+ln slumbers deep
+
+1934
+02:41:59,209 --> 02:42:01,669
+And dreams of gold
+
+1935
+02:42:03,505 --> 02:42:06,716
+We must awake
+
+1936
+02:42:07,592 --> 02:42:10,594
+Our lives to make
+
+1937
+02:42:11,596 --> 02:42:16,642
+And in the darkness a torch we hold
+
+1938
+02:42:18,687 --> 02:42:24,024
+From long ago when lanterns burned
+
+1939
+02:42:25,694 --> 02:42:28,696
+Until this day
+
+1940
+02:42:29,740 --> 02:42:32,032
+Our hearts have yearned
+
+1941
+02:42:33,744 --> 02:42:36,537
+Her fate unknown
+
+1942
+02:42:37,873 --> 02:42:41,125
+The Arkenstone
+
+1943
+02:42:42,002 --> 02:42:44,462
+What was stolen
+
+1944
+02:42:45,839 --> 02:42:48,090
+Must be returned
+
+1945
+02:43:04,024 --> 02:43:07,735
+We must awake
+
+1946
+02:43:07,986 --> 02:43:11,739
+And make the day
+
+1947
+02:43:12,032 --> 02:43:17,995
+To find a song for heart and soul
+
+1948
+02:43:21,708 --> 02:43:24,960
+Some folk we never forget
+
+1949
+02:43:25,754 --> 02:43:29,006
+Some kind we never forgive
+
+1950
+02:43:29,925 --> 02:43:33,010
+Haven't seen the end of it yet
+
+1951
+02:43:34,054 --> 02:43:37,181
+We'll fight as long as we live
+
+1952
+02:43:37,974 --> 02:43:41,352
+All eyes on the hidden door
+
+1953
+02:43:42,020 --> 02:43:45,439
+To the Lonely Mountain borne
+
+1954
+02:43:46,107 --> 02:43:49,318
+We'll ride in the gathering storm
+
+1955
+02:43:50,111 --> 02:43:54,907
+Till we get our long-forgotten gold
+
+1956
+02:43:56,576 --> 02:44:04,041
+Far away from misty mountains cold
+
+1957
+02:49:32,287 --> 02:49:34,288
+
+
