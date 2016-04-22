@@ -1,2 +1,7 @@
+# java build files
 /bin
 *.class
+
+# project output folders
+results/*
+sentences/*

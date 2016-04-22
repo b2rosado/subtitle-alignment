@@ -1,0 +1,5956 @@
+1
+00:00:40,642 --> 00:00:42,351
+LONDRES 1593>>
+
+2
+00:00:45,856 --> 00:00:48,322
+Nos dias gloriosos do teatro Elizabetiano>>
+
+3
+00:00:48,358 --> 00:00:51,986
+dois teatros lutavam entre si por dramaturgos e público.
+
+4
+00:00:56,199 --> 00:00:58,416
+A norte da cidade, o Curtain Theatre>>
+
+5
+00:00:58,452 --> 00:01:01,954
+lar do mais famoso actor de Inglaterra, Richard Burbage.
+
+6
+00:01:10,255 --> 00:01:13,632
+Do outro lado do rio, o teatro construído por Philip Henslowe,>>
+
+7
+00:01:13,668 --> 00:01:16,844
+um negociante com problemas de liquidez...>>
+
+8
+00:01:23,185 --> 00:01:24,977
+...o Rose...>>
+
+9
+00:01:54,424 --> 00:01:58,052
+Henslowe, sabes o que acontece a um homem que não paga as dívidas?
+
+10
+00:01:58,088 --> 00:01:59,999
+A Lamentável Tragédia do>>
+
+11
+00:02:00,035 --> 00:02:02,765
+Queimam-lhe as botas!
+
+12
+00:02:05,560 --> 00:02:06,525
+Porque gritas,>>
+
+13
+00:02:06,561 --> 00:02:08,896
+quando sou eu que sofro?
+
+14
+00:02:09,272 --> 00:02:12,274
+- Que faço eu, Sr. Lambert? - Sofre, Sr. Fennyman.
+
+15
+00:02:12,310 --> 00:02:14,033
+Sofro muito, Sr. Frees?
+
+16
+00:02:14,069 --> 00:02:17,279
+Doze libras, um xelim e quatro pence, incluindo juros.
+
+17
+00:02:17,315 --> 00:02:19,205
+- Posso pagar-lhe! - Quando?
+
+18
+00:02:19,241 --> 00:02:22,493
+Duas semanas! Três, no máximo! Tenha dó de mim!
+
+19
+00:02:22,536 --> 00:02:24,245
+Tirem-lhas!
+
+20
+00:02:24,788 --> 00:02:25,587
+Onde vai arranjar,>>
+
+21
+00:02:25,591 --> 00:02:28,749
+dezasseis libras, cinco xelins e nove pence.
+
+22
+00:02:28,750 --> 00:02:30,751
+..incluindo juros, em três semanas?
+
+23
+00:02:30,752 --> 00:02:33,587
+- Tenho uma peça nova. - Ponham-nos outra vez.
+
+24
+00:02:33,588 --> 00:02:35,589
+- É uma comédia! - Cortem-lhe o nariz.
+
+25
+00:02:35,590 --> 00:02:38,425
+É uma nova comédia do William Shakespeare.
+
+26
+00:02:40,220 --> 00:02:42,221
+- E as orelhas. - E lucros!
+
+27
+00:02:42,222 --> 00:02:44,473
+Seremos sócios, Sr. Fennyman!
+
+28
+00:02:46,351 --> 00:02:47,893
+Sócios?
+
+29
+00:02:52,816 --> 00:02:54,108
+O público vai adorar.
+
+30
+00:02:54,109 --> 00:02:57,278
+Identidades trocadas. Naufrágio. Rei pirata.
+
+31
+00:02:57,279 --> 00:03:00,656
+- Entra um cão e o amor triunfa. - Acho que já a vi.
+
+32
+00:03:00,657 --> 00:03:02,491
+E não gostei.
+
+33
+00:03:02,492 --> 00:03:05,870
+- Mas esta é do Shakespeare. - Qual é o título?
+
+34
+00:03:06,288 --> 00:03:09,081
+Romeu e Ethel, a filha do Pirata.
+
+35
+00:03:09,166 --> 00:03:10,875
+Bom título.
+
+36
+00:03:11,334 --> 00:03:14,753
+Mas demora, falta encontrar actores, ensaiar.
+
+37
+00:03:14,754 --> 00:03:17,256
+Estreia daqui a duas semanas.
+
+38
+00:03:17,257 --> 00:03:19,717
+São 500 galerias a dois pence cada.
+
+39
+00:03:19,718 --> 00:03:23,471
+Mais 400 laterais a três pence, e um penny pelas almofadas.
+
+40
+00:03:23,472 --> 00:03:25,514
+Digamos, 200 almofadas.
+
+41
+00:03:25,515 --> 00:03:29,351
+Talvez dois espectáculos, por segurança. Qual o total, Sr. Frees?
+
+42
+00:03:29,352 --> 00:03:32,271
+- Exactamente vinte libras. - Correcto.
+
+43
+00:03:32,564 --> 00:03:35,691
+- Tenho de pagar aos actores e ao autor. - Parte dos lucros.
+
+44
+00:03:35,692 --> 00:03:38,360
+- Nunca há lucro. - Claro que não.
+
+45
+00:03:39,696 --> 00:03:42,615
+Sr. Fennyman, acho que tivemos uma excelente ideia.
+
+46
+00:03:42,616 --> 00:03:44,325
+Assine aqui.
+
+47
+00:03:49,039 --> 00:03:52,208
+Então, Romeu e Ethel, a filha do Pirata.
+
+48
+00:03:52,709 --> 00:03:54,585
+Quase acabada?
+
+49
+00:03:54,711 --> 00:03:57,922
+Sem dúvida, está agora mesmo a terminá-la.
+
+50
+00:04:28,286 --> 00:04:30,287
+A Paixão de Shakespeare>>
+
+51
+00:04:56,356 --> 00:04:57,857
+Will.
+
+52
+00:05:00,444 --> 00:05:01,902
+A minha peça?
+
+53
+00:05:01,945 --> 00:05:05,239
+Diz-me estás quase. Diz-me que já começaste.
+
+54
+00:05:05,282 --> 00:05:08,784
+"Duvida que as estrelas são fogo, duvida que o sol se move.">>
+
+55
+00:05:08,785 --> 00:05:11,579
+Não, não temos tempo. Fala em prosa.
+
+56
+00:05:11,580 --> 00:05:13,414
+A minha peça?
+
+57
+00:05:13,582 --> 00:05:16,459
+- Está tudo aqui guardado. - Graças a Deus.
+
+58
+00:05:17,294 --> 00:05:18,210
+Guardado?
+
+59
+00:05:18,211 --> 00:05:21,630
+- Assim que encontrar a minha musa. - Quem é ela agora?
+
+60
+00:05:21,631 --> 00:05:23,632
+É sempre a Afrodite.
+
+61
+00:05:23,633 --> 00:05:27,136
+Afrodite Baggot, que se vende atrás do Dog and Trumpet?
+
+62
+00:05:27,304 --> 00:05:29,638
+Henslowe, não tens alma,>>
+
+63
+00:05:29,639 --> 00:05:33,601
+como podes entender o vazio de quem procura uma alma gémea?
+
+64
+00:05:35,395 --> 00:05:38,022
+Sou um homem morto e esgotado.
+
+65
+00:05:38,148 --> 00:05:40,900
+O teatro fechado há doze semanas por causa da peste.
+
+66
+00:05:40,901 --> 00:05:43,903
+Os actores forçados a actuar nos bares de Inglaterra,>>
+
+67
+00:05:43,904 --> 00:05:47,281
+enquanto o Sr. Burbage e o Grupo do Camareiro estão na corte,>>
+
+68
+00:05:47,282 --> 00:05:49,909
+e recebem dez libras para fazer a tua peça,>>
+
+69
+00:05:49,910 --> 00:05:52,912
+escrita para o meu teatro, por ti, às minhas custas,>>
+
+70
+00:05:52,913 --> 00:05:53,929
+quando eras jovem e grato.
+
+71
+00:05:53,933 --> 00:05:57,917
+- Qual? Ricardo Quebra-Costas? - Não! Eles querem comédia.
+
+72
+00:05:57,918 --> 00:05:59,919
+Como o Romeu e Ethel.
+
+73
+00:05:59,920 --> 00:06:02,922
+- Quem a escreveu? - Ninguém. Está a escrevê-la para mim.
+
+74
+00:06:02,923 --> 00:06:05,925
+- Dei-te três libras há um mês. - Metade do que me deves.
+
+75
+00:06:05,926 --> 00:06:08,344
+Ainda me deves Um Cavalheiro de Verona.
+
+76
+00:06:08,345 --> 00:06:11,806
+Que é o dinheiro para nós? Eu, teu patrono, tu, minha pena.
+
+77
+00:06:11,807 --> 00:06:13,432
+Quando acabar a peste,>>
+
+78
+00:06:13,433 --> 00:06:16,811
+o Burbage terá uma nova peça do Marlowe para o Curtain.
+
+79
+00:06:16,812 --> 00:06:18,813
+- E eu nada para o Rose. - Sr. Henslowe.
+
+80
+00:06:18,814 --> 00:06:20,815
+- Empresta-me 50 libras? - Cinquenta?
+
+81
+00:06:20,816 --> 00:06:23,818
+O Burbage ofereceu-me sociedade no Grupo do Camareiro.
+
+82
+00:06:23,860 --> 00:06:26,695
+Por 50 libras, acabam-se os meus dias de escravo.
+
+83
+00:06:26,696 --> 00:06:29,740
+Corta-me o coração. Atira-me aos cães.
+
+84
+00:06:30,826 --> 00:06:32,451
+Então, é não?
+
+85
+00:06:32,828 --> 00:06:35,496
+Os teatros são servos do diabo!
+
+86
+00:06:35,872 --> 00:06:40,501
+Os actores despertam luxúria nas vossas mulheres e maldade nos vossos filhos!
+
+87
+00:06:40,502 --> 00:06:43,796
+E o Rose cheira a ranço, seja qual for o seu nome!
+
+88
+00:06:45,173 --> 00:06:48,175
+Que a peste caia sobre as duas casas!
+
+89
+00:06:49,886 --> 00:06:51,554
+Onde vais?
+
+90
+00:06:51,888 --> 00:06:53,848
+À confissão semanal.
+
+92
+00:06:59,146 --> 00:07:01,230
+Palavras, palavras.
+
+93
+00:07:02,149 --> 00:07:04,316
+Em tempos, tinha o dom.
+
+94
+00:07:04,609 --> 00:07:07,290
+Transformava as palavras em amor, como o oleiro faz potes.
+
+95
+00:07:08,055 --> 00:07:09,599
+Amor que derrota impérios.
+
+96
+00:07:09,657 --> 00:07:13,160
+Amor que une dois corações, aconteça o que acontecer.
+
+97
+00:07:13,561 --> 00:07:17,522
+Por seis pence a deixa, fazia uma revolução num convento.
+
+98
+00:07:17,565 --> 00:07:21,276
+- Mas agora... - Mas dizes que te deitas com mulheres.
+
+99
+00:07:23,253 --> 00:07:25,463
+A Sue Preta, a Phoebe Gorda,>>
+
+100
+00:07:26,047 --> 00:07:30,176
+a Roseline, costureira do Burbage, a Afrodite, que se vende atrás...>>
+
+101
+00:07:30,177 --> 00:07:32,511
+Sim, às vezes. E então?
+
+102
+00:07:33,096 --> 00:07:34,764
+Perdi o dom.
+
+103
+00:07:34,765 --> 00:07:36,640
+Vou ajudar-te.
+
+104
+00:07:37,225 --> 00:07:39,727
+Conta-me, por palavras tuas.
+
+105
+00:07:43,899 --> 00:07:46,734
+É como se a minha pena estivesse quebrada,>>
+
+106
+00:07:47,360 --> 00:07:50,863
+como se o órgão da minha imaginação tivesse secado,>>
+
+107
+00:07:51,406 --> 00:07:54,992
+como se a orgulhosa torre do meu génio tivesse ruído.
+
+108
+00:07:55,035 --> 00:07:56,952
+- Curioso. - Não me vem nada.
+
+109
+00:07:56,953 --> 00:07:58,829
+Muito curioso.
+
+110
+00:07:58,914 --> 00:08:02,208
+É como tentar arrombar uma fechadura com um pano.
+
+111
+00:08:03,418 --> 00:08:06,420
+Diz-me, tens falhado no acto do amor?
+
+112
+00:08:10,759 --> 00:08:12,968
+Há quanto tempo não o fazes?
+
+113
+00:08:13,762 --> 00:08:16,597
+Há muito tempo, mas ultimamente...>>
+
+114
+00:08:16,807 --> 00:08:19,433
+Não, não. Tens mulher, filhos?
+
+115
+00:08:22,938 --> 00:08:24,396
+Sim.
+
+116
+00:08:26,149 --> 00:08:28,150
+Era um jovem de 18 anos.
+
+117
+00:08:28,151 --> 00:08:30,694
+Anne Hathaway tinha mais nove que eu.
+
+118
+00:08:30,695 --> 00:08:33,239
+- Tinha bens? - Tinha uma casa.
+
+119
+00:08:33,824 --> 00:08:37,743
+- Um dia estava grávida de três meses... - E as relações?
+
+120
+00:08:38,662 --> 00:08:42,373
+- Do lado da minha mãe, os Ardens. - Não, o leito conjugal.
+
+121
+00:08:42,374 --> 00:08:45,835
+A quatro anos e 150 quilómetros, em Stratford.
+
+122
+00:08:46,086 --> 00:08:48,963
+E uma cama fria, depois dos gémeos.
+
+123
+00:08:49,965 --> 00:08:51,966
+O afastamento foi uma bênção.
+
+124
+00:08:51,967 --> 00:08:56,011
+- Agora estás livre para amar... - Mas não posso amar, nem escrever.
+
+125
+00:08:58,265 --> 00:09:00,391
+Toma esta bracelete,>>
+
+126
+00:09:00,559 --> 00:09:02,101
+encontrada...>>
+
+127
+00:09:02,686 --> 00:09:05,354
+no templo de Psyche no Olimpo.
+
+128
+00:09:05,372 --> 00:09:07,333
+Por apenas quatro pence.
+
+129
+00:09:07,450 --> 00:09:11,327
+Escreve o teu nome num papel e põe-o na boca da cobra.
+
+130
+00:09:12,813 --> 00:09:13,999
+Vai devolver-me o dom?
+
+131
+00:09:14,415 --> 00:09:17,959
+A mulher que a usar sonhará contigo, e o teu dom voltará.
+
+132
+00:09:18,060 --> 00:09:20,603
+As palavras virão como rios.
+
+133
+00:09:21,355 --> 00:09:23,398
+Até para a semana.
+
+134
+00:09:25,459 --> 00:09:28,544
+- Para onde? - Para o palácio de Whitehall.
+
+135
+00:09:29,546 --> 00:09:31,172
+Está bem.
+
+136
+00:09:35,427 --> 00:09:38,179
+Por favor, Sr. Kempe. Boa sorte.
+
+137
+00:09:38,555 --> 00:09:42,433
+- Tu também, bom Crab. - Está nervoso. Nunca actuou no palácio.
+
+138
+00:09:42,434 --> 00:09:44,977
+Quando me escreves uma tragédia, Will?
+
+139
+00:09:44,978 --> 00:09:48,397
+- Podia fazê-lo. - Não, rir-se-iam de Séneca se o fizesses.
+
+140
+00:09:48,398 --> 00:09:51,692
+O cão não entra na primeira cena, Sr. Kempe, obrigado.
+
+141
+00:09:51,693 --> 00:09:54,695
+- Como vais, Will? - Ainda me devem esta peça.
+
+142
+00:09:54,696 --> 00:09:56,864
+Eu não. Só a roubei.
+
+143
+00:09:57,240 --> 00:09:59,700
+Falta-me um botão na manga, Menina Roseline.
+
+144
+00:09:59,701 --> 00:10:02,244
+Em que pensa a minha costureira?
+
+145
+00:10:02,245 --> 00:10:06,207
+- Quando te juntas ao grupo do Camareiro? - Quando tiver 50 libras.
+
+146
+00:10:06,208 --> 00:10:09,293
+- Escreves? - Uma comédia. Quase terminada.
+
+147
+00:10:09,836 --> 00:10:11,796
+Uma comédia de piratas.
+
+148
+00:10:11,838 --> 00:10:14,215
+- Maravilhoso. - Trá-la amanhã.
+
+149
+00:10:14,216 --> 00:10:17,968
+- É para o Henslowe. Pagou-me 10 libras. - Mentiroso.
+
+150
+00:10:18,053 --> 00:10:20,429
+Quer o Romeu para o Ned e o seu grupo.
+
+151
+00:10:20,430 --> 00:10:22,098
+O Ned não serve.
+
+152
+00:10:22,099 --> 00:10:23,557
+Will?
+
+153
+00:10:25,352 --> 00:10:29,355
+Toma dois soberanos. Dou-te mais dois quando vir as páginas.
+
+154
+00:10:29,356 --> 00:10:31,357
+Hei-de ver-te enforcado por roubo.
+
+155
+00:10:31,358 --> 00:10:33,901
+Foi a rainha que encomendou. Adora comédias.
+
+156
+00:10:33,902 --> 00:10:36,529
+E o Mestre das Artes favorece-nos.
+
+157
+00:10:36,530 --> 00:10:39,532
+E que favores fazem vocês ao Sr. Tilney?
+
+158
+00:10:39,533 --> 00:10:41,700
+- Pergunta-lhe. - Ela vem aí!
+
+159
+00:11:07,853 --> 00:11:10,271
+Não insistas, amado Proteu.
+
+160
+00:11:19,114 --> 00:11:20,948
+Quando me escreves um soneto?
+
+161
+00:11:20,949 --> 00:11:23,742
+- Perdi o dom. - Ficou no meu leito.
+
+162
+00:11:24,453 --> 00:11:26,704
+Volta a procurá-lo aí.
+
+163
+00:11:32,335 --> 00:11:34,920
+Serás a minha musa, Roseline?
+
+164
+00:11:36,339 --> 00:11:38,549
+O Burbage sustenta-me,>>
+
+165
+00:11:39,509 --> 00:11:41,719
+mas tu tens o meu amor.
+
+166
+00:11:44,139 --> 00:11:46,182
+Vês? Os tuberculosos perseguem-me.
+
+167
+00:11:46,183 --> 00:11:48,184
+O Shakespeare tem uma peça.
+
+168
+00:11:48,185 --> 00:11:50,352
+Vamos para lá tossir.
+
+169
+00:11:52,355 --> 00:11:55,357
+O meu pai a chorar, a minha mãe a gritar;>>
+
+170
+00:11:55,692 --> 00:11:59,069
+a criada a berrar; o gato a arranhar-lhe as mãos.
+
+171
+00:12:00,530 --> 00:12:03,407
+No entanto, este rafeiro não derramou...>>
+
+172
+00:12:03,950 --> 00:12:05,826
+uma lágrima...>>
+
+173
+00:12:19,966 --> 00:12:21,759
+Vês? Comédia.
+
+174
+00:12:23,303 --> 00:12:25,763
+Amor e uma cena com um cão.
+
+175
+00:12:25,889 --> 00:12:27,932
+É isso que querem.
+
+176
+00:12:35,982 --> 00:12:38,400
+Ele é de pedra, um calhau,>>
+
+177
+00:12:39,986 --> 00:12:42,404
+e tão piedoso como um cão!
+
+178
+00:12:44,074 --> 00:12:47,034
+Até um judeu choraria ao ver-nos separar.
+
+179
+00:12:47,035 --> 00:12:50,663
+Mas, todo este tempo, o cão nem chora nem fala...>>
+
+180
+00:12:51,998 --> 00:12:54,333
+Bem feito, Senhor Crab!
+
+181
+00:12:55,335 --> 00:12:56,794
+Tem o meu louvor!
+
+182
+00:13:01,591 --> 00:13:03,467
+Que luz é luz,>>
+
+183
+00:13:04,386 --> 00:13:06,554
+se não se vir Silvia?
+
+184
+00:13:07,389 --> 00:13:09,473
+Que alegria existe,>>
+
+185
+00:13:10,100 --> 00:13:12,226
+na ausência de Silvia?
+
+186
+00:13:12,394 --> 00:13:15,104
+Senão pensando na sua presença.
+
+187
+00:13:15,397 --> 00:13:18,232
+E vivendo da sombra da perfeição.
+
+188
+00:13:20,944 --> 00:13:23,779
+Se não estiver com Silvia de noite,>>
+
+189
+00:13:23,947 --> 00:13:26,407
+O rouxinol não tem melodia.
+
+190
+00:13:27,451 --> 00:13:29,869
+Se não vir Silvia de dia,>>
+
+191
+00:13:30,495 --> 00:13:32,955
+Não vale a pena ver o dia.
+
+192
+00:13:57,230 --> 00:14:00,274
+Gostou mais do Proteu ou do Valentim?
+
+193
+00:14:00,901 --> 00:14:03,903
+Do Proteu para ouvir. Do Valentim para ver.
+
+194
+00:14:03,904 --> 00:14:06,129
+Eu gostei do cão, para rir.
+
+195
+00:14:06,164 --> 00:14:08,666
+Da Silvia não gostei muito.
+
+196
+00:14:08,709 --> 00:14:10,710
+Tinha os dedos inchados de lutar,>>
+
+197
+00:14:10,711 --> 00:14:13,629
+e falava como uma criança na escola.
+
+198
+00:14:14,047 --> 00:14:17,049
+O amor no palco nunca será verdadeiro,>>
+
+199
+00:14:17,050 --> 00:14:22,179
+enquanto a lei obrigar as heroínas as ser interpretadas por rapazinhos de corpete.
+
+200
+00:14:22,180 --> 00:14:25,308
+- Quando podemos ver outra? - Quando a rainha encomendar.
+
+201
+00:14:25,309 --> 00:14:27,310
+Não, no teatro. Aia!
+
+202
+00:14:27,311 --> 00:14:30,855
+Quieta. Os teatros não são para meninas de bem.
+
+203
+00:14:31,231 --> 00:14:33,357
+Não sou muito de bem.
+
+204
+00:14:33,525 --> 00:14:35,985
+Rica é o mesmo que de bem,>>
+
+205
+00:14:36,069 --> 00:14:38,404
+e bem casada ainda mais.
+
+206
+00:14:38,530 --> 00:14:41,073
+Hoje o Lorde Wessex olhou para si.
+
+207
+00:14:41,074 --> 00:14:43,576
+Os homens da corte não são poetas.
+
+208
+00:14:43,577 --> 00:14:46,579
+Quando me olham, vêm a fortuna de meu pai.
+
+209
+00:14:46,580 --> 00:14:48,956
+Terei uma vida de poesia,>>
+
+210
+00:14:50,250 --> 00:14:52,084
+e de aventura.
+
+211
+00:14:53,495 --> 00:14:55,830
+E amor. Sobretudo, amor.
+
+212
+00:14:56,206 --> 00:14:58,207
+Como o Valentim e a Silvia?
+
+213
+00:14:58,208 --> 00:15:00,793
+Não, não o amor pretensioso,>>
+
+214
+00:15:02,170 --> 00:15:04,755
+mas o amor maior que a vida.
+
+215
+00:15:06,258 --> 00:15:09,343
+Incontrolável, rebelde, como um motim,>>
+
+216
+00:15:10,053 --> 00:15:13,222
+sem solução, seja na ruína ou no êxtase.
+
+217
+00:15:14,433 --> 00:15:17,184
+Amor como nunca houve numa peça.
+
+218
+00:15:18,228 --> 00:15:20,896
+Terei amor, ou acabarei como...>>
+
+219
+00:15:22,232 --> 00:15:23,774
+Uma aia?
+
+220
+00:15:25,402 --> 00:15:28,696
+Mas eu interpretaria o Valentim e também a Silvia.
+
+221
+00:15:29,114 --> 00:15:32,199
+Boa aia, Deus te abençoe e boas noites.
+
+222
+00:15:34,536 --> 00:15:36,871
+Dormiria a vida inteira,>>
+
+223
+00:15:37,539 --> 00:15:41,167
+se pudesse sonhar pertencer a uma trupe de actores.
+
+224
+00:15:41,543 --> 00:15:44,211
+Lava os dentes enquanto sonhas.
+
+225
+00:15:47,424 --> 00:15:48,924
+Cospe.
+
+226
+00:16:13,283 --> 00:16:15,493
+Desta vez é sem botas.
+
+227
+00:16:16,912 --> 00:16:20,372
+- Que fiz eu? - Os teatros fecharam devido à peste.
+
+228
+00:16:20,373 --> 00:16:23,375
+- Ah, isso. - Por ordem do Mestre das Artes.
+
+229
+00:16:23,376 --> 00:16:27,421
+Sr. Fennyman, deixe que lhe explique o negócio do teatro.
+
+230
+00:16:27,756 --> 00:16:31,842
+Constantes obstáculos intransponíveis, a caminho do desastre eminente.
+
+231
+00:16:31,843 --> 00:16:34,261
+- Então que fazemos? - Nada.
+
+232
+00:16:34,638 --> 00:16:38,099
+- Por estranho que pareça, tudo acaba bem. - Como?
+
+233
+00:16:39,392 --> 00:16:41,393
+Não sei. É um mistério.
+
+234
+00:16:41,394 --> 00:16:43,395
+Mato-o, Sr. Fennyman?
+
+235
+00:16:43,396 --> 00:16:45,356
+Os teatros foram reabertos,>>
+
+236
+00:16:45,357 --> 00:16:48,025
+por ordem do Mestre das Artes!
+
+237
+00:16:49,111 --> 00:16:51,570
+Os teatros foram reabertos!
+
+238
+00:16:53,198 --> 00:16:54,365
+Sr. Fennyman.
+
+239
+00:16:54,366 --> 00:16:56,909
+O Sr. Tilney reabriu os teatros.
+
+240
+00:16:56,910 --> 00:16:58,953
+Se não se importa.
+
+241
+00:17:02,958 --> 00:17:03,916
+A peça?
+
+242
+00:17:03,917 --> 00:17:05,626
+Está quase.
+
+243
+00:17:09,422 --> 00:17:11,132
+Está quase.
+
+244
+00:17:24,521 --> 00:17:26,522
+Will, tenho óptimas notícias.
+
+245
+00:17:26,523 --> 00:17:28,524
+Também eu. Romeu e Roseline, Cena um.
+
+246
+00:17:28,525 --> 00:17:30,317
+Como sou bom!
+
+247
+00:17:30,527 --> 00:17:32,653
+Roseline? Era Ethel.
+
+248
+00:17:38,702 --> 00:17:40,244
+Richard?
+
+249
+00:17:41,997 --> 00:17:43,581
+Burbage!
+
+250
+00:17:50,422 --> 00:17:52,173
+Sr. Tilney.
+
+251
+00:17:52,424 --> 00:17:55,134
+Também não o encontrei em casa.
+
+252
+00:17:58,054 --> 00:18:00,347
+Ter-te-ia imortalizado.
+
+253
+00:18:04,227 --> 00:18:07,396
+Diz ao Burbage que perdeu uma nova peça do Shakespeare.
+
+254
+00:18:07,397 --> 00:18:10,024
+Que importa isso para Burbage?
+
+255
+00:18:10,150 --> 00:18:13,402
+Está a preparar o Curtain para o Kit Marlowe.
+
+256
+00:18:13,945 --> 00:18:17,323
+- Abriu os teatros? - Abri, Mestre Shakespeare.
+
+257
+00:18:17,324 --> 00:18:19,658
+- E a peste? - Sim, eu sei.
+
+258
+00:18:20,410 --> 00:18:23,454
+Mas ele andava sempre à volta da casa.
+
+259
+00:18:37,260 --> 00:18:40,930
+O prato do dia é pé de porco marinado em molho de zimbro,>>
+
+260
+00:18:40,931 --> 00:18:43,724
+servido numa panqueca de milho...>>
+
+261
+00:18:43,892 --> 00:18:45,643
+Já acabaste?
+
+262
+00:18:46,645 --> 00:18:47,770
+Sim, quase.
+
+263
+00:18:47,771 --> 00:18:50,856
+Bom dia, Senhor Nol. Terá um bom papel.
+
+264
+00:18:51,066 --> 00:18:54,985
+- Precisamos do Ralph para rei pirata. - Limpem-me esta mesa!
+
+265
+00:18:56,363 --> 00:18:59,365
+Mas o grupo do Almirante está em digressão.
+
+266
+00:18:59,366 --> 00:19:01,200
+Preciso de actores!
+
+267
+00:19:01,576 --> 00:19:05,204
+Os que são desconhecidos podem tornar-se famosos!
+
+268
+00:19:05,580 --> 00:19:09,667
+- E o dinheiro, Sr. Henslowe? - Não vos custará um centavo!
+
+269
+00:19:11,002 --> 00:19:13,462
+Audições daqui a meia hora!
+
+270
+00:19:17,968 --> 00:19:20,094
+Ralph Bagswell, tinha um papel para ti,>>
+
+271
+00:19:20,095 --> 00:19:23,013
+mas ouvi dizer que és bêbado como um cacho.
+
+272
+00:19:23,014 --> 00:19:25,224
+Nunca quando trabalho.
+
+273
+00:19:29,062 --> 00:19:31,188
+Dá-me mandrágona para beber.
+
+274
+00:19:31,189 --> 00:19:32,940
+Pura, Will?
+
+275
+00:19:33,191 --> 00:19:36,277
+Serve um copo do teu melhor brandy ao meu amigo.
+
+276
+00:19:36,278 --> 00:19:37,778
+Kit.
+
+277
+00:19:38,613 --> 00:19:41,699
+- Como vais, Will? - Muito bem. Muito bem.
+
+278
+00:19:42,200 --> 00:19:45,953
+- O Burbage diz que tens uma peça. - Tenho, e dinheiro para a fazer.
+
+279
+00:19:45,954 --> 00:19:48,873
+Insisto. Um copo para o Sr. Marlowe.
+
+280
+00:19:49,583 --> 00:19:51,792
+E tu tens nova peça para o Curtain.
+
+281
+00:19:51,793 --> 00:19:53,961
+Nova não. É o meu Doutor Fausto.
+
+282
+00:19:53,962 --> 00:19:56,255
+Gosto das tuas peças antigas.
+
+283
+00:19:56,465 --> 00:19:59,467
+"Foi esta a face que lançou mil navios...>>
+
+284
+00:19:59,468 --> 00:20:02,136
+"...e queimou as altas torres de Ílion?">>
+
+285
+00:20:02,137 --> 00:20:05,139
+Tenho uma nova melhor e quase acabada.
+
+286
+00:20:05,140 --> 00:20:07,266
+O Massacre de Paris.
+
+287
+00:20:08,602 --> 00:20:10,770
+- Bom título. - E o teu?
+
+288
+00:20:11,980 --> 00:20:14,732
+Romeu e Ethel, a filha do Pirata.
+
+289
+00:20:16,777 --> 00:20:18,527
+Sim, eu sei. Eu sei.
+
+290
+00:20:18,528 --> 00:20:20,529
+Como é a história?
+
+291
+00:20:20,530 --> 00:20:22,656
+Bem, há um pirata...>>
+
+292
+00:20:26,536 --> 00:20:29,079
+Na verdade não escrevi nada.
+
+293
+00:20:32,000 --> 00:20:34,001
+O Romeu é italiano,>>
+
+294
+00:20:35,128 --> 00:20:37,379
+sempre a apaixonar-se.
+
+295
+00:20:37,464 --> 00:20:39,799
+Sim, é boa. Até que encontra...>>
+
+296
+00:20:39,800 --> 00:20:41,759
+- A Ethel. - Achas?
+
+297
+00:20:42,010 --> 00:20:44,303
+A filha do seu inimigo.
+
+298
+00:20:44,763 --> 00:20:47,056
+O seu melhor amigo é morto em duelo,>>
+
+299
+00:20:47,057 --> 00:20:50,601
+pelo irmão de Ethel, ou isso... Chama-se Mercúcio.
+
+300
+00:20:50,602 --> 00:20:52,603
+Mercúcio. Bom nome.
+
+301
+00:20:52,604 --> 00:20:55,731
+- Will! Estão à tua espera! - Sim, já vou.
+
+302
+00:20:56,149 --> 00:20:58,567
+Boa sorte para a tua peça, Kit.
+
+303
+00:20:58,944 --> 00:21:02,613
+- Pensei que a tua era para o Burbage. - Esta é uma outra.
+
+304
+00:21:02,614 --> 00:21:05,199
+Outra que ainda não escreveste?
+
+305
+00:21:05,700 --> 00:21:07,535
+"Foi esta a face,>>
+
+306
+00:21:07,536 --> 00:21:09,829
+"que lançou mil navios,>>
+
+307
+00:21:10,038 --> 00:21:12,581
+"e queimou as altas torres de Ílion?">>
+
+308
+00:21:12,582 --> 00:21:14,166
+Obrigado.
+
+309
+00:21:25,345 --> 00:21:30,015
+Gostaria de vos apresentar um excerto do Fausto de Christopher Marlowe.
+
+310
+00:21:30,016 --> 00:21:32,309
+- Que original. - "...as altas torres de Ílion?
+
+311
+00:21:32,310 --> 00:21:35,563
+"Doce Helena, torna-me imortal com um beijo.
+
+312
+00:21:38,859 --> 00:21:40,693
+"Foi esta a-">>
+
+313
+00:21:40,861 --> 00:21:44,280
+Muito bem, Sr. Wabash. Dirija-se ao chefe dos adereços.
+
+314
+00:21:45,574 --> 00:21:47,741
+O meu alfaiate quer ser actor.
+
+315
+00:21:47,742 --> 00:21:49,869
+Devo alguns favores.
+
+316
+00:21:50,287 --> 00:21:52,371
+Bem, parece que é tudo.
+
+317
+00:21:52,372 --> 00:21:54,832
+- Viste algum Romeu? - Não vi nenhum.
+
+318
+00:21:54,833 --> 00:21:57,418
+Bem, eu ao meu trabalho e tu ao teu.
+
+319
+00:22:05,093 --> 00:22:07,136
+Posso começar, senhor?
+
+320
+00:22:08,680 --> 00:22:11,015
+- O teu nome? - Thomas Kent.
+
+321
+00:22:11,975 --> 00:22:17,021
+Gostaria de dizer um excerto de um dramaturgo que é o orgulho dos actores.
+
+322
+00:22:19,566 --> 00:22:21,400
+"Que luz é luz,>>
+
+323
+00:22:24,821 --> 00:22:27,031
+"se não se vir Silvia?
+
+324
+00:22:28,825 --> 00:22:31,744
+"Que alegria existe na ausência de Silvia?
+
+325
+00:22:34,456 --> 00:22:36,999
+"Senão pensando na sua presença.
+
+326
+00:22:37,000 --> 00:22:39,794
+"E vivendo da sombra da perfeição.
+
+327
+00:22:42,339 --> 00:22:45,216
+"Se não estiver com Silvia de noite,>>
+
+328
+00:22:47,803 --> 00:22:50,387
+"O rouxinol não tem melodia.
+
+329
+00:22:51,723 --> 00:22:54,183
+"Se não vir Silvia de dia,>>
+
+330
+00:22:55,811 --> 00:22:58,312
+"Não vale a pena ver o dia.
+
+331
+00:23:00,524 --> 00:23:04,193
+"Ela é a minha essência, e cesso de existir, se não...">>
+
+332
+00:23:05,362 --> 00:23:07,738
+- Tira o chapéu! - O chapéu?
+
+333
+00:23:08,657 --> 00:23:11,242
+Onde aprendeste a fazer isso?
+
+334
+00:23:11,535 --> 00:23:13,786
+- Eu... - Deixa-me ver-te. Tira o chapéu.
+
+335
+00:23:13,787 --> 00:23:16,372
+- É o Mestre Shakespeare? - Espera aí.
+
+336
+00:23:17,040 --> 00:23:18,707
+Espera aí!
+
+337
+00:23:31,138 --> 00:23:34,515
+- Will, onde está o texto? - Onde está o rapaz?
+
+338
+00:23:39,229 --> 00:23:40,938
+Boa sorte!
+
+339
+00:24:29,279 --> 00:24:32,573
+- Siga aquele barco! - O senhor manda, governador.
+
+340
+00:24:37,788 --> 00:24:40,247
+Já o tinha visto. É actor?
+
+341
+00:24:40,457 --> 00:24:43,334
+- Sim. - Sim, acho que já o vi actuar.
+
+342
+00:24:43,752 --> 00:24:46,462
+- Naquela peça de um rei. - Ah sim?
+
+343
+00:24:46,755 --> 00:24:50,007
+Já levei aquele Christopher Marlowe no meu barco.
+
+344
+00:25:02,104 --> 00:25:05,689
+- Conheces aquela casa? - É do Sir Robert De Lesseps.
+
+345
+00:25:16,243 --> 00:25:19,328
+Onde está ela? O convidado está a chegar!
+
+346
+00:25:20,288 --> 00:25:23,541
+O Lorde Wessex, também, para arranjar noiva.
+
+347
+00:25:24,292 --> 00:25:27,378
+O meu marido tratará de tudo esta noite.
+
+348
+00:25:27,379 --> 00:25:29,964
+Aprovado, selado e celebrado.
+
+349
+00:25:29,965 --> 00:25:32,716
+Amanhã vai levar-me para o campo,>>
+
+350
+00:25:33,260 --> 00:25:37,304
+e só voltaremos das nossas propriedades passadas três semanas.
+
+351
+00:25:38,974 --> 00:25:41,142
+Deus a abençoe, Mãe.
+
+352
+00:25:41,518 --> 00:25:43,519
+Água quente, Aia.
+
+353
+00:25:47,691 --> 00:25:49,525
+Procuro o Sr. Thomas Kent.
+
+354
+00:25:49,526 --> 00:25:51,527
+- Quem, senhor? - O actor.
+
+355
+00:25:51,528 --> 00:25:53,904
+- Quem devo anunciar? - Will Shakespeare.
+
+356
+00:25:53,905 --> 00:25:55,990
+Poeta e dramaturgo do Rose.
+
+357
+00:25:55,991 --> 00:25:57,867
+O senhor Kent,>>
+
+358
+00:25:58,535 --> 00:26:00,286
+é meu sobrinho.
+
+359
+00:26:01,705 --> 00:26:03,372
+Eu espero.
+
+360
+00:26:03,707 --> 00:26:06,041
+Vai servir-lhe de muito.
+
+361
+00:26:09,504 --> 00:26:11,464
+"Romeu Montecchio,>>
+
+362
+00:26:11,882 --> 00:26:13,883
+"um jovem de Verona.">>
+
+363
+00:26:13,884 --> 00:26:15,634
+Verona outra vez?
+
+364
+00:26:15,886 --> 00:26:17,887
+"Uma comédia de famílias rivais,>>
+
+365
+00:26:17,888 --> 00:26:20,222
+"reconciliadas após descobrirem que Romeu,>>
+
+366
+00:26:20,223 --> 00:26:22,349
+"é o primo Capuleto,>>
+
+367
+00:26:22,684 --> 00:26:26,520
+"roubado à nascença e criado pela sua mãe Montecchio,>>
+
+368
+00:26:26,563 --> 00:26:30,483
+"a quem o rei pirata tinha roubado também o próprio filho.">>
+
+369
+00:26:31,151 --> 00:26:33,152
+Vossa mãe e vosso pai...>>
+
+370
+00:26:33,153 --> 00:26:36,155
+A partir de amanhã, vão para o campo durante três semanas!
+
+371
+00:26:36,156 --> 00:26:38,616
+O Mestre Shakespeare é belo?
+
+372
+00:26:38,658 --> 00:26:41,660
+- O suficiente para um charlatão. - Oh, Aia!
+
+373
+00:26:41,661 --> 00:26:43,662
+Daria a Thomas Kent,>>
+
+374
+00:26:43,663 --> 00:26:45,664
+a vida com que Viola De Lesseps sonha.
+
+375
+00:26:45,665 --> 00:26:48,125
+Quando seus pais regressarem, contar-lhes-ei.
+
+376
+00:26:48,126 --> 00:26:49,960
+Não contarás.
+
+377
+00:26:50,128 --> 00:26:52,505
+Como eu gosto de ti e tu de mim,>>
+
+378
+00:26:52,506 --> 00:26:55,716
+vais atar-me o peito e comprar-me uma peruca.
+
+379
+00:27:01,389 --> 00:27:03,641
+Senhor Plum. Que o traz aqui?
+
+380
+00:27:03,642 --> 00:27:05,643
+Os cinco xelins, Will.
+
+381
+00:27:05,644 --> 00:27:07,978
+Tocamos para que dancem.
+
+382
+00:27:26,581 --> 00:27:28,582
+Procuro o Sr. Thomas Kent.
+
+383
+00:27:28,583 --> 00:27:31,794
+Os músicos não comem. Ordens do Sir Robert.
+
+384
+00:27:32,254 --> 00:27:34,213
+É linda, senhor,>>
+
+385
+00:27:34,256 --> 00:27:37,883
+levaria um rei ao altar, mesmo só com dez tostões.
+
+386
+00:27:38,176 --> 00:27:41,720
+A hipoteca das minhas plantações não são dez tostões.
+
+387
+00:27:41,721 --> 00:27:44,723
+Tenho um apelido antigo, que lhe trará prestígio,>>
+
+388
+00:27:44,724 --> 00:27:46,725
+quando o seu neto for um Wessex.
+
+389
+00:27:46,726 --> 00:27:48,769
+- Ela é fértil? - Sim, procriará.
+
+390
+00:27:48,770 --> 00:27:51,689
+- Se não, devolva-a. - Ela é obediente?
+
+391
+00:27:52,607 --> 00:27:54,608
+Tanto quanto uma mula.
+
+392
+00:27:54,609 --> 00:27:57,153
+Mas se tiver pulso para ela,>>
+
+393
+00:27:57,612 --> 00:27:59,905
+encontrará rubis nos alforges.
+
+394
+00:28:00,866 --> 00:28:02,533
+Ela agrada-me.
+
+395
+00:28:22,471 --> 00:28:24,096
+Pelas estrelas do céu!
+
+396
+00:28:24,097 --> 00:28:25,639
+Quem é?
+
+397
+00:28:26,475 --> 00:28:29,310
+Viola De Lesseps? Nem em sonho, Will.
+
+398
+00:29:08,058 --> 00:29:10,142
+Mestre Shakespeare.
+
+399
+00:29:16,942 --> 00:29:18,818
+Senhora Viola.
+
+400
+00:29:18,944 --> 00:29:20,528
+Senhor.
+
+401
+00:29:20,946 --> 00:29:23,072
+Falei com vosso pai.
+
+402
+00:29:23,490 --> 00:29:26,575
+E então, senhor? Falo com ele todos os dias.
+
+403
+00:29:44,177 --> 00:29:45,970
+Muito bem, senhor.
+
+404
+00:29:46,930 --> 00:29:49,223
+Ouvi dizer que é poeta.
+
+405
+00:29:52,769 --> 00:29:54,854
+Um poeta sem palavras?
+
+406
+00:30:00,902 --> 00:30:02,319
+Poeta?
+
+407
+00:30:02,320 --> 00:30:05,865
+Fui poeta até hoje, mas vi uma beleza que põe...>>
+
+408
+00:30:06,533 --> 00:30:09,743
+os meus poemas ao nível dos corvos da Torre.
+
+409
+00:30:09,744 --> 00:30:13,080
+- Em que o ofendo, senhor? - Cobiçando o que é meu.
+
+410
+00:30:13,081 --> 00:30:16,459
+Não posso derramar sangue em sua casa, mas em breve o degolarei.
+
+411
+00:30:16,460 --> 00:30:18,043
+Tem nome?
+
+412
+00:30:18,920 --> 00:30:21,839
+Christopher Marlowe, ao seu dispor.
+
+413
+00:30:45,447 --> 00:30:47,281
+Romeu. Romeu.
+
+414
+00:30:48,283 --> 00:30:50,409
+Um jovem de Verona.
+
+415
+00:30:51,286 --> 00:30:54,038
+Uma comédia de William Shakespeare.
+
+416
+00:30:54,164 --> 00:30:56,457
+- Senhora! - Quem está aí?
+
+417
+00:30:58,293 --> 00:31:00,294
+- Will Shakespeare. - Senhora!
+
+418
+00:31:00,295 --> 00:31:02,421
+Já vou, aia, já vou.
+
+419
+00:31:04,841 --> 00:31:08,052
+- Oh, Mestre Shakespeare. - O próprio, ai de mim.
+
+420
+00:31:08,470 --> 00:31:10,262
+Porquê "ai de mim"?
+
+421
+00:31:10,263 --> 00:31:12,306
+- Um péssimo actor. - "Ai de mim.">>
+
+422
+00:31:12,307 --> 00:31:15,059
+Pois considerava-o o melhor dos poetas,>>
+
+423
+00:31:15,060 --> 00:31:17,812
+e um dramaturgo que conquista o meu coração.
+
+424
+00:31:17,813 --> 00:31:20,189
+- Mas também sou esse. - Senhora!
+
+425
+00:31:20,357 --> 00:31:22,358
+Já vou! Voltarei.
+
+426
+00:31:24,820 --> 00:31:28,614
+Oh, sou prisioneiro da sorte. Serei castigado por isto.
+
+427
+00:31:30,617 --> 00:31:32,785
+Oh, minha senhora, meu amor!
+
+428
+00:31:33,286 --> 00:31:35,955
+Se o encontram aqui, matam-no.
+
+429
+00:31:36,706 --> 00:31:40,251
+- Pode chamá-los, basta falar. - Não, nunca o faria.
+
+430
+00:31:40,252 --> 00:31:42,086
+- Senhora! - Já vou!
+
+431
+00:32:42,522 --> 00:32:44,523
+"À espada, se sois homens!
+
+432
+00:32:44,524 --> 00:32:46,525
+"Gregório, lembra-te de tua estocada!
+
+433
+00:32:46,526 --> 00:32:50,070
+"Separai-vos, loucos! Guardai as espadas. Não sabeis o que fazeis.">>
+
+434
+00:32:50,071 --> 00:32:53,073
+Começa bem e depois são só histórias sobre uma Roseline.
+
+435
+00:32:53,074 --> 00:32:55,534
+A comédia, Will? Onde está o cão?
+
+436
+00:32:55,535 --> 00:32:57,536
+Não achas engraçado?
+
+437
+00:32:57,537 --> 00:33:00,372
+Era um rei pirata e agora sou uma aia. Tem graça.
+
+438
+00:33:00,373 --> 00:33:03,501
+Faltam-nos seis homens e só temos faladores desbocados,>>
+
+439
+00:33:03,502 --> 00:33:06,212
+e gagos que deveriam ir para a fogueira.
+
+440
+00:33:06,213 --> 00:33:08,506
+O Romeu desiludiu-me. Prevejo desgraça.
+
+441
+00:33:08,507 --> 00:33:11,092
+Ainda faltam quatro actos para a desgraça.
+
+442
+00:33:11,093 --> 00:33:13,094
+- Senhor! - Quem és tu, rapaz?
+
+443
+00:33:13,095 --> 00:33:15,721
+Sou Ethel, a filha do pirata.
+
+444
+00:33:16,848 --> 00:33:18,849
+O raio é que és!
+
+445
+00:33:21,812 --> 00:33:23,270
+Atenção, por favor!
+
+446
+00:33:23,271 --> 00:33:25,898
+- Senhores, obrigado! - De nada.
+
+447
+00:33:26,817 --> 00:33:29,443
+- Quem é aquele? - Ninguém. É o autor.
+
+448
+00:33:29,444 --> 00:33:32,321
+Vamos embarcar numa grande viagem.
+
+449
+00:33:32,614 --> 00:33:36,117
+É costume fazer um pequeno discurso no primeiro dia.
+
+450
+00:33:36,118 --> 00:33:38,619
+Não faz mal e os autores gostam.
+
+451
+00:33:38,620 --> 00:33:42,081
+Querem saber os papéis que lhes cabem. Todos receberão...>>
+
+452
+00:33:42,082 --> 00:33:43,749
+Eu faço isso.
+
+453
+00:33:44,084 --> 00:33:46,127
+Agora ouçam, ralé.
+
+454
+00:33:46,545 --> 00:33:48,546
+Os actores custam dez tostões,>>
+
+455
+00:33:48,547 --> 00:33:51,632
+e eu, Hugh Fennyman, tenho-vos na mão.
+
+456
+00:33:52,467 --> 00:33:53,926
+Viva!
+
+457
+00:33:54,719 --> 00:33:57,805
+O grupo do Almirante regressou a casa!
+
+458
+00:34:01,560 --> 00:34:02,977
+Ned!
+
+459
+00:34:03,812 --> 00:34:05,479
+Henslowe!
+
+460
+00:34:13,029 --> 00:34:14,530
+Quem é?
+
+461
+00:34:14,698 --> 00:34:16,532
+Silêncio, cão!
+
+462
+00:34:17,868 --> 00:34:19,702
+Sou Jerónimo.
+
+463
+00:34:19,828 --> 00:34:21,787
+Sou Tamburlaine.
+
+464
+00:34:22,497 --> 00:34:24,248
+Sou Fausto.
+
+465
+00:34:24,875 --> 00:34:27,501
+Sou Barrabás, o Judeu de Malta.
+
+466
+00:34:30,046 --> 00:34:32,882
+Sim, Mestre Will. Sou Henrique Vl.
+
+467
+00:34:33,049 --> 00:34:35,843
+Qual é a peça e qual o meu papel?
+
+468
+00:34:37,262 --> 00:34:40,014
+- Um momento, senhor... - Quem és tu?
+
+469
+00:34:43,018 --> 00:34:44,351
+Sou o dinheiro.
+
+470
+00:34:44,352 --> 00:34:45,853
+Então podes ficar,>>
+
+471
+00:34:45,854 --> 00:34:47,855
+mas ficas em silêncio.
+
+472
+00:34:47,856 --> 00:34:51,025
+Tenham atenção. Verão como o génio cria uma lenda.
+
+473
+00:34:51,026 --> 00:34:54,862
+- Obrigado, senhor. - Falta desesperadamente um Mercúcio.
+
+474
+00:34:54,863 --> 00:34:57,281
+Um jovem nobre de Verona.
+
+475
+00:34:57,574 --> 00:34:59,575
+- E o título da peça? - Mercúcio.
+
+476
+00:34:59,576 --> 00:35:01,035
+Ai é?
+
+477
+00:35:02,204 --> 00:35:04,163
+Vou interpretá-lo.
+
+478
+00:35:05,832 --> 00:35:08,542
+Sr. Pope. Sr. Philips. Bem vindos.
+
+479
+00:35:08,835 --> 00:35:10,795
+George Bryan. James Armitage.
+
+480
+00:35:10,837 --> 00:35:12,713
+Sam, meu lindo!
+
+481
+00:35:12,839 --> 00:35:16,926
+- Estás pronto para te apaixonares? - Sim, Mestre Shakespeare.
+
+482
+00:35:16,927 --> 00:35:19,011
+A tua voz. Caiu-te?
+
+483
+00:35:19,179 --> 00:35:21,722
+Não! Não. É só uma constipação.
+
+484
+00:35:21,723 --> 00:35:25,601
+Senhor Henslowe, tem os seus actores... só falta Thomas Kent.
+
+485
+00:35:26,478 --> 00:35:29,063
+Eu vi o seu Tamburlaine, sabe.
+
+486
+00:35:29,064 --> 00:35:31,065
+- Foi maravilhoso. - Sim, eu vi.
+
+487
+00:35:31,066 --> 00:35:33,067
+Um texto excelente.
+
+488
+00:35:33,068 --> 00:35:35,444
+Não há ninguém como o Marlowe.
+
+489
+00:35:49,292 --> 00:35:51,127
+Melhor sorte, rapaz.
+
+490
+00:35:51,586 --> 00:35:52,920
+Fiz uma peça.
+
+491
+00:35:52,921 --> 00:35:55,589
+Deceparam-me no Titus Andronicus.
+
+492
+00:35:55,590 --> 00:35:58,843
+Quando escrever peças, vão ser como o Titus.
+
+493
+00:35:59,428 --> 00:36:00,928
+Admira-la.
+
+494
+00:36:00,929 --> 00:36:03,097
+Gosto quando cortam cabeças,>>
+
+495
+00:36:03,098 --> 00:36:05,808
+e a filha é mutilada com facas.
+
+496
+00:36:06,101 --> 00:36:08,436
+- Como te chamas? - John Webster.
+
+497
+00:36:09,729 --> 00:36:11,730
+Bichano, bichano.
+
+498
+00:36:15,485 --> 00:36:17,027
+Muito sangue.
+
+499
+00:36:17,028 --> 00:36:19,029
+É a boa escrita.
+
+500
+00:36:20,073 --> 00:36:22,074
+Tenho de voltar.
+
+501
+00:36:22,576 --> 00:36:25,578
+Hei-lo, aí vem. Por favor, retirai-vos.
+
+502
+00:36:25,579 --> 00:36:27,788
+Dir-me-á sua aflição, ou será reservado.
+
+503
+00:36:27,789 --> 00:36:31,500
+Oxalá, a sós, oiças sua confissão sincera. Vamos, senhora.
+
+504
+00:36:31,501 --> 00:36:33,294
+- Esqueçam-no agora. - O quê? Quem?
+
+505
+00:36:33,295 --> 00:36:35,796
+- O Romeu. - O que veio com a tua carta.
+
+506
+00:36:35,797 --> 00:36:37,798
+- O quê? - Bom dia, primo.
+
+507
+00:36:37,799 --> 00:36:39,800
+É assim tão cedo?
+
+508
+00:36:39,801 --> 00:36:43,053
+- Bateram agora as nove. - As horas tristes são longas.
+
+509
+00:36:43,054 --> 00:36:46,056
+Que tristeza alonga as horas de Romeu?
+
+510
+00:36:46,057 --> 00:36:48,559
+Não ter aquela que tendo as encurta.
+
+511
+00:36:48,602 --> 00:36:50,478
+- Bom. - Com amor?
+
+512
+00:36:50,604 --> 00:36:52,438
+- Sem. - Sem amor?
+
+513
+00:36:52,522 --> 00:36:56,150
+- Sem o favor daquela que amo. - Não gastes tudo já.
+
+514
+00:36:58,779 --> 00:37:00,362
+Sim, senhor.
+
+515
+00:37:00,781 --> 00:37:03,199
+- Entendes-me? - Não, senhor.
+
+516
+00:37:03,700 --> 00:37:06,994
+Estás a falar de alguém que ainda nem sequer vimos.
+
+517
+00:37:06,995 --> 00:37:10,331
+Que lhe sobrará para dizer quando conhecer a sua Julieta?
+
+518
+00:37:10,332 --> 00:37:12,416
+- Julieta? Era Ethel. - Por Deus!
+
+519
+00:37:12,417 --> 00:37:15,586
+Terei de sofrer interrupções constantes?
+
+520
+00:37:17,422 --> 00:37:21,342
+Que fará no Segundo Acto, quando conhecer o amor da sua vida?
+
+521
+00:37:22,594 --> 00:37:26,055
+Desculpe, senhor. Ainda não vi o Segundo Acto.
+
+522
+00:37:26,973 --> 00:37:29,809
+Claro que não. Ainda não o escrevi.
+
+523
+00:37:30,143 --> 00:37:31,894
+Mais uma vez.
+
+524
+00:37:35,023 --> 00:37:36,440
+O Mercúcio?
+
+525
+00:37:36,441 --> 00:37:39,485
+Está aqui. Deixo o palco à tua guarda.
+
+526
+00:37:39,486 --> 00:37:41,487
+Tenho um soneto para escrever.
+
+527
+00:37:41,488 --> 00:37:43,656
+Soneto? Era uma peça!
+
+528
+00:37:47,452 --> 00:37:49,870
+"Para a Senhora Viola De Lesseps,>>
+
+529
+00:37:50,836 --> 00:37:52,984
+"pela mão de Thomas Kent.">>
+
+530
+00:37:54,167 --> 00:37:57,002
+"Devo comparar-vos a um dia de Verão?
+
+531
+00:37:57,003 --> 00:37:59,839
+"Sois mais bela e mais agradável.
+
+532
+00:38:03,218 --> 00:38:06,220
+"Fortes ventos abanam os frágeis botões de Maio...">>
+
+533
+00:38:06,221 --> 00:38:08,305
+Há duas horas a orar!
+
+534
+00:38:08,306 --> 00:38:10,850
+A senhora Viola é pia, senhor.
+
+535
+00:38:10,851 --> 00:38:12,852
+A piedade é para o Domingo!
+
+536
+00:38:12,853 --> 00:38:15,855
+E duas horas de oração não é piedade, é exagero.
+
+537
+00:38:15,856 --> 00:38:18,691
+Seria melhor voltar amanhã, senhor.
+
+538
+00:38:18,733 --> 00:38:21,569
+Seria melhor dizer-lhe que mostre algum respeito,>>
+
+539
+00:38:21,570 --> 00:38:23,779
+pelo seu amo e senhor!
+
+540
+00:38:33,957 --> 00:38:35,583
+Senhora Viola.
+
+541
+00:38:35,584 --> 00:38:38,085
+Lorde Wessex. Fi-lo esperar.
+
+542
+00:38:38,086 --> 00:38:39,837
+Eu reparei.
+
+543
+00:38:41,298 --> 00:38:43,257
+É o privilégio da beleza.
+
+544
+00:38:43,258 --> 00:38:45,468
+Lisonjeia-me, senhor.
+
+545
+00:38:45,469 --> 00:38:47,803
+Não. Falei com a rainha.
+
+546
+00:38:49,264 --> 00:38:52,641
+É preciso o acordo de Sua Majestade quando um Wessex se casa,>>
+
+547
+00:38:52,642 --> 00:38:55,644
+e depois de dado, equivale a uma ordem.
+
+548
+00:38:55,645 --> 00:38:57,938
+Tenciona casar, senhor?
+
+549
+00:38:58,106 --> 00:39:00,441
+Seu pai devia informá-la melhor.
+
+550
+00:39:00,442 --> 00:39:02,526
+Comprou-me para si.
+
+551
+00:39:02,986 --> 00:39:07,281
+Volta da propriedade para nos casar, de sábado a duas semanas.
+
+552
+00:39:07,616 --> 00:39:10,117
+Pode mostrar contentamento.
+
+553
+00:39:11,369 --> 00:39:13,746
+Mas eu não o amo, senhor.
+
+554
+00:39:14,372 --> 00:39:16,415
+Como é estouvada.
+
+555
+00:39:17,250 --> 00:39:19,585
+Seu pai era comerciante.
+
+556
+00:39:19,628 --> 00:39:22,129
+Seus filhos terão brasão. Recuperarei a fortuna.
+
+557
+00:39:22,130 --> 00:39:24,632
+É o único assunto a discutir hoje.
+
+558
+00:39:24,633 --> 00:39:26,634
+Vai gostar da Virgínia.
+
+559
+00:39:26,635 --> 00:39:28,677
+- Virgínia? - Claro.
+
+560
+00:39:29,346 --> 00:39:32,515
+A minha fortuna são as plantações. A folha de tabaco.
+
+561
+00:39:32,516 --> 00:39:36,102
+Preciso de 4.000 libras para equipar um navio e investir o dinheiro.
+
+562
+00:39:36,103 --> 00:39:38,729
+Penso que o tabaco tem futuro.
+
+563
+00:39:39,106 --> 00:39:42,399
+Não ficaremos muito tempo. Três ou quatro anos.
+
+564
+00:39:43,610 --> 00:39:44,693
+Porquê eu?
+
+565
+00:39:44,694 --> 00:39:46,570
+Foram os olhos.
+
+566
+00:39:48,115 --> 00:39:49,990
+Não, os lábios.
+
+567
+00:40:00,252 --> 00:40:02,962
+Desafiais vosso pai e a rainha?
+
+568
+00:40:03,255 --> 00:40:05,256
+A rainha consentiu?
+
+569
+00:40:05,257 --> 00:40:07,258
+Quer inspeccioná-la.
+
+570
+00:40:07,259 --> 00:40:09,635
+Em Greenwich, no Domingo.
+
+571
+00:40:09,970 --> 00:40:12,555
+Seja submissa, modesta, grata,>>
+
+572
+00:40:14,349 --> 00:40:15,933
+e breve.
+
+573
+00:40:17,769 --> 00:40:20,229
+Farei o meu dever, senhor.
+
+574
+00:40:25,485 --> 00:40:28,362
+"Mestre Will, poeta do meu coração,>>
+
+575
+00:40:30,323 --> 00:40:32,992
+"Rogo-lhe que me expulse do seu.
+
+576
+00:40:34,286 --> 00:40:36,787
+"Devo casar-me com o Lorde Wessex.
+
+577
+00:40:38,665 --> 00:40:40,750
+" Um dever de filha,>>
+
+578
+00:40:41,126 --> 00:40:43,461
+"e uma ordem da rainha.">>
+
+579
+00:41:04,733 --> 00:41:08,688
+Cavalheiros à boca de cena, senhoras ao fundo da cena.
+
+580
+00:41:10,864 --> 00:41:14,572
+Cavalheiros à boca de cena, senhoras ao fundo da cena.
+
+581
+00:41:14,576 --> 00:41:16,911
+É uma senhora, Sr. Kent?
+
+582
+00:41:17,913 --> 00:41:19,914
+Desculpe, senhor.
+
+583
+00:41:22,292 --> 00:41:24,293
+Temos de repetir.
+
+584
+00:41:26,546 --> 00:41:28,756
+Não gostaste do texto?
+
+585
+00:41:29,007 --> 00:41:31,008
+Não, o texto é excelente.
+
+586
+00:41:31,009 --> 00:41:34,178
+"Oh, vejo que a Rainha Mab vos visitou.">>
+
+587
+00:41:34,763 --> 00:41:37,056
+Excelente, boa duração.
+
+588
+00:41:37,099 --> 00:41:39,975
+Mas depois desaparece eternamente.
+
+589
+00:41:42,687 --> 00:41:44,772
+Aqui. Tens o duelo.
+
+590
+00:41:44,940 --> 00:41:48,859
+Uma luta de palavras e espadas, como nunca eu escrevi, nem ninguém.
+
+591
+00:41:48,860 --> 00:41:52,238
+Morre com paixão e poesia nunca antes vistas.
+
+592
+00:41:53,990 --> 00:41:56,617
+"A peste leve as vossas duas casas! ">>
+
+593
+00:42:02,207 --> 00:42:03,707
+Morre?
+
+594
+00:42:09,714 --> 00:42:11,507
+O meu texto?
+
+595
+00:42:23,895 --> 00:42:26,105
+Deu-lhe a minha carta?
+
+596
+00:42:27,149 --> 00:42:29,150
+E esta é para si!
+
+597
+00:42:42,664 --> 00:42:45,249
+Oh, Thomas, ela cortou comigo.
+
+598
+00:42:47,335 --> 00:42:49,170
+Estou desdenhado,>>
+
+599
+00:42:49,337 --> 00:42:51,380
+desdito, desfeito,>>
+
+600
+00:42:52,507 --> 00:42:54,508
+como um boneco abandonado.
+
+601
+00:42:54,509 --> 00:42:56,677
+- É escritor? - Rema o barco!
+
+602
+00:42:56,678 --> 00:42:58,846
+Diz-me que me afaste.
+
+603
+00:42:59,055 --> 00:43:02,349
+Vai casar com o Lorde Wessex! Que devo fazer?
+
+604
+00:43:02,350 --> 00:43:04,935
+Se a amas, faz o que te pede.
+
+605
+00:43:05,353 --> 00:43:08,397
+- E parto os nossos corações? - Só podes falar do teu.
+
+606
+00:43:08,398 --> 00:43:10,399
+Ela ama-me, Thomas!
+
+607
+00:43:10,400 --> 00:43:12,401
+- Di-lo na carta? - Não.
+
+608
+00:43:12,402 --> 00:43:15,404
+E no entanto a tinta está manchada de lágrimas.
+
+609
+00:43:15,405 --> 00:43:18,324
+Estava a chorar, quando deu a carta?
+
+610
+00:43:18,867 --> 00:43:21,702
+- A carta foi-me dada pela aia. - A tua tia.
+
+611
+00:43:21,703 --> 00:43:23,537
+Sim, a minha tia.
+
+612
+00:43:25,165 --> 00:43:27,833
+Talvez tenha chorado um pouco.
+
+613
+00:43:29,878 --> 00:43:32,213
+Diz-me como a amas, Will.
+
+614
+00:43:32,214 --> 00:43:34,840
+Como uma doença e a sua cura.
+
+615
+00:43:36,009 --> 00:43:37,468
+Sim.
+
+616
+00:43:38,595 --> 00:43:40,638
+Como a chuva e o sol.
+
+617
+00:43:41,056 --> 00:43:43,182
+Como o frio e o calor.
+
+618
+00:43:44,726 --> 00:43:46,644
+A tua senhora é bela?
+
+619
+00:43:46,645 --> 00:43:48,979
+Desde que vim do campo,>>
+
+620
+00:43:50,315 --> 00:43:52,316
+ainda não a vi de perto.
+
+621
+00:43:52,317 --> 00:43:54,360
+Diz-me... é bela?
+
+622
+00:43:55,320 --> 00:43:59,156
+Thomas, se pudesse escrever com a beleza dos seus olhos,>>
+
+623
+00:43:59,157 --> 00:44:02,034
+Nasci para os olhar e reconhecer-me.
+
+624
+00:44:04,746 --> 00:44:05,635
+E os lábios?
+
+625
+00:44:05,639 --> 00:44:06,649
+Os lábios?
+
+626
+00:44:07,416 --> 00:44:11,002
+A rosa da manhã murcharia no ramo se pudesse sentir inveja.
+
+627
+00:44:11,045 --> 00:44:13,713
+E a sua voz, como o canto da cotovia?
+
+628
+00:44:14,256 --> 00:44:17,258
+Mais profunda, mais suave. Nada como as cotovias.
+
+629
+00:44:17,259 --> 00:44:20,928
+Afastaria os rouxinóis do seu jardim se interrompessem o seu canto.
+
+630
+00:44:20,929 --> 00:44:23,389
+- Também canta? - Constantemente.
+
+631
+00:44:23,723 --> 00:44:27,143
+Sem dúvida. E toca alaúde. Tem o dom da música.
+
+632
+00:44:27,144 --> 00:44:28,978
+E o seu colo.
+
+633
+00:44:29,271 --> 00:44:31,147
+Falei no colo?
+
+634
+00:44:31,523 --> 00:44:33,399
+Que tem o seu colo?
+
+635
+00:44:33,400 --> 00:44:36,026
+Oh, Thomas, um par de globos,>>
+
+636
+00:44:36,069 --> 00:44:38,612
+redondos e belos como maçãs.
+
+637
+00:44:39,072 --> 00:44:42,116
+Sua Senhoria faz bem em manter o teu amor afastado.
+
+638
+00:44:42,117 --> 00:44:44,535
+Que senhora poderia viver,>>
+
+639
+00:44:45,620 --> 00:44:50,291
+se seus olhos e lábios e voz não pudessem ser mais belos que os meus.
+
+640
+00:44:51,209 --> 00:44:52,877
+Além disso,>>
+
+641
+00:44:52,961 --> 00:44:55,421
+poderá uma senhora nobre e de bem,>>
+
+642
+00:44:55,422 --> 00:44:58,674
+ser feliz com um pobre poeta e dramaturgo?
+
+643
+00:44:58,759 --> 00:45:00,551
+Sim, por Deus!
+
+644
+00:45:01,178 --> 00:45:03,763
+O amor nada sabe de títulos e lados.
+
+645
+00:45:03,764 --> 00:45:07,475
+Brilhará entre a rainha e o pobre vagabundo no papel de rei.
+
+646
+00:45:07,476 --> 00:45:09,727
+E ambos deverão cuidar o amor,>>
+
+647
+00:45:09,728 --> 00:45:12,521
+pois o amor negado definha a alma que damos a Deus.
+
+648
+00:45:12,522 --> 00:45:15,608
+Diz à minha senhora que a espero no jardim.
+
+649
+00:45:15,609 --> 00:45:17,610
+E o Lorde Wessex?
+
+650
+00:45:17,611 --> 00:45:20,654
+Por um beijo, desafiaria mil Wessexes.
+
+651
+00:45:28,914 --> 00:45:30,539
+Oh, Will.
+
+652
+00:45:32,000 --> 00:45:34,085
+Obrigado, senhora.
+
+653
+00:45:36,046 --> 00:45:37,463
+Senhora?
+
+654
+00:45:38,048 --> 00:45:41,258
+Viola De Lesseps. Conheço-a desde criança.
+
+655
+00:45:42,094 --> 00:45:44,303
+Não enganaria um bebé.
+
+656
+00:45:45,388 --> 00:45:48,557
+Por estranho que pareça, também sou escritor.
+
+657
+00:45:49,684 --> 00:45:52,103
+Não demorava muito a ler.
+
+658
+00:45:52,354 --> 00:45:55,189
+Deve conhecer todos os livreiros!
+
+659
+00:46:03,657 --> 00:46:05,658
+Podeis amar um louco?
+
+660
+00:46:05,659 --> 00:46:07,868
+Podeis amar um actor?
+
+661
+00:46:16,753 --> 00:46:18,170
+Esperai!
+
+662
+00:46:18,213 --> 00:46:22,049
+Ainda és donzela, talvez tão enganada comigo como eu com Thomas Kent.
+
+663
+00:46:22,050 --> 00:46:24,885
+És o autor das peças de William Shakespeare?
+
+664
+00:46:24,928 --> 00:46:26,345
+Sou.
+
+665
+00:46:26,555 --> 00:46:29,723
+Então beija-me outra vez, pois não estou enganada.
+
+666
+00:46:42,529 --> 00:46:44,864
+Não sei despir um homem.
+
+667
+00:46:45,532 --> 00:46:47,408
+Eu também não.
+
+668
+00:48:01,399 --> 00:48:03,025
+Vai. Vai.
+
+669
+00:48:10,367 --> 00:48:12,159
+Nunca pensei.
+
+670
+00:48:13,870 --> 00:48:16,414
+Há algo melhor que o teatro.
+
+671
+00:48:16,915 --> 00:48:18,457
+Pois há.
+
+672
+00:48:19,543 --> 00:48:21,335
+Mesmo o teu.
+
+673
+00:48:27,259 --> 00:48:29,718
+E foi a minha primeira vez.
+
+674
+00:48:51,199 --> 00:48:53,200
+Não me deixarias.
+
+675
+00:48:53,910 --> 00:48:55,327
+Tenho de ir.
+
+676
+00:48:55,370 --> 00:48:57,371
+Vê a luz na janela.
+
+677
+00:48:57,372 --> 00:48:59,039
+É o luar.
+
+678
+00:48:59,374 --> 00:49:01,709
+Não. O galo acordou-me.
+
+679
+00:49:02,335 --> 00:49:04,837
+Foi o mocho. Vem para a cama.
+
+680
+00:49:07,507 --> 00:49:09,759
+O Henslowe que espere.
+
+681
+00:49:11,887 --> 00:49:13,637
+O Sr. Henslowe?
+
+682
+00:49:13,889 --> 00:49:16,307
+Ele que espere pelo texto.
+
+683
+00:49:16,349 --> 00:49:18,017
+Não, não.
+
+684
+00:49:18,351 --> 00:49:20,811
+Temos tempo! Ainda é noite.
+
+685
+00:49:21,354 --> 00:49:24,356
+- É dia. É o galo que o diz. - Era o mocho.
+
+686
+00:49:24,357 --> 00:49:26,901
+Acredita, amor, era o mocho.
+
+687
+00:49:28,111 --> 00:49:31,655
+Deixarias os actores sem uma cena para lerem hoje?
+
+688
+00:49:35,577 --> 00:49:36,535
+Senhora?
+
+689
+00:49:36,536 --> 00:49:39,163
+A casa acordou. É um novo dia.
+
+690
+00:49:40,115 --> 00:49:42,074
+É um novo mundo.
+
+691
+00:49:42,876 --> 00:49:45,878
+Bom peregrino, sois muito injusto com vossa mão,>>
+
+692
+00:49:45,879 --> 00:49:48,589
+pois que ela mostra respeitosa devoção.
+
+693
+00:49:48,590 --> 00:49:51,884
+Até as santas têm mãos que as mãos dos peregrinos tocam,>>
+
+694
+00:49:51,885 --> 00:49:54,970
+e palma com palma castamente se beijam.
+
+695
+00:49:55,388 --> 00:49:58,682
+Não têm as santas lábios, e castas mãos também?
+
+696
+00:49:59,184 --> 00:50:01,018
+Sim, peregrino.
+
+697
+00:50:01,186 --> 00:50:03,729
+Lábios que apenas devem usar para orar.
+
+698
+00:50:03,730 --> 00:50:06,941
+Deixa então que os lábios façam o que fazem as mãos.
+
+699
+00:50:06,942 --> 00:50:08,609
+Elas oram.
+
+700
+00:50:08,944 --> 00:50:12,363
+Aceita sua súplica, ou minha fé tornar-se-á desespero.
+
+701
+00:50:12,447 --> 00:50:16,033
+As santas não se movem, embora atendam súplicas.
+
+702
+00:50:17,577 --> 00:50:19,036
+És tu.
+
+703
+00:50:19,037 --> 00:50:20,621
+Malditos!
+
+704
+00:50:22,124 --> 00:50:24,083
+Então não vos movais,>>
+
+705
+00:50:24,251 --> 00:50:26,961
+quando recolho o fruto de minha prece.
+
+706
+00:50:31,633 --> 00:50:34,718
+Assim, vossos lábios purificam os meus.
+
+707
+00:50:35,137 --> 00:50:37,972
+Assim passou para meus lábios o pecado dos vossos.
+
+708
+00:50:37,973 --> 00:50:42,268
+Pecado de meus lábios? Oh, doce culpa. Devolvei-me meu pecado.
+
+709
+00:50:42,811 --> 00:50:45,020
+Sim, sim! Está quase.
+
+710
+00:50:45,564 --> 00:50:47,606
+É mais... eu faço.
+
+711
+00:50:47,649 --> 00:50:50,693
+Assim passou para meus lábios o pecado dos vossos.
+
+712
+00:50:50,694 --> 00:50:54,989
+Pecado de meus lábios? Oh, doce culpa. Devolvei-me meu pecado.
+
+713
+00:51:01,413 --> 00:51:04,039
+- Sabes como beijar. - Bem, Will!
+
+714
+00:51:04,040 --> 00:51:06,208
+Foi uma sorte estares aqui.
+
+715
+00:51:06,209 --> 00:51:08,711
+- Vou escrever o resto da peça... - Sim!
+
+716
+00:51:08,712 --> 00:51:11,422
+Continuem. Agora a aia. O Ralph?
+
+717
+00:51:12,900 --> 00:51:15,718
+Senhora, sua mãe quer falar-vos.
+
+718
+00:51:18,680 --> 00:51:21,515
+- Quem é sua mãe? - Ora essa, senhor,>>
+
+719
+00:51:21,516 --> 00:51:24,226
+sua mãe é a senhora da casa, e uma boa senhora,>>
+
+720
+00:51:24,227 --> 00:51:26,353
+prudente e virtuosa.
+
+721
+00:51:26,480 --> 00:51:29,482
+Eu criei sua filha, aquela com quem falastes.
+
+722
+00:51:29,483 --> 00:51:32,193
+Digo-vos, aquele que a desposar,>>
+
+723
+00:51:32,652 --> 00:51:33,681
+levará um bom dote.
+
+724
+00:51:33,700 --> 00:51:36,572
+É uma Capuleto?
+
+725
+00:51:36,740 --> 00:51:39,992
+Oh, criador! Minha vida está nas mãos do inimigo.
+
+726
+00:51:40,577 --> 00:51:43,496
+Então. Vamo-nos. O baile está no fim.
+
+727
+00:51:43,497 --> 00:51:46,457
+Sim, temo-o. E maior é meu desassossego.
+
+728
+00:51:47,709 --> 00:51:50,795
+Vem cá, aia. Quem é aquele cavalheiro?
+
+729
+00:51:51,046 --> 00:51:53,756
+O filho e herdeiro do velho Tibério.
+
+730
+00:51:54,883 --> 00:51:56,217
+Que chegue a noite.
+
+731
+00:51:56,218 --> 00:51:59,303
+- Quem é aquele que não dançou? - Não sei.
+
+732
+00:52:00,263 --> 00:52:02,264
+Vai saber seu nome.
+
+733
+00:52:03,558 --> 00:52:07,228
+Se é casado, meu túmulo será meu leito de núpcias.
+
+734
+00:52:09,189 --> 00:52:09,906
+Não te vás.
+
+735
+00:52:09,910 --> 00:52:12,399
+Tenho de ir.
+
+736
+00:52:12,567 --> 00:52:15,199
+- O filho único de vosso grande inimigo. - Terrível.
+
+737
+00:52:15,604 --> 00:52:17,688
+Simplesmente terrível!
+
+738
+00:52:24,413 --> 00:52:28,209
+"Mas que suave luz brilha através da janela?
+
+739
+00:52:29,459 --> 00:52:31,210
+"É o oriente,>>
+
+740
+00:52:31,586 --> 00:52:33,712
+"e Julieta é o sol.
+
+741
+00:52:34,297 --> 00:52:37,758
+"Ergue-te, sol resplandecente, e mata a invejosa lua,>>
+
+742
+00:52:38,927 --> 00:52:41,929
+"que já está fraca e pálida de desgosto,>>
+
+743
+00:52:41,930 --> 00:52:45,599
+"pois tu, sua sacerdotisa, sois muito mais bela que ela.">>
+
+744
+00:52:46,560 --> 00:52:49,270
+- Oh, Will. - Sim, tem partes boas.
+
+745
+00:52:49,438 --> 00:52:52,231
+"Eis a minha dama. Oh, é o meu amor!
+
+746
+00:52:52,274 --> 00:52:54,650
+"Oh, se soubesse que o é!
+
+747
+00:52:55,193 --> 00:52:58,904
+"O esplendor de seu rosto empalideceria aquelas estrelas,>>
+
+748
+00:52:58,905 --> 00:53:01,240
+"como o dia apaga a lâmpada.">>
+
+749
+00:53:01,241 --> 00:53:04,452
+Se seus olhos estivessem no céu, lançariam etereamente,>>
+
+750
+00:53:04,453 --> 00:53:06,579
+raios de tal esplendor,>>
+
+751
+00:53:07,164 --> 00:53:10,666
+que as aves cantariam, esquecendo que era noite.
+
+752
+00:53:11,835 --> 00:53:14,545
+Vede como encosta a face à mão.
+
+753
+00:53:15,589 --> 00:53:18,257
+Quem dera ser luva em sua mão,>>
+
+754
+00:53:18,592 --> 00:53:20,926
+para poder tocar sua face.
+
+755
+00:53:20,927 --> 00:53:22,428
+Ai de mim.
+
+756
+00:53:23,180 --> 00:53:25,222
+"Oh, Romeu. Romeu.
+
+757
+00:53:26,266 --> 00:53:28,684
+"Mas porque és tu, Romeu?
+
+758
+00:53:28,935 --> 00:53:31,896
+"Renega teu pai e repudia teu nome.">>
+
+759
+00:53:32,647 --> 00:53:35,566
+Ou, não o fazendo, jura apenas que me amas,>>
+
+760
+00:53:35,567 --> 00:53:38,152
+e não mais serei uma Capuleto.
+
+761
+00:53:38,361 --> 00:53:41,280
+Deverei ouvir mais, ou responder-lhe?
+
+762
+00:53:42,491 --> 00:53:45,326
+"Que sois vós que assim, a coberto da noite,>>
+
+763
+00:53:45,327 --> 00:53:47,828
+"vieste surpreender meu segredo?
+
+764
+00:53:48,121 --> 00:53:51,415
+"Não sei que nome pronunciar para dizer-vos quem sou.">>
+
+765
+00:53:51,416 --> 00:53:55,669
+Meu nome, querida santa, odeio-o também pois é vosso inimigo.
+
+766
+00:53:56,171 --> 00:53:59,048
+Se o tivesse escrito, rasgá-lo-ia.
+
+767
+00:53:59,716 --> 00:54:03,302
+"Os muros do pomar são altos e difíceis de escalar,>>
+
+768
+00:54:04,179 --> 00:54:07,389
+"e, sendo quem sois, este lugar será para vós a morte,>>
+
+769
+00:54:07,390 --> 00:54:10,059
+"se os meus parentes vos descobrem aqui.
+
+770
+00:54:10,060 --> 00:54:12,686
+"Se vos virem, matar-vos-ão.">>
+
+771
+00:54:13,230 --> 00:54:17,691
+Ai de mim, há mais perigo em vossos olhos que em 20 das suas espadas.
+
+772
+00:54:17,692 --> 00:54:21,779
+Olhai-me com doçura, e estarei protegido de sua inimizade.
+
+773
+00:54:22,197 --> 00:54:24,573
+Por nada do mundo deixaria que vos vissem.
+
+774
+00:54:24,574 --> 00:54:27,576
+O manto da noite oculta-me de seus olhos.
+
+775
+00:54:27,577 --> 00:54:30,871
+E se não me amais, não importa que me encontrem.
+
+776
+00:54:31,206 --> 00:54:32,957
+"Boa noite,>>
+
+777
+00:54:33,208 --> 00:54:36,168
+"e que a paz calma e doce que enche o meu peito,>>
+
+778
+00:54:36,169 --> 00:54:38,546
+"encha também vosso coração.
+
+779
+00:54:38,672 --> 00:54:40,923
+"Oh, deixais-me tão insatisfeito?">>
+
+780
+00:54:40,924 --> 00:54:42,842
+É a minha deixa.
+
+781
+00:54:42,926 --> 00:54:44,844
+Também é minha.
+
+782
+00:54:45,053 --> 00:54:47,763
+Oh, deixais-me tão insatisfeito?
+
+783
+00:54:48,056 --> 00:54:50,349
+Que mais vos posso dar esta noite?
+
+784
+00:54:50,350 --> 00:54:53,561
+O juramento do vosso fiel voto de amor por mim.
+
+785
+00:54:54,020 --> 00:54:57,064
+"Minha generosidade é infinita como o mar.
+
+786
+00:54:57,524 --> 00:54:59,817
+"Meu amor igualmente profundo.
+
+787
+00:55:00,235 --> 00:55:02,445
+"Quanto mais vos der,>>
+
+788
+00:55:02,863 --> 00:55:04,655
+"mais terei,>>
+
+789
+00:55:04,906 --> 00:55:07,158
+"pois ambos são infinitos.">>
+
+790
+00:55:08,660 --> 00:55:09,535
+Senhora?
+
+791
+00:55:09,536 --> 00:55:12,163
+Oiço barulho. Meu amor, adeus.
+
+792
+00:55:13,749 --> 00:55:17,835
+- "Vou já, boa aia". - Vou já, boa aia. Montecchio, sê fiel.
+
+793
+00:55:18,754 --> 00:55:21,338
+"Esperai um pouco. Voltarei.">>
+
+794
+00:55:21,757 --> 00:55:24,383
+Esperai um pouco. Já voltarei.
+
+795
+00:55:24,760 --> 00:55:27,219
+Oh, abençoada e bendita noite.
+
+796
+00:55:28,430 --> 00:55:30,139
+"Temo que,>>
+
+797
+00:55:30,932 --> 00:55:34,059
+"por ser noite, tudo não passe de um sonho.
+
+798
+00:55:35,437 --> 00:55:37,772
+"Demasiado doce e adulador,>>
+
+799
+00:55:37,939 --> 00:55:39,940
+"para ser real.">>
+
+800
+00:55:43,028 --> 00:55:46,030
+Cessa teus galanteios e deixa-me com minha dor.
+
+801
+00:55:46,031 --> 00:55:48,115
+Mil vezes, boa noite.
+
+802
+00:55:48,116 --> 00:55:50,618
+Noite mil vezes pior, se lhe faltar tua luz.
+
+803
+00:55:50,619 --> 00:55:54,371
+Não consigo mexer-me neste vestido. Pareço um porco.
+
+804
+00:55:55,999 --> 00:55:58,459
+Fico porcino, sem pescoço.
+
+805
+00:56:01,463 --> 00:56:03,756
+- O que achas? - Está bom.
+
+806
+00:56:09,096 --> 00:56:11,222
+Ned, eu sei, eu sei.
+
+807
+00:56:11,932 --> 00:56:13,599
+Está bom.
+
+808
+00:56:15,977 --> 00:56:18,062
+O título não serve.
+
+809
+00:56:19,606 --> 00:56:22,483
+Romeu e Julieta. É só uma sugestão.
+
+810
+00:56:25,112 --> 00:56:26,987
+Obrigado, Ned.
+
+811
+00:56:29,199 --> 00:56:33,119
+- És um cavalheiro. - E tu uma cagadeira da minha terra.
+
+812
+00:56:33,245 --> 00:56:36,414
+- A que horas devo procurar-vos? - Pelas nove horas.
+
+813
+00:56:36,415 --> 00:56:38,707
+Não faltarei. Serão 20 anos até lá.
+
+814
+00:56:38,708 --> 00:56:40,751
+Esqueci porque vos chamei.
+
+815
+00:56:40,752 --> 00:56:43,671
+- Não vai haver nenhum cão? - Silêncio.
+
+816
+00:56:44,756 --> 00:56:46,507
+O frade casa-os em segredo,>>
+
+817
+00:56:46,508 --> 00:56:49,510
+depois o Ned tem um duelo com um dos Capuletos.
+
+818
+00:56:49,511 --> 00:56:53,597
+O Romeu tenta separá-los e põe-se à frente do Ned. Quer dizer, do Mercúcio.
+
+819
+00:56:53,598 --> 00:56:56,851
+O Tebaldo mata o Mercúcio, e o Romeu mata o Tebaldo.
+
+820
+00:56:56,852 --> 00:56:59,270
+E o príncipe expulsa-o de Verona.
+
+821
+00:56:59,271 --> 00:57:01,605
+Provavelmente é aqui que ele naufraga,>>
+
+822
+00:57:01,606 --> 00:57:03,607
+na ilha do rei pirata.
+
+823
+00:57:03,608 --> 00:57:07,194
+Por amor de Deus, pára de dizer disparates e sai!
+
+824
+00:57:07,571 --> 00:57:09,155
+Sai daqui!
+
+825
+00:57:12,701 --> 00:57:14,577
+Mil desculpas.
+
+826
+00:57:16,371 --> 00:57:17,955
+Por favor.
+
+827
+00:57:19,207 --> 00:57:22,042
+...e com um fio de seda puxa de novo a ave até si,>>
+
+828
+00:57:22,043 --> 00:57:24,378
+por amor e ciúme de sua liberdade.
+
+829
+00:57:24,379 --> 00:57:28,799
+- Quisera eu ser essa ave. - E eu, mas matar-te-ia de tanto amor.
+
+830
+00:57:30,510 --> 00:57:32,678
+Boa noite. Boa noite.
+
+831
+00:57:33,764 --> 00:57:38,517
+A despedida é tão doce tristeza, que direi boa noite até que amanheça.
+
+832
+00:57:46,318 --> 00:57:47,860
+Domingo.
+
+833
+00:57:49,196 --> 00:57:50,863
+É domingo.
+
+834
+00:57:57,913 --> 00:58:00,372
+Surgiu-me enquanto dormia.
+
+835
+00:58:00,957 --> 00:58:04,919
+O frade que os casou será responsável pelos seus destinos.
+
+836
+00:58:05,587 --> 00:58:08,672
+- Mas o amor triunfará. - No céu, talvez.
+
+837
+00:58:09,674 --> 00:58:12,593
+Já não estou a escrever uma comédia.
+
+838
+00:58:14,262 --> 00:58:16,972
+Um largo rio separa os amantes.
+
+839
+00:58:17,474 --> 00:58:19,558
+Família, dever, destino.
+
+840
+00:58:23,063 --> 00:58:25,439
+Imutável como a natureza.
+
+841
+00:58:29,236 --> 00:58:31,237
+Isto não é vida.
+
+842
+00:58:32,405 --> 00:58:34,615
+É uma estação roubada.
+
+843
+00:58:35,534 --> 00:58:37,535
+- Paciência, senhor. - Paciência?
+
+844
+00:58:37,536 --> 00:58:40,496
+- Pede paciência a Sua Majestade? - Senhor, eu vou...>>
+
+845
+00:58:40,497 --> 00:58:42,581
+Domingo. Greenwich!
+
+846
+00:58:47,087 --> 00:58:49,088
+Presta atenção, aia.
+
+847
+00:58:49,089 --> 00:58:51,632
+A rainha... Gloriana Regina,>>
+
+848
+00:58:51,675 --> 00:58:55,302
+A escolhida de Deus, a radiante, cuja luz brilha sobre nós,>>
+
+849
+00:58:55,303 --> 00:58:58,472
+está em Greenwich, preparada para, durante as festividades,>>
+
+850
+00:58:58,473 --> 00:59:01,725
+conceder o seu favor àquela que escolhi para mulher.
+
+851
+00:59:01,726 --> 00:59:04,478
+E se nos atrasamos a velha não perdoa.
+
+852
+00:59:04,479 --> 00:59:08,691
+"Vai buscar a minha senhora, e traz-ma com ou sem roupa de baixo! ">>
+
+853
+00:59:08,692 --> 00:59:11,110
+Não podes! Nem pela própria rainha!
+
+854
+00:59:11,111 --> 00:59:14,196
+Que queres que faça? Que case contigo?
+
+855
+00:59:14,739 --> 00:59:17,283
+Que seja mulher de um pobre actor.
+
+856
+00:59:17,284 --> 00:59:20,953
+Poderei desejar isso a Lady Viola senão em sonhos?
+
+857
+00:59:21,246 --> 00:59:24,623
+Fá-lo-ia, se pudesse mostrar o meu desejo à luz do dia.
+
+858
+00:59:24,624 --> 00:59:27,543
+Mostras bem o teu desejo durante a noite.
+
+859
+00:59:27,544 --> 00:59:31,213
+- Se é tudo, vou para Greenwich. - Então acompanho-te.
+
+860
+00:59:31,214 --> 00:59:34,049
+- Não podes. O Wessex mata-te. - Sei lutar.
+
+861
+00:59:34,092 --> 00:59:35,926
+Lutas de palco.
+
+862
+00:59:39,890 --> 00:59:42,391
+Como Thomas Kent, o meu coração é teu,>>
+
+863
+00:59:42,392 --> 00:59:45,227
+mas como Viola, o rio separa-nos,>>
+
+864
+00:59:45,812 --> 00:59:49,190
+e casarei com o Wessex de sábado a uma semana.
+
+865
+00:59:51,026 --> 00:59:53,903
+Arrastá-la-ei, por ordem da rainha!
+
+866
+00:59:56,740 --> 00:59:57,907
+Bom dia, senhor.
+
+867
+00:59:57,908 --> 01:00:02,703
+Senhora. A maré não espera por ninguém, mas juro que esperaria por si.
+
+868
+01:00:03,038 --> 01:00:05,623
+Até que enfim vamos, senhor!
+
+869
+01:00:06,666 --> 01:00:09,293
+Vais trazer a tua arrumadeira?
+
+870
+01:00:11,505 --> 01:00:14,173
+A dama de companhia, sua prima.
+
+871
+01:00:14,299 --> 01:00:17,093
+Mas é um belo cavalheiro galante,>>
+
+872
+01:00:17,928 --> 01:00:19,720
+tal como ela o disse.
+
+873
+01:00:19,721 --> 01:00:22,431
+Pode chamar-me menina Wilhelmina.
+
+874
+01:00:22,474 --> 01:00:25,226
+Talvez noutra ocasião mais fortuita.
+
+875
+01:00:25,393 --> 01:00:28,104
+Meu senhor, não me vai afastar.
+
+876
+01:00:28,313 --> 01:00:31,774
+Ela nunca precisou tanto de mim. Juro por Deus.
+
+877
+01:01:05,976 --> 01:01:07,643
+- Agora? - Agora.
+
+878
+01:01:07,978 --> 01:01:10,855
+A rainha quer vê-la. Responda bem.
+
+879
+01:01:13,900 --> 01:01:16,277
+- Há um homem? - Um homem, senhor?
+
+880
+01:01:16,278 --> 01:01:19,864
+Havia um, um poeta. Um poeta de teatro, penso eu.
+
+881
+01:01:19,990 --> 01:01:22,908
+- Ele vem cá a casa? - Um poeta de teatro?
+
+882
+01:01:22,909 --> 01:01:26,495
+Um insolente escriba rufia! Marlowe. Christopher Marlowe.
+
+883
+01:01:26,496 --> 01:01:28,873
+- Tem vindo cá a casa? - O Marlowe?
+
+884
+01:01:28,874 --> 01:01:30,750
+Ah, sim. É ele.
+
+885
+01:01:31,251 --> 01:01:33,919
+Um belo rapaz. É pena a poesia.
+
+886
+01:01:34,880 --> 01:01:36,547
+Aquele cão!
+
+887
+01:01:54,357 --> 01:01:56,150
+Sua Majestade.
+
+888
+01:01:56,568 --> 01:01:58,903
+Endireita-te, rapariga.
+
+889
+01:02:02,491 --> 01:02:04,116
+Já te vi.
+
+890
+01:02:04,493 --> 01:02:07,819
+És aquela que assiste a todas as peças no Whitehall, em Richmond.
+
+891
+01:02:07,908 --> 01:02:10,122
+Sua Majestade.
+
+892
+01:02:11,317 --> 01:02:13,751
+Que te agrada tanto?
+
+893
+01:02:14,127 --> 01:02:15,619
+- Sua Majestade... - Fala, rapariga!
+
+894
+01:02:15,623 --> 01:02:17,797
+Sei quem sou.
+
+895
+01:02:18,173 --> 01:02:21,258
+Gostas de histórias de reis e rainhas?
+
+896
+01:02:21,635 --> 01:02:23,636
+De feitos e armas?
+
+897
+01:02:24,262 --> 01:02:25,479
+Ou de amor cortesão?
+
+898
+01:02:25,750 --> 01:02:27,265
+Adoro teatro.
+
+899
+01:02:28,020 --> 01:02:31,519
+Ver peças interpretadas para mim, por actores é...>>
+
+900
+01:02:31,520 --> 01:02:35,147
+Não são interpretadas para ti; são-no para mim. E?
+
+901
+01:02:36,650 --> 01:02:38,366
+E amor e poesia acima de tudo.
+
+902
+01:02:38,370 --> 01:02:41,028
+Acima do Lorde Wessex?
+
+903
+01:02:41,830 --> 01:02:43,683
+Meu Lorde, se não encontrares a tua mulher,>>
+
+904
+01:02:43,687 --> 01:02:46,534
+deves procurá-la no teatro.
+
+905
+01:02:48,387 --> 01:02:51,431
+Os dramaturgos não nos ensinam o amor.
+
+906
+01:02:51,432 --> 01:02:54,851
+Tornam-no belo, tornam-no cómico ou tornam-no lascivo.
+
+907
+01:02:55,252 --> 01:02:56,548
+Não o tornam verdadeiro.
+
+908
+01:02:56,552 --> 01:02:59,004
+Mas tornam.
+
+909
+01:03:02,009 --> 01:03:05,678
+Quer dizer, Majestade, não o fazem, não o fizeram,>>
+
+910
+01:03:07,181 --> 01:03:09,807
+mas penso que há um que o fará.
+
+911
+01:03:10,976 --> 01:03:12,749
+A senhora Lady Viola é jovem.
+
+912
+01:03:12,753 --> 01:03:14,989
+Sua Majestade é sábia.
+
+913
+01:03:15,164 --> 01:03:18,416
+Natureza e verdade são inimigas do teatro. Aposto a fortuna.
+
+914
+01:03:19,317 --> 01:03:22,486
+Pensei que estavas aqui por não a teres.
+
+915
+01:03:28,076 --> 01:03:31,588
+- Parece que ninguém aceita a aposta. - Cinquenta libras.
+
+916
+01:03:34,658 --> 01:03:36,451
+Cinquenta libras?
+
+917
+01:03:38,378 --> 01:03:41,589
+Uma quantia digna para um assunto digno.
+
+918
+01:03:42,983 --> 01:03:46,652
+Uma peça pode mostra-nos a verdadeira natureza do amor?
+
+919
+01:03:48,906 --> 01:03:51,324
+Sou testemunha da aposta,>>
+
+920
+01:03:51,533 --> 01:03:54,952
+e serei o seu juiz quando a ocasião se apresentar.
+
+921
+01:03:57,481 --> 01:04:00,400
+Ainda não vi nada que a resolvesse.
+
+922
+01:04:01,401 --> 01:04:03,095
+Não há mais fogo de artifício?
+
+923
+01:04:03,570 --> 01:04:07,574
+Seria calmante depois da excitação da presença de Lady Viola.
+
+924
+01:04:08,675 --> 01:04:11,468
+Casa-te, então, mas és um idiota.
+
+925
+01:04:11,670 --> 01:04:15,215
+Já foi provada desde que a vi, e não foi por ti.
+
+926
+01:04:15,958 --> 01:04:18,584
+Só uma mulher o sabe.
+
+927
+01:04:22,964 --> 01:04:24,548
+Marlowe.
+
+928
+01:04:36,290 --> 01:04:37,045
+Burbage?
+
+929
+01:04:39,086 --> 01:04:42,119
+- Quem é? - Marlowe.
+
+930
+01:04:45,225 --> 01:04:47,412
+Interpretará o Dr. Fausto esta tarde.
+
+931
+01:04:47,413 --> 01:04:49,243
+Não gastes as energias.
+
+932
+01:04:49,284 --> 01:04:52,526
+- Que queres, Kit? - Terminei o Massacre em Paris.
+
+933
+01:04:52,997 --> 01:04:56,142
+- O quê? Tens o último acto? - Se tiveres o dinheiro.
+
+934
+01:04:56,804 --> 01:05:00,162
+- Amanhã. - Então amanhã terás o texto.
+
+935
+01:05:00,440 --> 01:05:02,732
+Desista, minha senhora!
+
+936
+01:05:04,250 --> 01:05:05,891
+Vinte libras contra entrega.
+
+937
+01:05:06,314 --> 01:05:08,802
+Mas que é o dinheiro para nós?
+
+938
+01:05:09,964 --> 01:05:14,924
+E se precisar de uma peça, tenho outra, uma comédia do Shakespeare.
+
+939
+01:05:14,925 --> 01:05:16,051
+Romeu.
+
+940
+01:05:17,717 --> 01:05:20,330
+- Deu-a ao Henslowe. - Nunca!
+
+941
+01:05:20,331 --> 01:05:23,553
+Vou para Deptford. Os meus respeitos, Menina Rosaline.
+
+942
+01:05:23,554 --> 01:05:26,715
+Dei ao Shakespeare dois soberanos pelo Romeu.
+
+943
+01:05:26,716 --> 01:05:30,590
+Sim, mas o Ned Alleyn e o grupo do Almirante vão interpretá-lo no Rose.
+
+944
+01:05:31,811 --> 01:05:33,090
+Traição!
+
+945
+01:05:34,410 --> 01:05:36,002
+Traidor e ladrão!
+
+946
+01:05:39,857 --> 01:05:41,498
+Oh, não.
+
+947
+01:06:02,337 --> 01:06:04,685
+Por minha cabeça, aí vêm os Capuletos.
+
+948
+01:06:04,686 --> 01:06:06,957
+Por meus pés, não me importo.
+
+949
+01:06:08,119 --> 01:06:09,865
+Segue-me. Eu falarei com eles.
+
+950
+01:06:10,134 --> 01:06:13,421
+Cavalheiros, boa tarde! Uma palavra a um de vós.
+
+951
+01:06:13,960 --> 01:06:15,452
+Vais dizer isso assim?
+
+952
+01:06:16,158 --> 01:06:17,259
+Às posições!
+
+953
+01:06:18,163 --> 01:06:22,398
+- Por minha cabeça, aí vêm os Capuletos. - Por meus pés, não me importo.
+
+954
+01:06:22,399 --> 01:06:24,150
+Segue-me. Eu falarei com eles.
+
+955
+01:06:24,151 --> 01:06:27,603
+Cavalheiros, boa tarde! Uma palavra a um de vós.
+
+956
+01:06:28,597 --> 01:06:31,257
+Só uma palavra e só a um de nós?
+
+957
+01:06:31,259 --> 01:06:33,866
+Juntai-lhe algo mais, uma palavra e uma estocada.
+
+958
+01:06:34,139 --> 01:06:37,853
+Onde está o ladrão rafeiro que não mantém a pena no tinteiro?
+
+959
+01:06:37,854 --> 01:06:39,294
+Que ralé é esta?
+
+960
+01:06:42,435 --> 01:06:44,305
+À espada, se és homem!
+
+961
+01:07:07,954 --> 01:07:10,675
+Maravilhoso! Maravilhoso!
+
+962
+01:07:11,571 --> 01:07:13,545
+E...um cão.
+
+963
+01:07:18,688 --> 01:07:21,335
+Rogo-vos, actores! Por favor!
+
+964
+01:07:22,397 --> 01:07:24,808
+Os adereços não!
+
+965
+01:07:26,102 --> 01:07:28,403
+- Will! Que... - Uma luta de palco.
+
+966
+01:07:29,361 --> 01:07:30,605
+É normal.
+
+967
+01:07:32,661 --> 01:07:33,723
+Fica aqui.
+
+968
+01:07:48,064 --> 01:07:49,256
+Estás ferido.
+
+969
+01:08:02,929 --> 01:08:04,982
+Esta noite sonhei com um naufrágio.
+
+970
+01:08:06,099 --> 01:08:09,212
+- Foste levada para um país longínquo. - Oh, ainda não.
+
+971
+01:08:09,431 --> 01:08:10,788
+Ainda não.
+
+972
+01:08:10,789 --> 01:08:13,563
+Isso é para a cena da varanda.
+
+973
+01:08:13,564 --> 01:08:16,472
+O meu investimento! Lambert!
+
+974
+01:08:17,964 --> 01:08:19,443
+Vingança!
+
+975
+01:08:47,816 --> 01:08:49,377
+Uma vitória famosa!
+
+976
+01:08:49,378 --> 01:08:53,470
+Pipas e pernas abertas, à conta!
+
+977
+01:08:53,916 --> 01:08:55,859
+Que hora feliz.
+
+978
+01:08:56,051 --> 01:08:58,910
+- É uma taberna! - Também é uma taberna.
+
+979
+01:08:58,911 --> 01:09:02,681
+- Lembro-me de ti. O poeta! - Sim, Guilherme o Conquistador.
+
+980
+01:09:04,108 --> 01:09:06,222
+Um de cada vez. Um de cada vez.
+
+981
+01:09:07,754 --> 01:09:12,150
+Este é bonito. Diz-me do que gostas e realizarei o desejo.
+
+982
+01:09:15,336 --> 01:09:19,459
+- É uma casa de má fama. - É, Thomas, mas de boa reputação.
+
+983
+01:09:19,460 --> 01:09:21,000
+Toma. Um copo não te faz mal.
+
+984
+01:09:21,001 --> 01:09:27,070
+Bem vindos a minha casa. À saúde do grupo do Almirante.
+
+985
+01:09:27,481 --> 01:09:28,999
+Aos homens do Almirante!
+
+986
+01:09:54,130 --> 01:09:56,518
+Eu... eu gostei bastante.
+
+987
+01:09:57,209 --> 01:09:58,084
+Senhor Kent,>>
+
+988
+01:09:59,493 --> 01:10:02,381
+ainda não molhou a pena.
+
+989
+01:10:04,105 --> 01:10:05,275
+A "pena"?
+
+990
+01:10:06,915 --> 01:10:11,061
+Sr. Fennyman, como ama o teatro, dar-lhe-ei um papel na minha peça.
+
+991
+01:10:11,062 --> 01:10:15,248
+Será o boticário, um papel pequeno mas essencial.
+
+992
+01:10:16,137 --> 01:10:18,927
+Meu Deus. Agradeço-lhe.
+
+993
+01:10:19,285 --> 01:10:20,876
+Então, como é a peça?
+
+994
+01:10:20,877 --> 01:10:23,681
+Bem, há uma aia...>>
+
+995
+01:10:28,630 --> 01:10:30,997
+Silêncio!
+
+996
+01:10:32,398 --> 01:10:34,657
+O Mestre Shakespeare,>>
+
+997
+01:10:35,285 --> 01:10:38,987
+pediu-me para desempenhar o papel do boticário.
+
+998
+01:10:41,018 --> 01:10:42,516
+O boticário?
+
+999
+01:10:43,301 --> 01:10:47,116
+Que história é esta? Onde está o naufrágio?
+
+1000
+01:10:47,458 --> 01:10:49,332
+Como termina a comédia?
+
+1001
+01:10:49,333 --> 01:10:53,332
+- Por Deus, gostava de saber. - Por Deus, se não sabes, quem sabe?
+
+1002
+01:10:53,614 --> 01:10:57,018
+Dá-nos piratas, bobos e um fim feliz,>>
+
+1003
+01:10:57,224 --> 01:11:00,274
+ou mandamos-te voltar à tua mulher e a Stratford.
+
+1004
+01:11:17,905 --> 01:11:20,446
+Will! Sr. Henslowe! Cavalheiros, todos!
+
+1005
+01:11:20,447 --> 01:11:23,721
+É um dia de luto! Trago novas de uma taverna em Deptford.
+
+1006
+01:11:23,722 --> 01:11:25,162
+O Marlowe morreu.
+
+1007
+01:11:30,722 --> 01:11:31,830
+Apunhalado.
+
+1008
+01:11:33,072 --> 01:11:35,481
+Foi apunhalado numa taverna em Deptford.
+
+1009
+01:11:40,125 --> 01:11:41,510
+Que fiz eu?
+
+1010
+01:11:42,462 --> 01:11:44,445
+Era o melhor homem entre nós.
+
+1011
+01:11:45,219 --> 01:11:46,974
+Uma grande luz que se extinguiu.
+
+1012
+01:12:03,763 --> 01:12:04,785
+Perdoa-me.
+
+1013
+01:12:08,484 --> 01:12:09,956
+Deus me perdoe.
+
+1014
+01:12:37,991 --> 01:12:40,021
+...por amor de Jesus Cristo.
+
+1015
+01:12:40,521 --> 01:12:43,268
+"Uma manhã no mês de Maio>>
+
+1016
+01:12:43,269 --> 01:12:45,871
+"De meu leito saí>>
+
+1017
+01:12:46,389 --> 01:12:48,838
+"Mesmo ao raiar do dia>>
+
+1018
+01:12:48,839 --> 01:12:51,362
+"E uma bela dama encontrei...">>
+
+1019
+01:12:53,663 --> 01:12:57,522
+Parece triste, senhora. Deixe que a leve a montar.
+
+1020
+01:12:57,556 --> 01:13:01,198
+- Não é dia de montar. - Perdoe, pareceu-me um cavalo.
+
+1021
+01:13:02,013 --> 01:13:03,609
+Vou à igreja.
+
+1022
+01:13:03,695 --> 01:13:07,320
+Claro. Compreendo. Era de esperar.
+
+1023
+01:13:07,615 --> 01:13:10,910
+Sim, é de esperar... ao Domingo.
+
+1024
+01:13:11,131 --> 01:13:13,244
+E num dia de luto.
+
+1025
+01:13:14,531 --> 01:13:17,113
+Só vi o cavalheiro uma vez, em sua casa.
+
+1026
+01:13:18,212 --> 01:13:19,321
+Luto?
+
+1027
+01:13:22,705 --> 01:13:24,141
+Quem morreu?
+
+1028
+01:13:24,751 --> 01:13:28,993
+Meu Deus, não pensava ser eu a dizer-lhe.
+
+1029
+01:13:29,689 --> 01:13:33,142
+Uma grande perda para o teatro e dança.
+
+1030
+01:13:35,789 --> 01:13:36,985
+Senhora.
+
+1031
+01:13:37,196 --> 01:13:40,764
+- Morreu? - Foi morto ontem, numa taberna.
+
+1032
+01:13:42,794 --> 01:13:45,462
+Venha. Rezaremos pela sua alma.
+
+1033
+01:14:29,353 --> 01:14:30,841
+Poupa-me, alma penada.
+
+1034
+01:14:34,351 --> 01:14:38,101
+Poupa-me, por amor de Deus. Poupa-me!
+
+1035
+01:14:54,199 --> 01:14:55,575
+Oh, meu amor.
+
+1036
+01:14:56,858 --> 01:14:58,417
+Julguei-te morto.
+
+1037
+01:15:03,275 --> 01:15:04,331
+Pior que isso.
+
+1038
+01:15:06,574 --> 01:15:07,865
+Matei um homem.
+
+1039
+01:15:12,604 --> 01:15:15,373
+O dom de Marlowe tocou o meu Titus Andronicus,>>
+
+1040
+01:15:15,590 --> 01:15:18,852
+e o meu Henrique VI foi escrito com base na sua poesia.
+
+1041
+01:15:20,226 --> 01:15:22,444
+Nunca falaste tão bem dele.
+
+1042
+01:15:22,561 --> 01:15:24,402
+Antes não estava morto.
+
+1043
+01:15:26,974 --> 01:15:31,252
+Trocaria todas as minhas peças futuras pelas que ele nunca escreverá.
+
+1044
+01:15:32,159 --> 01:15:33,140
+Mentes.
+
+1045
+01:15:36,335 --> 01:15:39,069
+Mentes aqui como o fizeste em meu leito.
+
+1046
+01:15:40,616 --> 01:15:42,215
+Meu amor não é mentira.
+
+1047
+01:15:44,070 --> 01:15:45,542
+Sim, tenho mulher,>>
+
+1048
+01:15:46,758 --> 01:15:49,602
+e não posso casar com a filha de Sir Robert De Lesseps.
+
+1049
+01:15:50,819 --> 01:15:53,410
+Não era preciso uma mulher em Stratford para o saberes,>>
+
+1050
+01:15:55,192 --> 01:15:57,239
+e contudo acolheste-me em teu leito.
+
+1051
+01:15:58,336 --> 01:15:59,523
+Para namoriscar.
+
+1052
+01:16:01,819 --> 01:16:05,148
+Amava o escritor e dei o prémio por um soneto.
+
+1053
+01:16:06,875 --> 01:16:08,287
+Fui o mais enganado.
+
+1054
+01:16:10,375 --> 01:16:11,712
+Sim, foste enganado,>>
+
+1055
+01:16:12,574 --> 01:16:14,833
+pois não sabia o quanto te amava.
+
+1056
+01:16:18,079 --> 01:16:19,433
+Amo-te, Will,>>
+
+1057
+01:16:21,344 --> 01:16:22,695
+para além da poesia.
+
+1058
+01:16:22,696 --> 01:16:24,213
+Oh, meu amor.
+
+1059
+01:16:26,512 --> 01:16:28,996
+- Já antes me fugiste. - Quando te julguei morto,>>
+
+1060
+01:16:28,997 --> 01:16:31,761
+não quis saber das peças que não escreverias,>>
+
+1061
+01:16:32,102 --> 01:16:34,410
+só que não voltaria a ver-te.
+
+1062
+01:16:35,355 --> 01:16:37,998
+Vi o nosso fim e chegará.
+
+1063
+01:16:39,245 --> 01:16:43,017
+- Não podes casar com o Wessex. - Se não tu, porque não o Wessex?
+
+1064
+01:16:43,018 --> 01:16:45,306
+Se não for com ele, a rainha saberá porquê,>>
+
+1065
+01:16:45,307 --> 01:16:48,090
+- e será o fim do Shakespeare. - Não.
+
+1066
+01:16:51,206 --> 01:16:54,591
+Mas irei para o Wessex como viúva destes votos,>>
+
+1067
+01:16:55,333 --> 01:16:58,129
+tão solenes quanto profanos.
+
+1068
+01:16:59,630 --> 01:17:01,595
+Por ter morto Tebaldo, parente de Julieta,>>
+
+1069
+01:17:02,762 --> 01:17:05,298
+e aquele que matou o amigo de Romeu, Mercúcio,>>
+
+1070
+01:17:05,815 --> 01:17:07,408
+Romeu é proscrito.
+
+1071
+01:17:08,019 --> 01:17:10,639
+- Mas o frade que os casou... - Sou eu?
+
+1072
+01:17:10,640 --> 01:17:15,928
+Tu, Edward. O frade que os casou dá a Julieta uma poção para beber.
+
+1073
+01:17:15,929 --> 01:17:19,302
+É uma poção secreta. Fá-la parecer morta.
+
+1074
+01:17:19,640 --> 01:17:21,808
+É colocada no túmulo dos Capuletos.
+
+1075
+01:17:22,314 --> 01:17:25,840
+Acordará para a vida e o amor quando Romeu voltar.
+
+1076
+01:17:28,797 --> 01:17:30,042
+Não contei tudo.
+
+1077
+01:17:31,845 --> 01:17:36,259
+Por azar, perde-se a mensagem que diria a Romeu o plano do frade.
+
+1078
+01:17:37,901 --> 01:17:40,009
+Apenas ouve que Julieta está morta.
+
+1079
+01:17:41,636 --> 01:17:43,318
+Assim, vai ao boticário...>>
+
+1080
+01:17:43,617 --> 01:17:44,777
+Sou eu.
+
+1081
+01:17:45,219 --> 01:17:46,785
+...e compra um veneno mortal.
+
+1082
+01:17:48,132 --> 01:17:52,240
+Entra no túmulo para se despedir de Julieta que jaz fria como a morte.
+
+1083
+01:17:53,647 --> 01:17:54,926
+Bebe o veneno.
+
+1084
+01:17:57,108 --> 01:17:58,435
+Morre a seu lado,>>
+
+1085
+01:18:00,404 --> 01:18:02,712
+e ela desperta e encontra-o morto.
+
+1086
+01:18:04,965 --> 01:18:07,075
+Então Julieta pega no seu punhal,>>
+
+1087
+01:18:09,174 --> 01:18:10,633
+e mata-se.
+
+1088
+01:18:15,586 --> 01:18:17,647
+Bem, irão delirar nas galerias.
+
+1089
+01:18:17,648 --> 01:18:21,035
+Triste... e maravilhoso.
+
+1090
+01:18:22,132 --> 01:18:25,302
+Tenho um chapéu azul que ficará bem.
+
+1091
+01:18:25,303 --> 01:18:28,423
+Vi um boticário com um igual.
+
+1092
+01:18:28,771 --> 01:18:29,864
+Igualzinho.
+
+1093
+01:18:31,439 --> 01:18:32,507
+Sim,>>
+
+1094
+01:18:33,394 --> 01:18:34,629
+serve.
+
+1095
+01:18:36,600 --> 01:18:38,053
+Mas falta uma cena.
+
+1096
+01:18:39,739 --> 01:18:41,711
+Entre casamento e morte?
+
+1097
+01:18:48,068 --> 01:18:49,108
+A peça...>>
+
+1098
+01:18:50,995 --> 01:18:52,554
+toda escrita para ti.
+
+1099
+01:18:53,824 --> 01:18:55,837
+Pedi ao escriba de Bridewell.
+
+1100
+01:18:56,855 --> 01:18:58,205
+Tem uma caligrafia bonita.
+
+1101
+01:19:00,938 --> 01:19:02,153
+Há uma cena nova.
+
+1102
+01:19:09,552 --> 01:19:14,086
+- Lês a cena comigo? - "Partis já? O dia não despontou.
+
+1103
+01:19:15,284 --> 01:19:17,232
+"Foi o rouxinol e não a cotovia,>>
+
+1104
+01:19:17,233 --> 01:19:19,236
+"que tanto assustou vosso nobre ouvido.
+
+1105
+01:19:19,631 --> 01:19:22,016
+"Todas as noites canta naquela romãzeira.
+
+1106
+01:19:22,729 --> 01:19:24,790
+"Crede em mim, amor, era o rouxinol.
+
+1107
+01:19:25,821 --> 01:19:29,696
+"Era a cotovia, o arauto da manhã;>>
+
+1108
+01:19:29,966 --> 01:19:31,452
+"não o rouxinol.
+
+1109
+01:19:32,429 --> 01:19:36,047
+"Vede, amor, que invejosos raios de luz,>>
+
+1110
+01:19:36,048 --> 01:19:39,145
+"rompem as nuvens além no oriente longínquo.
+
+1111
+01:19:39,850 --> 01:19:42,028
+"As candeias da noite extinguiram-se,>>
+
+1112
+01:19:43,538 --> 01:19:46,205
+"e o jucundo dia põe já seu pé,>>
+
+1113
+01:19:46,206 --> 01:19:48,192
+"nos cumes brumosos das montanhas.
+
+1114
+01:19:49,485 --> 01:19:54,116
+"Tenho de partir e viver, ou ficar e morrer.
+
+1115
+01:19:55,640 --> 01:19:58,527
+"Aquela luz não é o dia; bem o sei eu.
+
+1116
+01:19:59,497 --> 01:20:02,515
+"É uma estrela que do sol emana,>>
+
+1117
+01:20:02,516 --> 01:20:06,282
+"para vos servir de tocha esta noite,>>
+
+1118
+01:20:07,640 --> 01:20:09,975
+"e vos iluminar no caminho para Mântua.
+
+1119
+01:20:12,329 --> 01:20:14,012
+"Ficai ainda um pouco.
+
+1120
+01:20:15,925 --> 01:20:17,492
+"Não tendes de partir já.
+
+1121
+01:20:18,557 --> 01:20:19,963
+"Seja, que me prendam,>>
+
+1122
+01:20:20,911 --> 01:20:22,737
+"ou que me matem;>>
+
+1123
+01:20:23,791 --> 01:20:27,244
+"Se é esse vosso desejo, serei feliz.
+
+1124
+01:20:27,994 --> 01:20:30,561
+"Tenho mais desejo de ficar,>>
+
+1125
+01:20:30,896 --> 01:20:32,523
+"que vontade de partir.
+
+1126
+01:20:33,012 --> 01:20:35,294
+"Vem, morte, sê bem vinda.
+
+1127
+01:20:35,514 --> 01:20:37,578
+Julieta assim o quer.">>
+
+1128
+01:21:02,277 --> 01:21:04,482
+Irás longe, temo.
+
+1129
+01:21:09,116 --> 01:21:11,207
+Espero voltar a trabalhar contigo.
+
+1130
+01:21:13,613 --> 01:21:17,182
+"Tenho tais venenos mortais, mas a lei de Mântua,>>
+
+1131
+01:21:17,390 --> 01:21:21,515
+é a pena de morte para quem os vender.">>
+
+1132
+01:21:22,499 --> 01:21:24,904
+Depois ele. Depois eu.
+
+1133
+01:21:25,313 --> 01:21:26,726
+"Juntai-o>>
+
+1134
+01:21:26,727 --> 01:21:29,009
+a qualquer líquido e...">>
+
+1135
+01:21:29,602 --> 01:21:31,626
+Que foi? Que foi?
+
+1136
+01:21:34,061 --> 01:21:37,720
+"Que som argentino tem de noite a voz dos amantes.">>
+
+1137
+01:21:37,721 --> 01:21:39,601
+- Tal música suave... - Shakespeare!
+
+1138
+01:21:57,575 --> 01:21:59,752
+Defende-te, cachorro!
+
+1139
+01:22:00,413 --> 01:22:03,362
+Vou pôr-te no lugar, que é o inferno!
+
+1140
+01:22:07,559 --> 01:22:10,951
+- Estás no meu território! - Por Deus, lutarei contra todos!
+
+1141
+01:22:11,077 --> 01:22:12,681
+Basta lutares comigo!
+
+1142
+01:23:22,043 --> 01:23:23,012
+Ataca!
+
+1143
+01:23:44,563 --> 01:23:46,267
+Aos amigos ausentes.
+
+1144
+01:23:48,297 --> 01:23:50,954
+Este é o assassino do Kit Marlowe!
+
+1145
+01:23:52,070 --> 01:23:53,315
+Will?
+
+1146
+01:23:53,475 --> 01:23:57,043
+A sua morte agradou-me. Pensei que eras tu! Não sei nada!
+
+1147
+01:23:58,695 --> 01:24:00,439
+É verdade.
+
+1148
+01:24:00,854 --> 01:24:03,762
+Foi uma rixa de taverna.
+
+1149
+01:24:03,932 --> 01:24:08,405
+O Marlowe atacou e espetou a própria espada no olho.
+
+1150
+01:24:08,925 --> 01:24:11,109
+Uma discussão com a conta.
+
+1151
+01:24:11,195 --> 01:24:14,045
+O cartaz? Vaidade!
+
+1152
+01:24:14,758 --> 01:24:17,208
+Não foi o cartaz, a conta!
+
+1153
+01:24:22,266 --> 01:24:23,447
+Oh Deus.
+
+1154
+01:24:23,678 --> 01:24:25,644
+- Estou liberto. - Onde está ela?
+
+1155
+01:24:27,601 --> 01:24:28,688
+Fechem-no.
+
+1156
+01:24:30,109 --> 01:24:33,182
+O Rose alberga aquele que emporcalha o meu nome!
+
+1157
+01:24:33,385 --> 01:24:35,128
+Destruam-no pedra por pedra.
+
+1158
+01:24:35,129 --> 01:24:38,367
+Quero-o totalmente destruído e coberto com cal viva!
+
+1159
+01:24:39,583 --> 01:24:41,194
+Sr. Tilney, que se passa?
+
+1160
+01:24:41,436 --> 01:24:44,077
+Conspiração e indecência.
+
+1161
+01:24:44,078 --> 01:24:46,620
+Mestre das Artes, ela está ali.
+
+1162
+01:24:46,621 --> 01:24:48,430
+- Onde, rapaz? - Acolá.
+
+1163
+01:24:49,712 --> 01:24:51,367
+Vi as maminhas.
+
+1164
+01:24:51,563 --> 01:24:56,182
+Então, uma mulher no palco!
+
+1165
+01:24:56,183 --> 01:25:00,396
+Uma mulher! O teatro está encerrado!
+
+1166
+01:25:00,764 --> 01:25:01,693
+Porquê?
+
+1167
+01:25:01,694 --> 01:25:05,728
+Por obscenidade e falta de vergonha!
+
+1168
+01:25:05,948 --> 01:25:11,140
+E por mostrar uma mulher num palco público!
+
+1169
+01:25:25,974 --> 01:25:28,082
+Não é ele, é ela!
+
+1170
+01:25:31,872 --> 01:25:33,295
+Referia-me a ela.
+
+1171
+01:25:36,349 --> 01:25:39,066
+- Ele é uma mulher. - O teatro está encerrado.
+
+1172
+01:25:40,841 --> 01:25:42,963
+Fixarei um edital!
+
+1173
+01:25:45,389 --> 01:25:47,384
+Ned, juro que nada sabia.
+
+1174
+01:25:48,287 --> 01:25:50,569
+- Ninguém sabia. - Ele sabia.
+
+1175
+01:25:50,570 --> 01:25:52,526
+Vi-o beijar-lhe as maminhas.
+
+1176
+01:25:56,254 --> 01:25:57,561
+Acabou.
+
+1177
+01:25:58,803 --> 01:26:00,926
+Desculpe, Sr. Henslowe.
+
+1178
+01:26:16,345 --> 01:26:18,161
+Queria ser um actor.
+
+1179
+01:26:20,166 --> 01:26:22,069
+Desculpa, Will.
+
+1180
+01:26:28,142 --> 01:26:29,938
+Foste...>>
+
+1181
+01:26:33,481 --> 01:26:34,905
+maravilhosa.
+
+1182
+01:26:36,051 --> 01:26:37,324
+Obrigada.
+
+1183
+01:26:47,818 --> 01:26:51,259
+"Juntai-o a qualquer líquido e...">>
+
+1184
+01:26:57,554 --> 01:26:58,969
+Está tudo bem?
+
+1185
+01:27:37,400 --> 01:27:38,925
+Eu teria sido bom.
+
+1186
+01:27:40,921 --> 01:27:44,074
+- Eu teria sido óptimo. - E eu também.
+
+1187
+01:27:44,313 --> 01:27:45,686
+Seríamos os dois.
+
+1188
+01:28:08,800 --> 01:28:11,268
+Lambert, mata-o.
+
+1189
+01:28:13,426 --> 01:28:14,685
+Isso pode esperar.
+
+1190
+01:28:18,849 --> 01:28:23,993
+O Mestre das Artes despreza-nos a todos, chama-nos vagabundos e bobos.
+
+1191
+01:28:25,614 --> 01:28:27,621
+Mas meu pai, James Burbage,>>
+
+1192
+01:28:28,090 --> 01:28:32,304
+teve a primeira licença de Sua Majestade, para formar um grupo de actores,>>
+
+1193
+01:28:32,581 --> 01:28:36,080
+e inspirou-se nos poetas e na literatura da época.
+
+1194
+01:28:37,247 --> 01:28:39,657
+Vamos mostrar-lhes que somos homens de honra.
+
+1195
+01:28:40,848 --> 01:28:42,726
+Will Shakespeare tem uma peça.
+
+1196
+01:28:44,144 --> 01:28:48,127
+Eu tenho o teatro. O Curtain é vosso.
+
+1197
+01:29:08,312 --> 01:29:10,710
+Autorizada pelo Sr. Burbage, produzida por Hugh Fennyman,>>
+
+1198
+01:29:10,711 --> 01:29:14,400
+apresentada pelo Sr. Henslowe, representada pelo grupo do Almirante,>>
+
+1199
+01:29:14,686 --> 01:29:17,513
+a Excelente e Lamentável Tragédia de>>
+
+1200
+01:29:17,514 --> 01:29:21,399
+com o Sr. Fennyman no papel de Boticário, às Três Horas da Tarde.
+
+1201
+01:29:22,128 --> 01:29:25,789
+Will, falta um Romeu.
+
+1202
+01:30:02,251 --> 01:30:06,567
+O meu navio está ancorado em Bankside e parte à tarde para a Virgínia.
+
+1203
+01:30:07,221 --> 01:30:08,662
+Não lamente.
+
+1204
+01:30:08,663 --> 01:30:10,195
+Vai ganhar uma colónia.
+
+1205
+01:30:10,481 --> 01:30:13,441
+E o senhor, vai ganhar 5.000 libras,>>
+
+1206
+01:30:13,738 --> 01:30:15,853
+com estes títulos.
+
+1207
+01:30:16,148 --> 01:30:18,256
+Poderia adiantar-me 50 libras em ouro,>>
+
+1208
+01:30:18,257 --> 01:30:20,603
+só para pagar as minhas despesas na doca?
+
+1209
+01:30:23,847 --> 01:30:25,620
+A noiva!
+
+1210
+01:30:27,710 --> 01:30:29,334
+Bom dia, senhor.
+
+1211
+01:30:30,456 --> 01:30:34,624
+Vejo que está preparada, vamos para a igreja.
+
+1212
+01:30:40,631 --> 01:30:42,233
+Boa viagem!
+
+1213
+01:31:26,368 --> 01:31:29,290
+A Excelente e Lamentável Tragédia de>>
+
+1214
+01:31:40,098 --> 01:31:41,347
+Oh, senhor!
+
+1215
+01:31:41,348 --> 01:31:43,853
+- Seja bom para ela, senhor. - Serei.
+
+1216
+01:31:44,541 --> 01:31:46,180
+Deus o abençoe!
+
+1217
+01:31:46,506 --> 01:31:49,444
+Obrigado. Deixe-me. Uma boa aia.
+
+1218
+01:31:49,789 --> 01:31:51,209
+A maré não espera.
+
+1219
+01:31:51,677 --> 01:31:55,773
+Adeus! Serão todos bem vindos à Virgínia!
+
+1220
+01:32:46,195 --> 01:32:47,410
+Está bem assim?
+
+1221
+01:33:04,456 --> 01:33:09,403
+A luxúria tornada espectáculo! O vício tornado espectáculo!
+
+1222
+01:33:09,760 --> 01:33:13,998
+Idem para a vaidade e o orgulho!
+
+1223
+01:33:14,246 --> 01:33:18,490
+É este o negócio do espectáculo!
+
+1224
+01:33:34,196 --> 01:33:36,298
+Duas...>>
+
+1225
+01:33:37,448 --> 01:33:39,256
+Duas famílias...>>
+
+1226
+01:33:39,631 --> 01:33:42,185
+- Estamos perdidos. - Não, vai correr bem.
+
+1227
+01:33:42,186 --> 01:33:46,345
+- Como? - Não sei. É um mistério.
+
+1228
+01:34:45,450 --> 01:34:47,159
+Duas famílias,>>
+
+1229
+01:34:48,376 --> 01:34:52,116
+iguais em nobreza,>>
+
+1230
+01:34:52,563 --> 01:34:54,441
+na bela Verona,>>
+
+1231
+01:34:54,890 --> 01:34:56,884
+onde se passa este drama.
+
+1232
+01:34:57,266 --> 01:35:00,341
+Antigos rancores desencadeiam novas discórdias,>>
+
+1233
+01:35:00,342 --> 01:35:03,505
+em que o sangue dos cidadãos tinge as mãos dos cidadãos.
+
+1234
+01:35:03,853 --> 01:35:07,030
+Das entranhas fatais destas duas famílias,>>
+
+1235
+01:35:07,031 --> 01:35:09,780
+sob funesta estrela, nascem dois amantes,>>
+
+1236
+01:35:09,781 --> 01:35:13,175
+cuja desventura e lamentável ruína enterrará,>>
+
+1237
+01:35:13,176 --> 01:35:16,011
+com a sua morte, a luta de seus pais.
+
+1238
+01:35:19,319 --> 01:35:22,341
+História que vós atentamente escutareis,>>
+
+1239
+01:35:22,342 --> 01:35:27,293
+e o que nela faltar, tudo faremos para corrigir.
+
+1240
+01:35:33,757 --> 01:35:36,069
+- Maravilhoso. - Foi...>>
+
+1241
+01:35:36,664 --> 01:35:37,857
+...bom?
+
+1242
+01:35:41,587 --> 01:35:45,067
+Gregório, não mais suportaremos a carga.
+
+1243
+01:35:45,075 --> 01:35:47,806
+Claro, pois não somos escravos.
+
+1244
+01:35:47,829 --> 01:35:50,531
+Pois se nos encolerizarem, atacaremos.
+
+1245
+01:35:50,535 --> 01:35:52,480
+- Mestre Shakespeare. - Que a sorte esteja contigo, Sam.
+
+1246
+01:35:54,035 --> 01:35:56,699
+Não tenho culpa. Ontem estava bom.
+
+1247
+01:35:56,911 --> 01:35:59,637
+Diz uma fala. Dá-me uma deixa.
+
+1248
+01:35:59,899 --> 01:36:02,239
+"A despedida é tão doce tristeza.">>
+
+1249
+01:36:02,730 --> 01:36:06,821
+- Outro pequeno problema. - Que fazemos agora?
+
+1250
+01:36:07,105 --> 01:36:10,671
+- O espectáculo tem de... Tu sabes. - Continuar!
+
+1251
+01:36:11,377 --> 01:36:14,063
+A Julieta só entra daqui a 20 páginas. Vai correr bem.
+
+1252
+01:36:14,064 --> 01:36:16,336
+- Como? - Não sei. É um mistério.
+
+1253
+01:36:21,427 --> 01:36:24,534
+- Deixa que comecem. - Franzirei o cenho ao passar.
+
+1254
+01:36:24,535 --> 01:36:27,981
+- Que entendam como quiserem. - Ou como ousarem.
+
+1255
+01:36:28,307 --> 01:36:32,681
+Morderei o polegar, olhando-os, e se o consentirem ficarão desonrados.
+
+1256
+01:36:33,589 --> 01:36:35,986
+É para nós que mordeis o polegar?
+
+1257
+01:36:36,200 --> 01:36:38,402
+Sim, estou a mordê-lo.
+
+1258
+01:36:38,977 --> 01:36:41,037
+É para nós que mordeis o polegar?
+
+1259
+01:36:42,798 --> 01:36:43,723
+Podemos falar?
+
+1260
+01:36:44,718 --> 01:36:47,683
+- Não temos Julieta. - Não há Julieta?
+
+1261
+01:36:47,684 --> 01:36:50,569
+- Não há Julieta? - Vai correr bem, senhora.
+
+1262
+01:36:50,570 --> 01:36:51,840
+E o Sam?
+
+1263
+01:36:51,872 --> 01:36:53,723
+- Quem és tu? - Thomas Kent.
+
+1264
+01:36:55,535 --> 01:36:56,694
+Sabes o texto?
+
+1265
+01:36:58,381 --> 01:37:00,026
+Sei-o todo.
+
+1266
+01:37:10,015 --> 01:37:12,924
+Irei, não para presenciar tal formosura,>>
+
+1267
+01:37:13,175 --> 01:37:16,125
+mas para gozar o esplendor de minha amada.
+
+1268
+01:37:17,327 --> 01:37:18,470
+Aia!
+
+1269
+01:37:21,083 --> 01:37:24,552
+Onde está minha filha? Diz-lhe que venha aqui.
+
+1270
+01:37:24,554 --> 01:37:27,657
+Tão certo como a minha virgindade aos 12 anos,>>
+
+1271
+01:37:27,851 --> 01:37:28,902
+já lhe disse que viesse.
+
+1272
+01:37:28,903 --> 01:37:30,039
+O que é, quem me chama?
+
+1273
+01:37:32,159 --> 01:37:33,731
+Meu passarinho!
+
+1274
+01:37:35,436 --> 01:37:36,735
+Onde estará a menina?
+
+1275
+01:37:37,210 --> 01:37:38,408
+Carneirinho!
+
+1276
+01:37:38,722 --> 01:37:40,627
+Meu passarinho!
+
+1277
+01:37:42,523 --> 01:37:45,128
+Minha Julieta!
+
+1278
+01:37:45,862 --> 01:37:48,106
+O que é, quem me chama?
+
+1279
+01:37:53,260 --> 01:37:56,819
+- Vamos todos presos. - Vemo-nos na cadeia.
+
+1280
+01:38:00,060 --> 01:38:02,971
+Vossa mãe... Vossa mãe.
+
+1281
+01:38:02,984 --> 01:38:06,502
+Aqui estou, senhora. Que me quereis?
+
+1282
+01:38:06,700 --> 01:38:08,440
+É o seguinte.
+
+1283
+01:38:08,923 --> 01:38:11,542
+Aia, deixa-nos um pouco. Temos de falar a sós.
+
+1284
+01:38:12,053 --> 01:38:15,667
+Aia, volta. Pensando melhor, deveis ouvir nossa conversa.
+
+1285
+01:38:16,131 --> 01:38:19,263
+Sabes que minha filha já tem uma certa idade.
+
+1286
+01:38:19,885 --> 01:38:23,343
+- Posso atestar sua idade ao minuto. - Ainda não tem 14.
+
+1287
+01:38:23,820 --> 01:38:28,784
+Apostaria 14 dos meus dentes. E contudo dos meus dentes,>>
+
+1288
+01:38:28,785 --> 01:38:30,161
+só restam quatro...>>
+
+1289
+01:38:53,960 --> 01:38:55,536
+Diz-me Julieta, minha filha,>>
+
+1290
+01:38:55,537 --> 01:38:59,470
+sentes inclinação para o casamento?
+
+1291
+01:39:00,567 --> 01:39:02,568
+Uma honra a que não ouso aspirar.
+
+1292
+01:39:07,959 --> 01:39:10,645
+Basta, Tebaldo! Bom Mercúcio!
+
+1293
+01:39:20,390 --> 01:39:21,659
+Fui ferido.
+
+1294
+01:39:22,070 --> 01:39:24,432
+Coragem amigo, a ferida não pode ser fatal.
+
+1295
+01:39:25,595 --> 01:39:27,026
+Vinde ver-me amanhã,>>
+
+1296
+01:39:27,027 --> 01:39:29,108
+e encontrarás um homem sério.
+
+1297
+01:39:47,633 --> 01:39:49,736
+"Tenho tais venenos mortais,>>
+
+1298
+01:39:50,402 --> 01:39:55,039
+mas a lei de Mântua é a pena de morte, para quem as vender.">>
+
+1299
+01:39:55,040 --> 01:39:58,179
+Depois ele. Depois eu.
+
+1300
+01:40:06,332 --> 01:40:08,285
+Foge Romeu, ide-vos!
+
+1301
+01:40:08,538 --> 01:40:12,649
+Os cidadão estão exaltados e Tebaldo morto. Não fiqueis aí!
+
+1302
+01:40:12,749 --> 01:40:17,067
+O príncipe condenar-vos-á à morte se fores preso. Ide! Fugi!
+
+1303
+01:40:18,608 --> 01:40:20,968
+Sou joguete do destino!
+
+1304
+01:40:21,016 --> 01:40:22,759
+Porque esperais?
+
+1305
+01:40:24,140 --> 01:40:25,275
+Para onde fugiu o que matou Mercúcio?
+
+1306
+01:40:25,276 --> 01:40:26,444
+Para onde fugiu esse assassino?
+
+1307
+01:40:26,445 --> 01:40:29,556
+- Esse Tebaldo, ei-lo por terra. - Acompanhai-me.
+
+1308
+01:40:29,709 --> 01:40:31,580
+Em nome do príncipe, obedecei-me.
+
+1309
+01:40:31,581 --> 01:40:34,405
+Onde estão os vis promotores desta rixa?
+
+1310
+01:40:34,981 --> 01:40:36,672
+"Sou joguete do destino.">>
+
+1311
+01:40:40,284 --> 01:40:41,336
+Sois casado?
+
+1312
+01:40:46,418 --> 01:40:49,496
+"Se fores casado, meu túmulo será meu leito de núpcias.">>
+
+1313
+01:41:06,419 --> 01:41:08,072
+E partis assim,>>
+
+1314
+01:41:11,376 --> 01:41:13,229
+meu amor, meu senhor,>>
+
+1315
+01:41:13,664 --> 01:41:15,697
+meu marido, meu amigo?
+
+1316
+01:41:16,648 --> 01:41:19,384
+Preciso saber de vós todos os dias e horas,>>
+
+1317
+01:41:20,528 --> 01:41:23,178
+pois há tantos dias num minuto.
+
+1318
+01:41:23,940 --> 01:41:26,795
+Por estas contas, serei bem velha...>>
+
+1319
+01:41:26,796 --> 01:41:29,028
+quando voltar a ver o meu Romeu.
+
+1320
+01:41:30,420 --> 01:41:31,466
+Adeus.
+
+1321
+01:41:33,596 --> 01:41:36,212
+Pensais que tornaremos a ver-nos um dia?
+
+1322
+01:41:38,521 --> 01:41:41,150
+Agora, que estais tão lá em baixo,>>
+
+1323
+01:41:41,151 --> 01:41:43,724
+pareceis-me um cadáver no fundo de uma tumba.
+
+1324
+01:41:45,125 --> 01:41:48,848
+Ou meus olhos me enganam, ou estais bem pálido.
+
+1325
+01:41:50,595 --> 01:41:52,212
+Também vós, meu amor,>>
+
+1326
+01:41:53,206 --> 01:41:54,732
+a meus olhos o estais.
+
+1327
+01:41:55,931 --> 01:41:57,836
+O desgosto bebe-nos o sangue.
+
+1328
+01:41:59,523 --> 01:42:00,704
+Adeus.
+
+1329
+01:42:02,466 --> 01:42:03,539
+Adeus.
+
+1330
+01:42:04,579 --> 01:42:07,643
+Toma este frasco e, uma vez na cama,>>
+
+1331
+01:42:07,890 --> 01:42:10,674
+bebei todo o licor destilado que contém.
+
+1332
+01:42:11,174 --> 01:42:14,986
+Nem calor nem respiração hão-de atestar que viveis.
+
+1333
+01:42:15,199 --> 01:42:18,054
+E neste estado de morte aparente,>>
+
+1334
+01:42:18,292 --> 01:42:21,042
+permanecereis durante quarenta e duas horas,>>
+
+1335
+01:42:21,338 --> 01:42:24,153
+despertando depois como de um agradável sono.
+
+1336
+01:42:25,272 --> 01:42:27,081
+Vinde aqui! Boticário!
+
+1337
+01:42:30,604 --> 01:42:34,221
+Vinde aqui, homem. Vejo que sois pobre.
+
+1338
+01:42:35,128 --> 01:42:37,763
+Tomai, aqui tendes 40 ducados.
+
+1339
+01:42:38,228 --> 01:42:41,421
+- Dai-me uma dose de veneno... - Tenho tais venenos mortais,>>
+
+1340
+01:42:41,422 --> 01:42:45,680
+mas a lei de Mântua é a pena de morte para quem os vender.
+
+1341
+01:42:45,681 --> 01:42:48,671
+- Sois assim tão... - A pobreza, e não a vontade, o consente.
+
+1342
+01:42:54,899 --> 01:42:57,036
+Pago a vossa pobreza, não a vontade.
+
+1343
+01:43:01,616 --> 01:43:03,353
+Fitai-a pela última vez, olhos meus.
+
+1344
+01:43:04,087 --> 01:43:06,471
+Abraçai-a pela última vez, braços meus.
+
+1345
+01:43:06,472 --> 01:43:07,960
+E vós, lábios,>>
+
+1346
+01:43:09,367 --> 01:43:12,318
+vós que sois a porta da respiração,>>
+
+1347
+01:43:12,751 --> 01:43:14,906
+selai com um legítimo beijo,>>
+
+1348
+01:43:17,250 --> 01:43:18,772
+o pacto eterno,>>
+
+1349
+01:43:19,229 --> 01:43:21,245
+com a morte voraz.
+
+1350
+01:43:23,008 --> 01:43:25,641
+Vinde, amarga sorte.
+
+1351
+01:43:26,004 --> 01:43:29,141
+Vinde, fatal guia.
+
+1352
+01:43:29,771 --> 01:43:33,190
+Vinde agora, piloto sem esperança,>>
+
+1353
+01:43:33,191 --> 01:43:37,792
+e atirai contra os rochedos o meu fatigado batel.
+
+1354
+01:43:38,572 --> 01:43:40,391
+Por vós, minha amada!
+
+1355
+01:43:49,838 --> 01:43:51,718
+Fiel boticário!
+
+1356
+01:43:55,388 --> 01:43:57,192
+Vosso veneno é rápido.
+
+1357
+01:44:03,545 --> 01:44:04,898
+E assim, com um beijo,>>
+
+1358
+01:44:07,764 --> 01:44:09,078
+morro.
+
+1359
+01:44:27,568 --> 01:44:29,121
+Onde está meu senhor?
+
+1360
+01:44:31,652 --> 01:44:35,782
+Lembro-me bem onde devo estar, e aqui estou. Onde está meu Romeu?
+
+1361
+01:44:35,851 --> 01:44:37,096
+Morto!
+
+1362
+01:44:50,314 --> 01:44:51,608
+Que é isto?
+
+1363
+01:44:52,309 --> 01:44:55,188
+Uma taça, presa na mão de meu fiel amor?
+
+1364
+01:44:58,161 --> 01:44:59,397
+Agora vejo,>>
+
+1365
+01:44:59,398 --> 01:45:01,525
+o veneno que tão cedo o levou.
+
+1366
+01:45:07,066 --> 01:45:09,316
+Oh, punhal abençoado,>>
+
+1367
+01:45:10,042 --> 01:45:12,086
+eis a tua bainha.
+
+1368
+01:45:15,964 --> 01:45:17,908
+Jaz em meu peito,>>
+
+1369
+01:45:18,682 --> 01:45:20,183
+e deixai-me morrer.
+
+1370
+01:45:27,715 --> 01:45:30,715
+Sinistra paz traz consigo esta manhã,>>
+
+1371
+01:45:31,525 --> 01:45:34,764
+para mostrar sua dor, o sol velou seu rosto.
+
+1372
+01:45:35,963 --> 01:45:40,014
+Retiremo-nos, para falar destes tristes acontecimentos.
+
+1373
+01:45:41,155 --> 01:45:42,702
+Alguns serão perdoados,>>
+
+1374
+01:45:43,500 --> 01:45:45,338
+outros serão punidos;>>
+
+1375
+01:45:46,187 --> 01:45:50,178
+pois nunca se viu história de mais pesar,>>
+
+1376
+01:45:50,536 --> 01:45:53,778
+que a de Julieta,>>
+
+1377
+01:45:54,344 --> 01:45:55,968
+e de seu Romeu.
+
+1378
+01:47:35,768 --> 01:47:40,423
+- Deus Salve a Rainha! - Prendo-vos em nome da Rainha!
+
+1379
+01:47:40,936 --> 01:47:44,720
+Prender quem, Sr. Tilney?
+
+1380
+01:47:44,721 --> 01:47:45,935
+Todos!
+
+1381
+01:47:46,929 --> 01:47:49,733
+O grupo do Almirante, o do Camareiro,>>
+
+1382
+01:47:49,973 --> 01:47:55,102
+e todos os reles actores que desrespeitam a autoridade,>>
+
+1383
+01:47:55,103 --> 01:47:57,869
+que me foi concedida por Sua Majestade!
+
+1384
+01:47:57,870 --> 01:48:01,833
+Desrespeito? Fechastes o Rose. Eu não o reabri.
+
+1385
+01:48:02,248 --> 01:48:04,469
+Aquela mulher é uma mulher!
+
+1386
+01:48:05,169 --> 01:48:06,434
+O quê?
+
+1387
+01:48:06,826 --> 01:48:09,839
+Uma mulher? Aquele bácoro?
+
+1388
+01:48:10,045 --> 01:48:15,623
+Ides todos para a Cadeia, em nome de Sua Majestade, a Rainha Elisabete!
+
+1389
+01:48:15,624 --> 01:48:17,261
+Sr. Tilney!
+
+1390
+01:48:24,254 --> 01:48:27,324
+Tende tento com o meu nome. Irá gastá-lo.
+
+1391
+01:48:35,494 --> 01:48:37,977
+A rainha de Inglaterra não assiste...>>
+
+1392
+01:48:37,978 --> 01:48:40,201
+a mostras de lascívia pública.
+
+1393
+01:48:40,930 --> 01:48:42,688
+Por isso, algo está errado.
+
+1394
+01:48:45,359 --> 01:48:49,035
+Vinde cá, senhor Kent. Deixe que o observe.
+
+1395
+01:49:03,800 --> 01:49:06,068
+Sim, a ilusão é notável.
+
+1396
+01:49:07,112 --> 01:49:09,913
+E o seu erro, Sr. Tilney, é fácil de perdoar.
+
+1397
+01:49:11,050 --> 01:49:14,052
+Mas sei algo do que é ser mulher numa profissão de homem.
+
+1398
+01:49:15,260 --> 01:49:17,554
+Sim, por Deus, sei o que isso é.
+
+1399
+01:49:19,974 --> 01:49:22,462
+E de si já chega, Senhor Kent.
+
+1400
+01:49:27,575 --> 01:49:29,333
+Se o Lorde Wessex aqui estivesse.
+
+1401
+01:49:29,817 --> 01:49:31,055
+E está, senhora.
+
+1402
+01:49:36,417 --> 01:49:37,619
+Sua Majestade.
+
+1403
+01:49:39,205 --> 01:49:41,153
+Lembro-me de haver uma aposta,>>
+
+1404
+01:49:42,264 --> 01:49:46,055
+sobre se uma peça poderia mostrar a verdadeira natureza do amor.
+
+1405
+01:49:47,305 --> 01:49:49,229
+Penso que a perdeu hoje.
+
+1406
+01:49:54,770 --> 01:49:58,429
+És um rapaz esperto. Gostaste da peça?
+
+1407
+01:49:58,807 --> 01:50:01,527
+Gostei quando ela se suicidou, Sua Majestade.
+
+1408
+01:50:08,360 --> 01:50:09,761
+Mestre Shakespeare.
+
+1409
+01:50:13,263 --> 01:50:15,899
+Quando voltar a Greenwich, não venha disfarçado,>>
+
+1410
+01:50:17,305 --> 01:50:19,436
+e falaremos um pouco mais.
+
+1411
+01:50:36,847 --> 01:50:38,051
+Sua Majestade.
+
+1412
+01:50:41,087 --> 01:50:42,771
+Então, Lorde Wessex.
+
+1413
+01:50:43,481 --> 01:50:45,389
+Já perdeu a esposa?
+
+1414
+01:50:45,685 --> 01:50:47,444
+Realmente, não a encontro,>>
+
+1415
+01:50:47,709 --> 01:50:51,267
+e o meu navio parte esta tarde para o novo mundo.
+
+1416
+01:50:53,582 --> 01:50:55,050
+Como acabará?
+
+1417
+01:50:55,857 --> 01:50:57,919
+Como nas histórias de amor negado,>>
+
+1418
+01:50:58,561 --> 01:51:00,435
+com lágrimas e uma viagem.
+
+1419
+01:51:02,021 --> 01:51:03,768
+Aqueles que Deus uniu,>>
+
+1420
+01:51:03,769 --> 01:51:05,396
+nem eu posso separar.
+
+1421
+01:51:07,856 --> 01:51:08,953
+Senhor Kent.
+
+1422
+01:51:15,489 --> 01:51:19,426
+O Lorde Wessex, tal como previ, perdeu a sua mulher no teatro.
+
+1423
+01:51:21,234 --> 01:51:24,663
+Vá despedir-se e diga-lhe que venha.
+
+1424
+01:51:24,981 --> 01:51:26,760
+É hora de fazer contas.
+
+1425
+01:51:30,157 --> 01:51:33,073
+- De quanto era a aposta? - Cinquenta xelins.
+
+1426
+01:51:34,731 --> 01:51:35,826
+Libras.
+
+1427
+01:51:37,446 --> 01:51:41,267
+Dê-as ao senhor Kent. Dá-las-á a quem de direito.
+
+1428
+01:51:50,223 --> 01:51:53,806
+Diga ao Mestre Shakespeare que quero algo mais alegre,>>
+
+1429
+01:51:53,807 --> 01:51:55,314
+para a Noite de Reis.
+
+1430
+01:52:13,817 --> 01:52:15,532
+Demasiado tarde.
+
+1431
+01:52:25,823 --> 01:52:27,320
+Senhora Wessex.
+
+1432
+01:52:43,257 --> 01:52:45,269
+Não mais serás escravo.
+
+1433
+01:52:46,951 --> 01:52:48,645
+Cinquenta libras, Will,>>
+
+1434
+01:52:49,314 --> 01:52:51,088
+para o poeta do amor verdadeiro.
+
+1435
+01:52:52,842 --> 01:52:54,228
+Vou deixar o teatro.
+
+1436
+01:52:56,268 --> 01:52:58,061
+A cena é para os sonhadores.
+
+1437
+01:52:59,048 --> 01:53:00,946
+Vê o que o sonho nos reservou.
+
+1438
+01:53:02,654 --> 01:53:05,030
+Fomos nós que o fizemos.
+
+1439
+01:53:06,378 --> 01:53:10,591
+E se vivesse de novo, nada mudaria.
+
+1440
+01:53:11,450 --> 01:53:14,753
+Magoei-te e arrependo-me.
+
+1441
+01:53:15,617 --> 01:53:18,530
+Se pela minha mágoa deixares de escrever,>>
+
+1442
+01:53:19,574 --> 01:53:21,590
+então arrepender-me-ei mais ainda.
+
+1443
+01:53:27,235 --> 01:53:29,570
+A rainha encomendou uma comédia Will,>>
+
+1444
+01:53:31,053 --> 01:53:32,345
+para a Noite de Reis.
+
+1445
+01:53:32,346 --> 01:53:33,365
+Uma comédia.
+
+1446
+01:53:35,084 --> 01:53:36,899
+Quem será o meu herói?
+
+1447
+01:53:37,154 --> 01:53:40,306
+O mais triste infeliz do reino, a morrer de amor?
+
+1448
+01:53:42,851 --> 01:53:44,145
+É um começo.
+
+1449
+01:53:46,308 --> 01:53:50,781
+Que seja um duque, e a tua heroína...>>
+
+1450
+01:53:50,782 --> 01:53:53,912
+Vendida em casamento e a caminho da América.
+
+1451
+01:53:55,593 --> 01:53:57,077
+No mar, então.
+
+1452
+01:53:58,322 --> 01:54:00,435
+Vão para o novo mundo.
+
+1453
+01:54:00,436 --> 01:54:02,802
+Uma tempestade. Morrem todos.
+
+1454
+01:54:02,863 --> 01:54:04,223
+Ela acaba,>>
+
+1455
+01:54:05,097 --> 01:54:09,137
+numa vasta costa deserta.
+
+1456
+01:54:11,262 --> 01:54:12,571
+É levada ao duque,>>
+
+1457
+01:54:14,499 --> 01:54:15,649
+Orsino.
+
+1458
+01:54:16,626 --> 01:54:20,288
+Orsino! Bom nome.
+
+1459
+01:54:20,516 --> 01:54:25,741
+Mas temendo perder a virtude, veste-se de rapaz.
+
+1460
+01:54:26,429 --> 01:54:29,114
+E não pode declarar o seu amor.
+
+1461
+01:54:31,298 --> 01:54:32,845
+Mas tudo acaba bem.
+
+1462
+01:54:33,758 --> 01:54:35,093
+Como?
+
+1463
+01:54:36,718 --> 01:54:37,892
+Não sei.
+
+1464
+01:54:39,282 --> 01:54:40,946
+É um mistério.
+
+1465
+01:54:49,448 --> 01:54:51,433
+Para mim, nunca envelhecerás,>>
+
+1466
+01:54:52,147 --> 01:54:53,211
+nem desaparecerás,>>
+
+1467
+01:54:53,604 --> 01:54:54,618
+nem morrerás.
+
+1468
+01:54:56,823 --> 01:54:58,140
+Também tu não.
+
+1469
+01:55:00,419 --> 01:55:01,684
+Adeus, meu amor.
+
+1470
+01:55:03,754 --> 01:55:05,887
+Mil vezes adeus.
+
+1471
+01:55:11,316 --> 01:55:12,689
+Descreve-me bem.
+
+1472
+01:55:35,649 --> 01:55:38,807
+Noite de Reis>>
+
+1473
+01:55:45,201 --> 01:55:47,307
+A minha história começa no mar,>>
+
+1474
+01:55:48,790 --> 01:55:51,958
+uma perigosa viagem para uma terra desconhecida.
+
+1475
+01:55:53,241 --> 01:55:54,464
+Um naufrágio.
+
+1476
+01:55:58,425 --> 01:56:01,572
+As furiosas águas agitam-se.
+
+1477
+01:56:03,216 --> 01:56:06,692
+O bravo navio fica desfeito, despedaçado,>>
+
+1478
+01:56:09,333 --> 01:56:12,760
+e todas as pobres almas que nele vão,>>
+
+1479
+01:56:13,191 --> 01:56:14,456
+afogadas.
+
+1480
+01:56:18,326 --> 01:56:19,896
+Todas, salvo uma:>>
+
+1481
+01:56:21,636 --> 01:56:22,682
+uma dama,>>
+
+1482
+01:56:25,327 --> 01:56:27,422
+cuja alma é maior que o oceano,>>
+
+1483
+01:56:29,651 --> 01:56:33,658
+e o seu espírito, mais forte que o abraço do mar.
+
+1484
+01:56:35,904 --> 01:56:38,411
+Não perderá a vida na água,>>
+
+1485
+01:56:40,726 --> 01:56:45,249
+começará uma nova vida numa terra estranha.
+
+1486
+01:56:49,043 --> 01:56:50,822
+Será uma história de amor,>>
+
+1487
+01:56:55,653 --> 01:56:59,501
+pois ela será minha eterna heroína.
+
+1488
+01:57:02,811 --> 01:57:06,414
+E seu nome será Viola.
+
+1489
+01:57:06,440 --> 01:57:10,956
+Cena 1. O Litoral Viola:>>
+
+1490
+01:57:26,471 --> 01:57:29,772
+Subtitle Ripped By Queo @ iNSPiRE>>
+

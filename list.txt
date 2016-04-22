@@ -1,0 +1,12 @@
+abeautifulMind-EN.srt
+abeautifulMind-PT.srt
+alien-EN.srt
+alien-PT.srt
+avengers-EN.srt
+avengers-PT.srt
+batman-EN.srt
+batman-PT.srt
+citizen-EN.srt
+citizen-PT.srt
+dayAfter-EN.srt
+dayAfter-PT.srt
