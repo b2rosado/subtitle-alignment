@@ -1,6 +1,8 @@
 # java build files
 /bin
 *.class
+/build
+*.jar
 
 # project output folders
 results/*.txt

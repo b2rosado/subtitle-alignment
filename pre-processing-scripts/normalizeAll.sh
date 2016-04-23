@@ -1,3 +1,5 @@
+#!/bin/bash
+
 SUBTITLE_FILES=$(ls input);
 
 mkdir -p output/tmp;

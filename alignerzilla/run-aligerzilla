@@ -1,0 +1,10 @@
+#!/bin/bash
+
+# if JAR archive exists run Alignerzilla, create it otherwise
+if [ -f Alignerzilla.jar ]
+then
+	java -jar Alignerzilla.jar
+else
+	ant compile;
+	java -jar Alignerzilla.jar
+fi;
