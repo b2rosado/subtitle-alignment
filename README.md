@@ -41,4 +41,4 @@ If everything runs as expected, you should now have the aligned subtitles inside
 
 You can configure additional parameters editing `alignerzilla.config`.
 
-**Note:** the runtime of *Alignerzilla* depends on the used machine and how many subtitles you want to normalize. It might take a while for many subtitles.
+**Note:** the runtime of *Alignerzilla* depends on the used machine and how many subtitles you want to align. It might take a while for many subtitles.
