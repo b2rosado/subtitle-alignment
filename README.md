@@ -1,15 +1,16 @@
 # Alignerzilla - Subtitle Aligner
 
-This repository contains Alignerzilla -- a movie subtitle aligner -- and some additional tools that have been developed to use with it.
+This repository contains Alignerzilla - a movie subtitle aligner - and some additional tools that have been developed to use with it.
 
 This subtitle aligner was developed to obtain a Master Thesis in Information Systems and Computer Engineering.
 In this repository it is also available the dissertation that describes the work done, explaining all the decisions.
 
 **If you intend to use anything from this repository, please make a reference to this document.**
 
-This repository contains two different projects, that are expected to work together:
+This repository contains three different directories:
 * `pre-processing-scripts/` is used to remove noise and normalize the subtitle files, so that the aligner can use them.
 * `alignerzilla/` contains the actual subtitle aligner. Alignerzilla expects the input data to be pre-processed by the aforementioned scripts.
+* `dataset/` contains the subtitles (in raw state) and reference alignments we have used to evaluate the aligner.
 
 ## 1) How use *pre-processing scripts*
 The **pre-processing-scripts** require an environment with **Bash** and **Perl**.
