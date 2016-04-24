@@ -2,7 +2,7 @@
 
 This repository contains Alignerzilla - a movie subtitle aligner - and some additional tools that have been developed to use with it.
 
-This subtitle aligner was developed to obtain a Master Thesis in Information Systems and Computer Engineering.
+This subtitle aligner was developed to obtain a Master Degree in Information Systems and Computer Engineering.
 In this repository it is also available the dissertation that describes the work done, explaining all the decisions.
 
 **If you intend to use anything from this repository, please make a reference to this document.**
