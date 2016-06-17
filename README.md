@@ -7,6 +7,7 @@ In this repository it is also available the dissertation that describes the work
 
 **If you intend to use anything from this repository, please make a reference to this document.**
 BibTex:
+```
     @MastersThesis{LuisRosado_5_2016,
        author = "Lu{\'\i}s Carlos Cachapela Rosado",
        title = "Cinema at the service of Natural Language Processing",
@@ -14,6 +15,7 @@ BibTex:
        year = 2016,
        month = may
     }
+```
 
 This repository contains three different directories:
 * `pre-processing-scripts/` is used to remove noise and normalize the subtitle files, so that the aligner can use them.
