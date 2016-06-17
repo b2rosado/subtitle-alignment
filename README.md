@@ -6,6 +6,14 @@ This subtitle aligner was developed to obtain a Master Degree in Information Sys
 In this repository it is also available the dissertation that describes the work done, explaining all the decisions.
 
 **If you intend to use anything from this repository, please make a reference to this document.**
+BibTex:
+    @MastersThesis{LuisRosado_5_2016,
+       author = "Lu{\'\i}s Carlos Cachapela Rosado",
+       title = "Cinema at the service of Natural Language Processing",
+       school = "Instituto Superior T{\'e}cnico, Universidade de Lisboa",
+       year = 2016,
+       month = may
+    }
 
 This repository contains three different directories:
 * `pre-processing-scripts/` is used to remove noise and normalize the subtitle files, so that the aligner can use them.
@@ -16,7 +24,7 @@ This repository contains three different directories:
 The **pre-processing-scripts** require an environment with **Bash** and **Perl**.
 * First, navigate to `pre-processing-scripts/` directory;
 * Then, you should place the raw subtitle files that you want to pre-process inside the folder `input/`;
-* Finally, execute the following command: `$ sh normalizeAll.sh` or `$ ./normalizeAll.sh`.
+* Finally, execute the following command: `$ bash normalizeAll.sh` or `$ ./normalizeAll.sh`.
 
 If everything runs as expected, you should now have all the pre-processed subtitle files inside `output/` folder.
 
@@ -36,7 +44,7 @@ If everything runs as expected, you should now have all the pre-processed subtit
     * One subtitle file per line.
     * If you want to aligner every subtitle in `data/`you can simply use the following command:
     `$ ls data/ > list.txt`
-* Finally, execute one of the following commands: `$ sh run-alignerzilla.sh` or `$ ./run-alignerzilla.sh`.
+* Finally, execute one of the following commands: `$ bash run-alignerzilla.sh` or `$ ./run-alignerzilla.sh`.
 
 If everything runs as expected, you should now have the aligned subtitles inside `results/` folder.
 
