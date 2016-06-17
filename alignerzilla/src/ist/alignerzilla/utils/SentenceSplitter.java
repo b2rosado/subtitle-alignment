@@ -38,8 +38,9 @@ public class SentenceSplitter {
 		for(int i=0; i<text.length(); i++){
 			substring += text.charAt(i);
 			if(substring.matches(punctuationRegex) && !substring.matches(exceptionsRegex)){
-				//Reads trough ellipsis (...)
-				for(i++; i<text.length() && text.charAt(i) == '.'; i++){}	
+				for(i++; i<text.length() && text.charAt(i) == '.'; i++){
+					// Read trough ellipsis (...)
+				}	
 				sentences.add(text.substring(beginIndex, i));
 				beginIndex = i;
 			}
