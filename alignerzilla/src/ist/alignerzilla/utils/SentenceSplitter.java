@@ -7,9 +7,6 @@ import java.util.ArrayList;
  * an input text in sentences
  * */
 public class SentenceSplitter {
-	// Special punctuation cases that must be taken in account
-	// when splitting a text in sententeces (e.g. Mr. or St.)
-	// These cases are language dependent
 	private String specialCases;
 	
 	/**
@@ -42,7 +39,7 @@ public class SentenceSplitter {
 			substring += text.charAt(i);
 			if(substring.matches(punctuationRegex) && !substring.matches(exceptionsRegex)){
 				//Reads trough ellipsis (...)
-				for(i++;i<text.length() && text.charAt(i) == '.'; i++){}	
+				for(i++; i<text.length() && text.charAt(i) == '.'; i++){}	
 				sentences.add(text.substring(beginIndex, i));
 				beginIndex = i;
 			}
